@@ -36,7 +36,7 @@ export default function Home({ allPapers }) {
         <p>At IAC-Deep we work with and develop AI approaches to analyze and interpret astrophysical data, from solar physics to cosmology. </p>
       </section>
 <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>Papers</h2>
         <ul className={utilStyles.list}>
         {allPapers.response.docs.map(item => (
   	<li className={utilStyles.listItem} key={item.id}>
