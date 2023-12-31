@@ -12,7 +12,7 @@ const nextConfig = {
  
   // Optional: Change the output directory `out` -> `dist`
   // distDir: 'dist',
-  basePath: '/iacdeep-nextjs'
+  basePath: '/iacdeep_nextjs'
 }
  
 module.exports = nextConfig
