@@ -33,7 +33,8 @@ export default function Home({ allPapers }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>At IAC-Deep we work with and develop AI approaches to analyze and interpret astrophysical data, from solar physics to cosmology. </p>
+        <p>At IAC-Deep we work with and develop AI approaches to
+         analyze and interpret astrophysical data, from solar physics to cosmology. </p>
       </section>
 <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Papers</h2>
