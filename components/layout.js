@@ -4,14 +4,14 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'IAC deep';
-export const siteTitle = 'Next.js Sample Website';
+const name = 'IACDEEP';
+export const siteTitle = 'IACDEEP';
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="images/logo.png" />
+        <link rel="icon" href="images/logo_transparent.png" />
         <meta
           name="description"
           content="IAC DEEP webpage"
