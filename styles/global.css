@@ -1,13 +1,17 @@
 html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
-    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  line-height: 1.6;
-  font-size: 18px;
-}
 
+/* styles/globals.css */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  line-height: 1.6;
+  background-image: url('/images/background.jpg'); /* Update the path to your image */
+  background-size: contain;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-color: rgba(255, 255, 255, 0.2); /* Transparent white background with alpha */
+  overflow-x: hidden; /* Prevent horizontal scrollbar */
+}
 * {
   box-sizing: border-box;
 }
@@ -19,10 +23,5 @@ a {
 
 a:hover {
   text-decoration: underline;
-}
-
-img {
-  max-width: 100%;
-  display: block;
 }
 
