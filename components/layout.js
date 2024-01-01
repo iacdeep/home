@@ -11,7 +11,7 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/images/logo.png" />
+        <link rel="icon" href="images/logo.png" />
         <meta
           name="description"
           content="IAC DEEP webpage"
