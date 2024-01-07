@@ -4,6 +4,8 @@ import Papers from './papers';
 import Members from './members';
 import Meetings from './meetings';
 
+import ScrollToTop from '../components/ScrollToTop';
+import Navbar from '../components/Navbar';
 import { getPapers } from '../lib/papers';
 import { Link as ScrollLink } from 'react-scroll';
 import Layout, { siteTitle } from '../components/layout';
@@ -11,11 +13,10 @@ import Head from 'next/head';
 import utilStyles from '../styles/utils.module.css';
 import Image from 'next/image';
 import { authors } from '../utils/constants';
-
+import { motion } from 'framer-motion';
 
 export async function getStaticProps() {
   const allPapers = await getPapers();
-  console.log('================', allPapers)
   return {
     props: {
 	    allPapers,
@@ -25,78 +26,49 @@ export async function getStaticProps() {
 
 
 export default function Home({ allPapers }) {
+
+  const links = [
+    { text: 'IACDEEP - Machine learning group at IAC', to: '' },
+    { text: 'ABOUT', to: 'about' },
+    { text: 'TEAM MEMBERS', to: 'members' },
+    { text: 'MEETINGS', to: 'meetings' },
+    { text: 'FEATURED RESEARCH', to: 'papers' },
+  ];
+
   return (
     <div>
-      <nav>
-        <ul>
-            <li>
-             <ScrollLink
-              activeClass="active"
-              to="about"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
-              className="nav-link"
-              style={{ color: 'white', fontWeight: 'bold'}}
-            >
-              ABOUT
-            </ScrollLink>
-          </li>
-          <li>
-            <ScrollLink
-              activeClass="active"
-              to="members"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
-              className="nav-link"
-              style={{ color: 'white', fontWeight: 'bold' }}
-            >
-              TEAM MEMBERS
-            </ScrollLink>
-          </li>
-          <li>
-            <ScrollLink
-              activeClass="active"
-              to="meetings"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
-              className="nav-link"
-              style={{ color: 'white', fontWeight: 'bold' }}
-            >
-              MEETINGS
-            </ScrollLink>
-          </li>
-          <li>
-            <ScrollLink
-              activeClass="active"
-              to="papers"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
-              className="nav-link"
-              style={{ color: 'white', fontWeight: 'bold' }}
-            >
-              FEATURED RESEARCH
-            </ScrollLink>
-            </li>
-        </ul>
-      </nav>
+        <div>
+          <Navbar links={links} />
 
-      <div id="about"> {/* Add the id attribute here */}
+          <div>
+            {/* Your content goes here */}
+          </div>
+        </div>
+
+      <div id="title"> {/* Add the id attribute here */}
        <Layout home>
         <Head>
           <title>{siteTitle}</title>
         </Head>
-        {/* Add the Image component here */}
+
         <section className={utilStyles.headingMd}>
-        <h1>IACDEEP - Machine Learning Group at IAC</h1>
+        <motion.div initial="hidden" animate="visible" variants={{
+          hidden: {
+            scale: .8,
+            opacity: 0
+          },
+          visible: {
+            scale: 1,
+            opacity: 1,
+            transition: {
+              delay: 0.4
+            }
+          },
+        }}>
+        <h1>IACDEEP - <br/> Machine Learning Group at IAC</h1>
+        </motion.div>
         </section>
+
        </Layout>
       </div>
 
@@ -105,32 +77,14 @@ export default function Home({ allPapers }) {
       <Meetings />
       <Papers allPapers={allPapers} />
 
-      <style jsx>{`
-        nav {
-          position: relative;
-          top: 0;
-          left: 0;
-          width: 100%;
-          background: rgba(255, 255, 255, 0.0); /* Transparent white background */
-          padding: 1rem;
-          z-index: 1000;
-        }
+      <ScrollToTop />
 
+      <style jsx>{`
         ul {
           list-style: none;
           padding: 0;
           display: flex;
           justify-content: center;
-        }
-
-        li {
-          margin: 0 1rem;
-        }
-
-        .nav-link {
-          color: white !important;
-          text-decoration: none;
-          font-weight: bold;
         }
 
         a {

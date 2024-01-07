@@ -72,3 +72,24 @@
   color: #666;
 }
 
+.scrollToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 50px;
+  background-color: black; /* Set the background color to black */
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.5em;
+  transition: background-color 0.3s ease;
+}
+
+.scrollToTop.visible {
+  background-color: #333; /* Darker color when visible */
+}
+
+.scrollToTop:hover {
+  background-color: #333; /* Darker color on hover */
+  transform: scale(1.1);
+}
