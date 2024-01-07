@@ -123,6 +123,27 @@ const Navbar = ({ links }) => {
         .nav-link {
           cursor: pointer;
         }
+
+        @media (max-width: 768px) {
+          .navbar {
+            flex-direction: column;
+            align-items: center;
+            margin-left: 10px;
+            margin-right: 10px;
+          }
+
+          .left-nav,
+          .right-nav {
+            flex-direction: column;
+            align-items: center;
+            width: 100%; // Set width to 100% for proper alignment
+            text-align: center; // Center the text on mobile
+          }
+
+          .nav-link {
+            margin-bottom: 10px;
+          }
+        }
       `}</style>
     </nav>
   );

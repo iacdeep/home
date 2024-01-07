@@ -37,39 +37,30 @@ export default function Home({ allPapers }) {
 
   return (
     <div>
-        <div>
-          <Navbar links={links} />
+      <Head>
+        <title>{siteTitle}</title>
+      </Head>
 
-          <div>
-            {/* Your content goes here */}
-          </div>
-        </div>
+      <Navbar links={links} />
 
-      <div id="title"> {/* Add the id attribute here */}
-       <Layout home>
-        <Head>
-          <title>{siteTitle}</title>
-        </Head>
-
-        <section className={utilStyles.headingMd}>
-        <motion.div initial="hidden" animate="visible" variants={{
-          hidden: {
-            scale: .8,
-            opacity: 0
-          },
-          visible: {
-            scale: 1,
-            opacity: 1,
-            transition: {
-              delay: 0.4
-            }
-          },
-        }}>
-        <h1>IACDEEP - <br/> Machine Learning Group at IAC</h1>
-        </motion.div>
-        </section>
-
-       </Layout>
+      <div id="title" className="background-container">
+        <Layout home>
+          <motion.div initial="hidden" animate="visible" variants={{
+            hidden: {
+              scale: 0.8,
+              opacity: 0
+            },
+            visible: {
+              scale: 1,
+              opacity: 1,
+              transition: {
+                delay: 0.4
+              }
+            },
+          }}>
+            <h1>IACDEEP - <br/> Machine Learning Group at IAC</h1>
+          </motion.div>
+        </Layout>
       </div>
 
       <About />
@@ -80,6 +71,26 @@ export default function Home({ allPapers }) {
       <ScrollToTop />
 
       <style jsx>{`
+        .background-container {
+          background-image: url('../public/images/background.jpg'); /* Update the path to your image */
+          background-size: cover;
+          background-position: top;
+          background-repeat: no-repeat;
+          display: flex;
+          color: white;
+          flex-direction: column;
+          justify-content: flex-start; /* Change to move content higher up */
+          align-items: center;
+          text-align: center;
+          max-width: 1000px;
+          margin: auto;
+          padding: 20px;
+          //box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+          border-radius: 100px;
+          font-size: 2.5rem;
+          margin-bottom: 0; /* Reduce or remove margin-bottom */
+        }
+
         ul {
           list-style: none;
           padding: 0;
@@ -92,9 +103,11 @@ export default function Home({ allPapers }) {
           text-decoration: none;
         }
 
-        section {
-          padding: 2rem;
-          margin-top: 80px; /* Adjust based on the navbar height */
+        /* Media Query for Small Screens (e.g., Mobile) */
+        @media only screen and (max-width: 800px) {
+          .background-container {
+            font-size: 1.8rem;
+          }
         }
       `}</style>
     </div>
