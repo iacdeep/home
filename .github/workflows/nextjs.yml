@@ -81,6 +81,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
+      - name: Debug environment
+        run: echo "API_KEY=${{ secrets.API_KEY }}"
 
   # Deployment job
   deploy:
