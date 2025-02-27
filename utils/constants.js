@@ -13,7 +13,7 @@ export const membersData = [
     { name: 'Elena García Broock', role: 'Grad Student', researchArea: 'Solar Physics', author: 'Broock, E. G.' },
     { name: 'Eduardo Albuquerque Hartmann', role: 'Grad Student', researchArea: 'Galaxy Evolution', author: 'Hartmann, E. A.' },
     { name: 'Marina Dunn', role: 'Grad Student', researchArea: 'Galaxy Evolution', author: 'Dunn, M.' },
-    { name: 'Jorge M. Sarrato Alós', role: 'Grad Student', researchArea: 'Galaxy Evolution', author: 'Sarrato, J. M.' }
+    { name: 'Jorge M. Sarrato Alós', role: 'Grad Student', researchArea: 'Galaxy Evolution', author: 'Sarrato, J. M.' },
     { name: 'Andrés Vicente Arévalo', role: 'PostDoc', researchArea: 'Solar Physics', author: 'Arévalo, A. V.' }
 
 ]
