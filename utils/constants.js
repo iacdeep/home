@@ -8,6 +8,8 @@ export const membersData = [
     { name: 'Arianna Di Cintio', role: 'Faculty', researchArea: 'Galaxy Evolution', author: 'Di Cinto, A.' },
     { name: 'Tobías Felipe García', role: 'PostDoc', researchArea: 'Solar Physics', author: 'García, T. F.' },
     { name: 'Malgorzata Siudek', role: 'PostDoc', researchArea: 'Galaxy Evolution', author: 'Siudek, M.' },
+    { name: 'Andrés Vicente Arévalo', role: 'PostDoc', researchArea: 'Solar Physics', author: 'Arévalo, A. V.' },
+    { name: 'Junais', role: 'PostDoc', researchArea: 'Galaxy Evolution', author: 'Junais' },
     { name: 'Eirini Angeloudi', role: 'Grad Student', researchArea: 'Galaxy Evolution', author: 'Angeloudi, E.' },
     { name: 'Patricia Iglesias-Navarro', role: 'Grad Student', researchArea: 'Galaxy Evolution', author: 'Iglesias-Navarro, P.' },
     { name: 'Elena García Broock', role: 'Grad Student', researchArea: 'Solar Physics', author: 'Broock, E. G.' },
