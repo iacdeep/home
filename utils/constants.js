@@ -5,9 +5,9 @@ export const membersData = [
     { name: 'Jesús Falcón-Barroso', role: 'Faculty', researchArea: 'Galaxy Evolution', author: 'Falcon-Barroso, J.' },
     { name: 'Ignacio Ferreras', role: 'Faculty', researchArea: 'Galaxy Evolution', author: 'Ferreras, I.'},
     { name: 'Christopher Brook', role: 'Faculty', researchArea: 'Galaxy Evolution', author: 'Brook, C.' },
-    { name: 'Arianna Di Cintio', role: 'Faculty', researchArea: 'Galaxy Evolution', author: 'Di Cinto, A.' }
-    { name: 'Tobías Felipe García', role: 'PostDoc', researchArea: 'Solar Physics', author: 'García, T. F.' }
-    { name: 'Malgorzata Siudek', role: 'PostDoc', researchArea: 'Galaxy Evolution', author: 'Siudek, M.' }
+    { name: 'Arianna Di Cintio', role: 'Faculty', researchArea: 'Galaxy Evolution', author: 'Di Cinto, A.' },
+    { name: 'Tobías Felipe García', role: 'PostDoc', researchArea: 'Solar Physics', author: 'García, T. F.' },
+    { name: 'Malgorzata Siudek', role: 'PostDoc', researchArea: 'Galaxy Evolution', author: 'Siudek, M.' },
     { name: 'Eirini Angeloudi', role: 'Grad Student', researchArea: 'Galaxy Evolution', author: 'Angeloudi, E.' },
     { name: 'Patricia Iglesias-Navarro', role: 'Grad Student', researchArea: 'Galaxy Evolution', author: 'Iglesias-Navarro, P.' },
     { name: 'Elena García Broock', role: 'Grad Student', researchArea: 'Solar Physics', author: 'Broock, E. G.' },
