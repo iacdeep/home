@@ -1,0 +1,898 @@
+{
+  "checked": "2026-09-16",
+  "sources": {
+    "arxiv": "complete",
+    "ads": "not configured"
+  },
+  "uniqueRecords": 1738,
+  "eligibleAuthorRecords": 66,
+  "selectedPapers": 49,
+  "screened": [
+    {
+      "id": "2609.01400",
+      "title": "Semiresolved Stellar Populations as Distance Indicators",
+      "url": "https://arxiv.org/abs/2609.01400",
+      "included": true,
+      "reason": "Neural posterior estimation turns partially resolved stellar populations into distance measurements.",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2607.07329",
+      "title": "Beyond traditional emission-line diagnostics: using autoencoders to uncover active galactic nuclei in DESI spectra",
+      "url": "https://arxiv.org/abs/2607.07329",
+      "included": true,
+      "reason": "An autoencoder searches DESI spectra for active galactic nuclei beyond conventional emission-line diagnostics.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2607.06844",
+      "title": "First detection of ultra-fast outflows in a quiescent galaxy",
+      "url": "https://arxiv.org/abs/2607.06844",
+      "included": true,
+      "reason": "Bayesian spectral modelling with neural-assisted nested sampling tests evidence for an ultra-fast outflow in a quiescent galaxy.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2607.02086",
+      "title": "Λ hyperons in core-collapse supernovae: Equilibration and neutrino opacities",
+      "url": "https://arxiv.org/abs/2607.02086",
+      "included": false,
+      "reason": "Hyperon equilibration and neutrino-opacity calculations; no qualifying AI or advanced inference method established.",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2606.13004",
+      "title": "3DSTokesFlow: simulation-based inference for 3D Stokes profiles using flow matching",
+      "url": "https://arxiv.org/abs/2606.13004",
+      "included": true,
+      "reason": "Flow matching estimates atmospheric parameters from three-dimensional Stokes profiles.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2606.04830",
+      "title": "Cosmic variance or galaxy bias? Disentangling finite-volume and galaxy formation effects in cosmological analysis",
+      "url": "https://arxiv.org/abs/2606.04830",
+      "included": false,
+      "reason": "Forward treatment of cosmic variance and galaxy bias; no explicit advanced inverse method established.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2605.11980",
+      "title": "Marginal multi-object multi-frame blind deconvolution",
+      "url": "https://arxiv.org/abs/2605.11980",
+      "included": true,
+      "reason": "Marginalizing over nuisance parameters improves multi-object, multi-frame restoration of astronomical images.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2605.09543",
+      "title": "Accelerating 3D Non-LTE Synthesis with Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2605.09543",
+      "included": true,
+      "reason": "Graph neural networks accelerate three-dimensional non-LTE spectral synthesis.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2604.11481",
+      "title": "Emergence of Complex Web Structures",
+      "url": "https://arxiv.org/abs/2604.11481",
+      "included": false,
+      "reason": "Theoretical cosmic-web formation framework; no implemented AI or advanced inference method established.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2603.15834",
+      "title": "Spectral Hierarchy of the Cosmic Web",
+      "url": "https://arxiv.org/abs/2603.15834",
+      "included": false,
+      "reason": "Forward perturbative cosmic-web modelling; inference motivation alone does not meet the selection rule.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2603.13106",
+      "title": "Ridged Lagrangian Perturbation Theory (RLPT)",
+      "url": "https://arxiv.org/abs/2603.13106",
+      "included": false,
+      "reason": "Forward Lagrangian dynamics; not an application of AI or an inverse method.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2512.15886",
+      "title": "Cored galaxies in cuspy dark matter halos",
+      "url": "https://arxiv.org/abs/2512.15886",
+      "included": true,
+      "reason": "Likelihood-based fits and model comparison test whether cuspy dark matter halos can reproduce apparently cored galaxies.",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2512.04362",
+      "title": "ELG×LRG distribution through dark matter halo dynamics",
+      "url": "https://arxiv.org/abs/2512.04362",
+      "included": true,
+      "reason": "A two-level Bayesian framework connects emission-line and luminous red galaxies to dark matter halo dynamics.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2512.02629",
+      "title": "Silicate emission in a type-2 quasar: JWST/MIRI constraints on torus geometry and radiative feedback",
+      "url": "https://arxiv.org/abs/2512.02629",
+      "included": true,
+      "reason": "Bayesian torus modelling uses JWST silicate emission to constrain the geometry of an obscured quasar.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        },
+        {
+          "id": "carlos-westendorp",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2511.15275",
+      "title": "Changing-look Active Galactic Nuclei from the Dark Energy Spectroscopic Instrument. IV. Broad Emission Line Evolution Sequence Among Hα, Mg II, and Hβ",
+      "url": "https://arxiv.org/abs/2511.15275",
+      "included": false,
+      "reason": "Spectral measurements and ordinary regression with bootstrap errors; no AI or advanced inverse method established.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2509.15890",
+      "title": "Fast and accurate Gaia-unWISE quasar mock catalogs from LPT and Eulerian bias",
+      "url": "https://arxiv.org/abs/2509.15890",
+      "included": false,
+      "reason": "Fast forward mock generation; no qualifying AI or advanced inference method established.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2509.03590",
+      "title": "Fueling, Evolution, and Diversity of AGN in Dwarf Galaxies: Insights from Star Formation and Black Hole Scaling Relations",
+      "url": "https://arxiv.org/abs/2509.03590",
+      "included": false,
+      "reason": "Observational scaling-relation analysis using existing physical-property estimates; no qualifying new inference procedure established.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2508.00725",
+      "title": "The SN 1987A Cooling Bound on Dark Matter Absorption in Electron Targets",
+      "url": "https://arxiv.org/abs/2508.00725",
+      "included": false,
+      "reason": "Particle-physics cooling-bound calculation; no qualifying AI or advanced inference procedure established.",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2507.00594",
+      "title": "Neural translation for Stokes inversion and synthesis",
+      "url": "https://arxiv.org/abs/2507.00594",
+      "included": true,
+      "reason": "A neural translation model connects Stokes spectra and atmospheric structure for both inversion and synthesis.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2506.09143",
+      "title": "Beyond Traditional Diagnostics: Identifying Active Galactic Nuclei with Spectral Energy Distribution Fitting in DESI Data",
+      "url": "https://arxiv.org/abs/2506.09143",
+      "included": true,
+      "reason": "CIGALE spectral energy distribution modelling identifies AGN in DESI data and compares them with traditional selections.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2506.04336",
+      "title": "Simulation-based inference of galaxy properties from JWST pixels",
+      "url": "https://arxiv.org/abs/2506.04336",
+      "included": true,
+      "reason": "Neural inference estimates resolved galaxy properties directly from JWST pixels.",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2506.03969",
+      "title": "Differentiable Fuzzy Cosmic-Web for Field Level Inference",
+      "url": "https://arxiv.org/abs/2506.03969",
+      "included": true,
+      "reason": "A differentiable cosmic-web description supports gradient-based inference of large-scale structure.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2505.24278",
+      "title": "Chromospheric velocities in an M3.2 flare using He I 1083.0 nm and Ca II 854.2 nm",
+      "url": "https://arxiv.org/abs/2505.24278",
+      "included": true,
+      "reason": "Inversions of helium and calcium spectra recover chromospheric velocities during a solar flare.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2505.10639",
+      "title": "torchmfbd: a flexible multi-object multi-frame blind deconvolution code",
+      "url": "https://arxiv.org/abs/2505.10639",
+      "included": true,
+      "reason": "A flexible image-restoration framework estimates objects and atmospheric aberrations through maximum-a-posteriori optimization.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2503.17323",
+      "title": "Flavor phenomenology of light dark sectors",
+      "url": "https://arxiv.org/abs/2503.17323",
+      "included": false,
+      "reason": "Particle-physics phenomenology review; no qualifying AI or inference implementation established.",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2503.15312",
+      "title": "Euclid Quick Data Release (Q1) Exploring galaxy properties with a multi-modal foundation model",
+      "url": "https://arxiv.org/abs/2503.15312",
+      "included": true,
+      "reason": "A multimodal foundation model extracts physical information from Euclid galaxy observations.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2503.15311",
+      "title": "Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at z<1",
+      "url": "https://arxiv.org/abs/2503.15311",
+      "included": true,
+      "reason": "Deep-learning morphology measurements characterize the fraction of barred galaxies in Euclid Q1.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2503.03742",
+      "title": "MaNGA AGN dwarf galaxies (MAD). III. The role of mergers and environment in active galactic nucleus activity in dwarf galaxies",
+      "url": "https://arxiv.org/abs/2503.03742",
+      "included": true,
+      "reason": "CIGALE fits correct stellar masses and pair mass ratios when testing mergers as triggers of dwarf-galaxy AGN.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2503.03670",
+      "title": "Study of an active region prominence using spectropolarimetric data in the He I D3 multiplet",
+      "url": "https://arxiv.org/abs/2503.03670",
+      "included": true,
+      "reason": "Helium-line spectropolarimetric inversions probe the magnetic structure of an active-region prominence.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2501.06050",
+      "title": "ZF-UDS-7329: A relic galaxy in the early Universe",
+      "url": "https://arxiv.org/abs/2501.06050",
+      "included": true,
+      "reason": "Full-spectrum stellar-population fitting and Monte Carlo uncertainties reconstruct the formation history of a high-redshift relic galaxy.",
+      "matches": [
+        {
+          "id": "eduardo-hartmann",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2411.19723",
+      "title": "A statistical study of lopsided galaxies using random forest",
+      "url": "https://arxiv.org/abs/2411.19723",
+      "included": true,
+      "reason": "Random forests identify which galaxy properties are associated with lopsided structure.",
+      "matches": [
+        {
+          "id": "valentina-fontirroig-rojas",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2411.12397",
+      "title": "Non-Local Thermodynamic Equilibrium inversions of the Si I 10827 A spectral line",
+      "url": "https://arxiv.org/abs/2411.12397",
+      "included": true,
+      "reason": "Non-LTE inversions recover solar atmospheric information from the silicon 10827 Å line.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2411.01949",
+      "title": "The first identification of Lyman α Changing-look Quasars at high-redshift in DESI",
+      "url": "https://arxiv.org/abs/2411.01949",
+      "included": false,
+      "reason": "Emission-line decomposition and changing-look classification; no advanced inference procedure established.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2409.19066",
+      "title": "Value Added Catalog of physical properties of more than 1.3 million galaxies from the DESI Survey",
+      "url": "https://arxiv.org/abs/2409.19066",
+      "included": true,
+      "reason": "Spectral energy distribution fitting estimates physical properties for more than 1.3 million DESI galaxies.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2409.05156",
+      "title": "Exploring spectropolarimetric inversions using neural fields. Solar chromospheric magnetic field under the weak-field approximation",
+      "url": "https://arxiv.org/abs/2409.05156",
+      "included": true,
+      "reason": "Neural fields regularize spectropolarimetric inversions of the solar chromospheric magnetic field.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2408.07645",
+      "title": "Properties of sunspot light bridges on a geometric height scale",
+      "url": "https://arxiv.org/abs/2408.07645",
+      "included": true,
+      "reason": "Spectral inversions reconstruct the atmospheric properties of sunspot light bridges on a geometric height scale.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2408.01406",
+      "title": "Hyperons during proto-neutron star deleptonization and the emission of dark flavoured particles",
+      "url": "https://arxiv.org/abs/2408.01406",
+      "included": false,
+      "reason": "Forward supernova and particle-emission modelling; no qualifying inference implementation established.",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2408.00939",
+      "title": "New constraints on the central mass contents of Omega Centauri from combined stellar kinematics and pulsar timing",
+      "url": "https://arxiv.org/abs/2408.00939",
+      "included": true,
+      "reason": "Nested sampling combines stellar motions and pulsar timing to constrain the central mass components of Omega Centauri.",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2407.03918",
+      "title": "The negative BAO shift in the Lyα forest from cosmological simulations",
+      "url": "https://arxiv.org/abs/2407.03918",
+      "included": true,
+      "reason": "Markov-chain Monte Carlo fits quantify the baryon acoustic oscillation shift in simulated Lyman-alpha forests.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2406.02387",
+      "title": "A fast neural emulator for interstellar chemistry",
+      "url": "https://arxiv.org/abs/2406.02387",
+      "included": true,
+      "reason": "A neural emulator accelerates interstellar chemical calculations for physical modelling and inference.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        },
+        {
+          "id": "carlos-westendorp",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2405.20385",
+      "title": "The PAU Survey: galaxy stellar population properties estimates with narrowband data",
+      "url": "https://arxiv.org/abs/2405.20385",
+      "included": true,
+      "reason": "CIGALE and Prospector infer galaxy properties from PAU narrow-band photometry and assess model-dependent uncertainties.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2405.10319",
+      "title": "Fast simulation mapping: from standard to modified gravity cosmologies using the bias assignment method",
+      "url": "https://arxiv.org/abs/2405.10319",
+      "included": true,
+      "reason": "A calibrated bias-assignment method maps standard cosmological simulations into modified-gravity tracer distributions.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2405.09864",
+      "title": "Solar multi-object multi-frame blind deconvolution with a spatially variant convolution neural emulator",
+      "url": "https://arxiv.org/abs/2405.09864",
+      "included": true,
+      "reason": "A neural emulator accelerates solar image restoration with spatially varying atmospheric degradation.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2404.14103",
+      "title": "The quiescent population at 0.5≤ z ≤ 0.9: Environmental impact on the mass-size relation",
+      "url": "https://arxiv.org/abs/2404.14103",
+      "included": false,
+      "reason": "Mass-size and environment analysis using catalogue properties and standard profile fits; no qualifying advanced method established.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2404.09958",
+      "title": "From VIPERS to SDSS: Unveiling galaxy spectra evolution over 9 Gyr through unsupervised machine-learning",
+      "url": "https://arxiv.org/abs/2404.09958",
+      "included": true,
+      "reason": "Unsupervised spectral classification compares galaxy populations across nine billion years of evolution.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2404.02959",
+      "title": "Probing star formation rates and histories in AGN and non-AGN galaxies across diverse cosmic environments and extensive X-ray luminosity ranges",
+      "url": "https://arxiv.org/abs/2404.02959",
+      "included": true,
+      "reason": "Likelihood-weighted CIGALE estimates compare star formation in AGN hosts and inactive galaxies across environments.",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2404.02604",
+      "title": "NLTE modelling of water-rich exoplanet atmospheres. Cooling and heating rates",
+      "url": "https://arxiv.org/abs/2404.02604",
+      "included": false,
+      "reason": "Forward non-LTE radiative modelling; not an inverse or learning method.",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2403.19337",
+      "title": "The Hierarchical Cosmic Web and Assembly Bias",
+      "url": "https://arxiv.org/abs/2403.19337",
+      "included": false,
+      "reason": "Forward hierarchical cosmic-web model motivated by future inference; no implemented inference procedure established.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2402.17581",
+      "title": "CosmoMIA: Cosmic Web-based redshift space halo distribution",
+      "url": "https://arxiv.org/abs/2402.17581",
+      "included": false,
+      "reason": "Forward mock generation and sub-grid modelling; no qualifying inverse or learning method established.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2309.00612",
+      "title": "Bayesian deep learning for cosmic volumes with modified gravity",
+      "url": "https://arxiv.org/abs/2309.00612",
+      "included": true,
+      "reason": "Bayesian neural networks distinguish modified-gravity cosmologies from cosmic density volumes while quantifying uncertainty.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2305.10428",
+      "title": "Field-level Lyman-alpha forest modelling in redshift space via augmented non-local Fluctuating Gunn-Peterson Approximation",
+      "url": "https://arxiv.org/abs/2305.10428",
+      "included": false,
+      "reason": "Calibrated forward Lyman-alpha model; no qualifying AI or advanced posterior inference method established.",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2606.30750",
+      "title": "A Pixel-by-Pixel Path to Population III Discovery with JWST",
+      "url": "https://arxiv.org/abs/2606.30750",
+      "included": true,
+      "reason": "Pixel-level inference searches JWST images for signatures of Population III stars.",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2602.09670",
+      "title": "Talking with the Latents -- how to convert your LLM into an astronomer",
+      "url": "https://arxiv.org/abs/2602.09670",
+      "included": true,
+      "reason": "A latent representation connects astronomical data to a language model for interpreting galaxy properties.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2509.25340",
+      "title": "The spatially-resolved effect of mergers on the stellar mass assembly of MaNGA galaxies",
+      "url": "https://arxiv.org/abs/2509.25340",
+      "included": true,
+      "reason": "Diffusion-based inference maps how mergers contribute to the spatial distribution of stellar mass in MaNGA galaxies.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2503.15310",
+      "title": "Euclid Quick Data Release (Q1): First visual morphology catalogue",
+      "url": "https://arxiv.org/abs/2503.15310",
+      "included": true,
+      "reason": "A deep-learning pipeline produces the first visual morphology catalogue for Euclid Q1.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2503.07717",
+      "title": "Galaxy mass profiles with convolutional neural networks",
+      "url": "https://arxiv.org/abs/2503.07717",
+      "included": true,
+      "reason": "Convolutional networks recover galaxy mass profiles and quantify uncertainty from simulated observations.",
+      "matches": [
+        {
+          "id": "jorge-sarrato-alos",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2502.17568",
+      "title": "Cosmology with One Galaxy: Auto-Encoding the Galaxy Properties Manifold",
+      "url": "https://arxiv.org/abs/2502.17568",
+      "included": true,
+      "reason": "An autoencoder explores the galaxy-property manifold and the cosmological information encoded in individual galaxies.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2502.03532",
+      "title": "COSMOS-Web: The emergence of the Hubble Sequence",
+      "url": "https://arxiv.org/abs/2502.03532",
+      "included": true,
+      "reason": "Deep-learning morphology measurements trace the emergence of the Hubble sequence in COSMOS-Web.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2411.19158",
+      "title": "Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions",
+      "url": "https://arxiv.org/abs/2411.19158",
+      "included": true,
+      "reason": "Diffusion priors support Bayesian image deconvolution and reveal which reconstructed features are driven by the prior.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2410.24069",
+      "title": "Simulation-based inference of the 2D ex-situ stellar mass fraction distribution of galaxies using variational autoencoders",
+      "url": "https://arxiv.org/abs/2410.24069",
+      "included": true,
+      "reason": "Variational autoencoders infer two-dimensional maps of stellar mass acquired through galaxy mergers.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2407.00166",
+      "title": "Constraints on the in-situ and ex-situ stellar masses in nearby galaxies with Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2407.00166",
+      "included": true,
+      "reason": "AI estimates how much stellar mass nearby galaxies formed internally and acquired through mergers.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2406.18661",
+      "title": "Deriving the star formation histories of galaxies from spectra with simulation-based inference",
+      "url": "https://arxiv.org/abs/2406.18661",
+      "included": true,
+      "reason": "Simulation-based inference reconstructs galaxy star-formation histories from spectra with posterior uncertainties.",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "2401.09632",
+      "title": "A post-merger enhancement only in star-forming Type 2 Seyfert galaxies: the deep learning view",
+      "url": "https://arxiv.org/abs/2401.09632",
+      "included": true,
+      "reason": "Deep-learning merger identification tests the connection between galaxy interactions and Seyfert activity.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2310.15232",
+      "title": "Galaxies Going Bananas: Inferring the 3D Geometry of High-Redshift Galaxies with JWST-CEERS",
+      "url": "https://arxiv.org/abs/2310.15232",
+      "included": true,
+      "reason": "Bayesian geometric inference reconstructs the three-dimensional shapes of high-redshift galaxies from JWST observations.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "id": "2305.02478",
+      "title": "Galaxy Morphology from z≈6 through the eyes of JWST",
+      "url": "https://arxiv.org/abs/2305.02478",
+      "included": true,
+      "reason": "Deep-learning morphology classification follows galaxy structure to redshift six with JWST.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "id": "2302.07277",
+      "title": "On the nature of disks at high redshift seen by JWST/CEERS with contrastive learning and cosmological simulations",
+      "url": "https://arxiv.org/abs/2302.07277",
+      "included": true,
+      "reason": "Contrastive learning compares high-redshift JWST galaxies with cosmological simulations to investigate disk structure.",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ]
+    }
+  ]
+}

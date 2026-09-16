@@ -70,7 +70,7 @@ export default function Home({ allPapers }) {
       <About />
       <Members />
       <Meetings />
-      <Papers allPapers={allPapers} />
+      <Papers allPapers={allPapers} featured />
 
       <ScrollToTop />
 

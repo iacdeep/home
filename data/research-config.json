@@ -1,0 +1,117 @@
+{
+  "since": "2024-01-01",
+  "preprintLookback": "2022-01-01",
+  "scheduleAnchor": "2026-09-16",
+  "members": [
+    {
+      "id": "marc-huertas-company",
+      "aliases": [
+        "M Huertas Company",
+        "Marc Huertas Company"
+      ]
+    },
+    {
+      "id": "andres-asensio-ramos",
+      "aliases": [
+        "A Asensio Ramos",
+        "Andres Asensio Ramos"
+      ]
+    },
+    {
+      "id": "francisco-kitaura",
+      "aliases": [
+        "F S Kitaura",
+        "Francisco Shu Kitaura",
+        "Francisco Kitaura"
+      ]
+    },
+    {
+      "id": "jorge-camalich",
+      "aliases": [
+        "J Martin Camalich",
+        "Jorge Martin Camalich",
+        "J Camalich",
+        "Jorge Camalich"
+      ]
+    },
+    {
+      "id": "carlos-westendorp",
+      "aliases": [
+        "C Westendorp Plaza",
+        "Carlos Westendorp Plaza",
+        "C Westendorp",
+        "Carlos Westendorp",
+        "C Westerdorp Plaza"
+      ]
+    },
+    {
+      "id": "patricia-iglesias-navarro",
+      "aliases": [
+        "P Iglesias Navarro",
+        "Patricia Iglesias Navarro"
+      ]
+    },
+    {
+      "id": "gosia-siudek",
+      "aliases": [
+        "M Siudek",
+        "Malgorzata Siudek",
+        "Gosia Siudek"
+      ]
+    },
+    {
+      "id": "eduardo-hartmann",
+      "aliases": [
+        "E A Hartmann",
+        "Eduardo A Hartmann",
+        "Eduardo Albuquerque Hartmann",
+        "Eduardo Hartmann"
+      ]
+    },
+    {
+      "id": "marina-dunn",
+      "aliases": [
+        "M M Dunn",
+        "Marina M Dunn",
+        "Marina Dunn",
+        "Marina Madeline Dunn"
+      ]
+    },
+    {
+      "id": "valentina-fontirroig-rojas",
+      "aliases": [
+        "V Fontirroig",
+        "Valentina Fontirroig",
+        "Valentina Fontirroig Rojas",
+        "V Fontirroig Rojas"
+      ]
+    },
+    {
+      "id": "jorge-sarrato-alos",
+      "aliases": [
+        "J Sarrato Alos",
+        "J M Sarrato Alos",
+        "Jorge Sarrato Alos",
+        "Jorge M Sarrato Alos"
+      ]
+    }
+  ],
+  "arxivQueries": [
+    "au:Huertas OR au:Asensio OR au:Kitaura OR au:Camalich OR au:Westendorp OR au:Westerdorp OR au:Iglesias OR au:Siudek OR au:Hartmann OR au:Dunn OR au:Fontirroig OR au:Sarrato",
+    "au:\"Huertas-Company\" OR au:\"Huertas Company\" OR au:\"Marc-Huertas Company\"",
+    "au:\"Huertas-Company\" OR au:\"Asensio_Ramos\" OR au:\"Kitaura\" OR au:\"Camalich\" OR au:\"Westendorp\" OR au:\"Iglesias_Navarro\" OR au:\"Siudek\" OR au:\"Hartmann_E\" OR au:\"Dunn_Marina\" OR au:\"Fontirroig\" OR au:\"Sarrato\""
+  ],
+  "adsAuthors": [
+    "Huertas-Company, M",
+    "Asensio Ramos, A",
+    "Kitaura, F",
+    "Martin Camalich, J",
+    "Westendorp Plaza, C",
+    "Iglesias Navarro, P",
+    "Siudek, M",
+    "Hartmann, E A",
+    "Dunn, M M",
+    "Fontirroig, V",
+    "Sarrato Alos, J"
+  ]
+}

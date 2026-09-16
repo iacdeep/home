@@ -1,0 +1,1475 @@
+{
+  "since": "2024-01-01",
+  "lastChecked": "2026-09-16",
+  "papers": [
+    {
+      "id": "2609.01400",
+      "title": "Semiresolved Stellar Populations as Distance Indicators",
+      "url": "https://arxiv.org/abs/2609.01400",
+      "doi": "10.3847/2041-8213/ae8d10",
+      "journal": "",
+      "firstPosted": "2026-09-01",
+      "year": 2026,
+      "firstAuthors": [
+        "Ignacio Martín-Navarro",
+        "Patricia Iglesias Navarro",
+        "Francesco La Barbera"
+      ],
+      "authorCount": 16,
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Simulation-based inference"
+      ],
+      "summary": "Neural posterior estimation turns partially resolved stellar populations into distance measurements.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2609.01400",
+        "https://arxiv.org/html/2609.01400"
+      ]
+    },
+    {
+      "id": "2607.07329",
+      "title": "Beyond traditional emission-line diagnostics: using autoencoders to uncover active galactic nuclei in DESI spectra",
+      "url": "https://arxiv.org/abs/2607.07329",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-07-08",
+      "year": 2026,
+      "firstAuthors": [
+        "J. A. Alcolea",
+        "M. Siudek",
+        "M. Eriksen"
+      ],
+      "authorCount": 52,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "An autoencoder searches DESI spectra for active galactic nuclei beyond conventional emission-line diagnostics.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2607.07329"
+      ]
+    },
+    {
+      "id": "2607.06844",
+      "title": "First detection of ultra-fast outflows in a quiescent galaxy",
+      "url": "https://arxiv.org/abs/2607.06844",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-07-07",
+      "year": 2026,
+      "firstAuthors": [
+        "Yerong Xu",
+        "Malgorzata Siudek",
+        "Victor Rodríguez Morales"
+      ],
+      "authorCount": 10,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Bayesian spectral modelling with neural-assisted nested sampling tests evidence for an ultra-fast outflow in a quiescent galaxy.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2607.06844",
+        "https://arxiv.org/html/2607.06844"
+      ]
+    },
+    {
+      "id": "2606.30750",
+      "title": "A Pixel-by-Pixel Path to Population III Discovery with JWST",
+      "url": "https://arxiv.org/abs/2606.30750",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-06-29",
+      "year": 2026,
+      "firstAuthors": [
+        "Patricia Iglesias-Navarro",
+        "Thomas Harvey",
+        "Marc Huertas-Company"
+      ],
+      "authorCount": 14,
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Simulation-based inference"
+      ],
+      "summary": "Pixel-level inference searches JWST images for signatures of Population III stars.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2606.30750"
+      ]
+    },
+    {
+      "id": "2606.13004",
+      "title": "3DSTokesFlow: simulation-based inference for 3D Stokes profiles using flow matching",
+      "url": "https://arxiv.org/abs/2606.13004",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-06-11",
+      "year": 2026,
+      "firstAuthors": [
+        "A. Asensio Ramos",
+        "K. E. Yang",
+        "M. J. Martinez Gonzalez"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Simulation-based inference",
+        "Generative models"
+      ],
+      "summary": "Flow matching estimates atmospheric parameters from three-dimensional Stokes profiles.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2606.13004"
+      ]
+    },
+    {
+      "id": "2605.11980",
+      "title": "Marginal multi-object multi-frame blind deconvolution",
+      "url": "https://arxiv.org/abs/2605.11980",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-05-12",
+      "year": 2026,
+      "firstAuthors": [
+        "A. Asensio Ramos"
+      ],
+      "authorCount": 1,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Marginalizing over nuisance parameters improves multi-object, multi-frame restoration of astronomical images.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2605.11980"
+      ]
+    },
+    {
+      "id": "2605.09543",
+      "title": "Accelerating 3D Non-LTE Synthesis with Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2605.09543",
+      "doi": "10.1051/0004-6361/202660077",
+      "journal": "A&A 710, A256 (2026)",
+      "firstPosted": "2026-05-10",
+      "year": 2026,
+      "firstAuthors": [
+        "A. Vicente Arévalo",
+        "A. Asensio Ramos",
+        "C. J. Díaz Baso"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "Graph neural networks accelerate three-dimensional non-LTE spectral synthesis.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2605.09543"
+      ]
+    },
+    {
+      "id": "2602.09670",
+      "title": "Talking with the Latents -- how to convert your LLM into an astronomer",
+      "url": "https://arxiv.org/abs/2602.09670",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-02-10",
+      "year": 2026,
+      "firstAuthors": [
+        "Ilay Kamai",
+        "Marc-Huertas Company",
+        "Mike J. Smith"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Foundation models"
+      ],
+      "summary": "A latent representation connects astronomical data to a language model for interpreting galaxy properties.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2602.09670"
+      ]
+    },
+    {
+      "id": "2512.15886",
+      "title": "Cored galaxies in cuspy dark matter halos",
+      "url": "https://arxiv.org/abs/2512.15886",
+      "doi": "10.1051/0004-6361/202558629",
+      "journal": "Astronomy & Astrophysics, 710, A329 (2026)",
+      "firstPosted": "2025-12-17",
+      "year": 2026,
+      "firstAuthors": [
+        "Fernando Valenciano",
+        "Jorge Martin Camalich",
+        "Arianna Di Cintio"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Statistical inference"
+      ],
+      "summary": "Likelihood-based fits and model comparison test whether cuspy dark matter halos can reproduce apparently cored galaxies.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2512.15886",
+        "https://arxiv.org/html/2512.15886"
+      ]
+    },
+    {
+      "id": "2512.04362",
+      "title": "ELG×LRG distribution through dark matter halo dynamics",
+      "url": "https://arxiv.org/abs/2512.04362",
+      "doi": "10.3847/1538-4357/ae592a",
+      "journal": "2026 ApJ, Volume 1002, Number 1",
+      "firstPosted": "2025-12-04",
+      "year": 2026,
+      "firstAuthors": [
+        "Ginevra Favole",
+        "Francisco-Shu Kitaura",
+        "Boryana Hadzhiyska"
+      ],
+      "authorCount": 6,
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "A two-level Bayesian framework connects emission-line and luminous red galaxies to dark matter halo dynamics.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2512.04362"
+      ]
+    },
+    {
+      "id": "2512.02629",
+      "title": "Silicate emission in a type-2 quasar: JWST/MIRI constraints on torus geometry and radiative feedback",
+      "url": "https://arxiv.org/abs/2512.02629",
+      "doi": "10.1051/0004-6361/202557323",
+      "journal": "A&A 706, A100 (2026)",
+      "firstPosted": "2025-12-02",
+      "year": 2026,
+      "firstAuthors": [
+        "C. Ramos Almeida",
+        "A. Asensio Ramos",
+        "C. Westerdorp Plaza"
+      ],
+      "authorCount": 16,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        },
+        {
+          "id": "carlos-westendorp",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Bayesian torus modelling uses JWST silicate emission to constrain the geometry of an obscured quasar.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2512.02629"
+      ]
+    },
+    {
+      "id": "2506.03969",
+      "title": "Differentiable Fuzzy Cosmic-Web for Field Level Inference",
+      "url": "https://arxiv.org/abs/2506.03969",
+      "doi": "10.1051/0004-6361/202555817",
+      "journal": "A&A 709, A110 (2026)",
+      "firstPosted": "2025-06-04",
+      "year": 2026,
+      "firstAuthors": [
+        "P. Rosselló",
+        "F. -S. Kitaura",
+        "D. Forero-Sánchez"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Field-level inference"
+      ],
+      "summary": "A differentiable cosmic-web description supports gradient-based inference of large-scale structure.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2506.03969"
+      ]
+    },
+    {
+      "id": "2509.25340",
+      "title": "The spatially-resolved effect of mergers on the stellar mass assembly of MaNGA galaxies",
+      "url": "https://arxiv.org/abs/2509.25340",
+      "doi": "10.1051/0004-6361/202556260",
+      "journal": "A&A 703, A290 (2025)",
+      "firstPosted": "2025-09-29",
+      "year": 2025,
+      "firstAuthors": [
+        "Eirini Angeloudi",
+        "Marc Huertas-Company",
+        "Jesús Falcón-Barroso"
+      ],
+      "authorCount": 6,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Generative models",
+        "Simulation-based inference"
+      ],
+      "summary": "Diffusion-based inference maps how mergers contribute to the spatial distribution of stellar mass in MaNGA galaxies.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2509.25340"
+      ]
+    },
+    {
+      "id": "2507.00594",
+      "title": "Neural translation for Stokes inversion and synthesis",
+      "url": "https://arxiv.org/abs/2507.00594",
+      "doi": "10.1051/0004-6361/202556195",
+      "journal": "A&A 703, A55 (2025)",
+      "firstPosted": "2025-07-01",
+      "year": 2025,
+      "firstAuthors": [
+        "A. Asensio Ramos",
+        "J. de la Cruz Rodriguez"
+      ],
+      "authorCount": 2,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Neural networks",
+        "Generative models"
+      ],
+      "summary": "A neural translation model connects Stokes spectra and atmospheric structure for both inversion and synthesis.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2507.00594"
+      ]
+    },
+    {
+      "id": "2506.09143",
+      "title": "Beyond Traditional Diagnostics: Identifying Active Galactic Nuclei with Spectral Energy Distribution Fitting in DESI Data",
+      "url": "https://arxiv.org/abs/2506.09143",
+      "doi": "10.1051/0004-6361/202555463",
+      "journal": "A&A 700, A209 (2025)",
+      "firstPosted": "2025-06-10",
+      "year": 2025,
+      "firstAuthors": [
+        "M. Siudek",
+        "M. Mezcua",
+        "C. Circosta"
+      ],
+      "authorCount": 39,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "CIGALE spectral energy distribution modelling identifies AGN in DESI data and compares them with traditional selections.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2506.09143"
+      ]
+    },
+    {
+      "id": "2506.04336",
+      "title": "Simulation-based inference of galaxy properties from JWST pixels",
+      "url": "https://arxiv.org/abs/2506.04336",
+      "doi": "10.1051/0004-6361/202555810",
+      "journal": "A&A 703, A229 (2025)",
+      "firstPosted": "2025-06-04",
+      "year": 2025,
+      "firstAuthors": [
+        "Patricia Iglesias-Navarro",
+        "Marc Huertas-Company",
+        "Pablo Pérez-González"
+      ],
+      "authorCount": 9,
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Simulation-based inference"
+      ],
+      "summary": "Neural inference estimates resolved galaxy properties directly from JWST pixels.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2506.04336"
+      ]
+    },
+    {
+      "id": "2505.24278",
+      "title": "Chromospheric velocities in an M3.2 flare using He I 1083.0 nm and Ca II 854.2 nm",
+      "url": "https://arxiv.org/abs/2505.24278",
+      "doi": "10.1051/0004-6361/202554798",
+      "journal": "A&A 699, A121 (2025)",
+      "firstPosted": "2025-05-30",
+      "year": 2025,
+      "firstAuthors": [
+        "C. Kuckein",
+        "M. Collados",
+        "A. Asensio Ramos"
+      ],
+      "authorCount": 9,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "Inversions of helium and calcium spectra recover chromospheric velocities during a solar flare.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2505.24278"
+      ]
+    },
+    {
+      "id": "2505.10639",
+      "title": "torchmfbd: a flexible multi-object multi-frame blind deconvolution code",
+      "url": "https://arxiv.org/abs/2505.10639",
+      "doi": "10.1051/0004-6361/202555530",
+      "journal": "A&A 703, A269 (2025)",
+      "firstPosted": "2025-05-15",
+      "year": 2025,
+      "firstAuthors": [
+        "A. Asensio Ramos",
+        "C. Díaz Baso",
+        "C. Kuckein"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "A flexible image-restoration framework estimates objects and atmospheric aberrations through maximum-a-posteriori optimization.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2505.10639"
+      ]
+    },
+    {
+      "id": "2503.15312",
+      "title": "Euclid Quick Data Release (Q1) Exploring galaxy properties with a multi-modal foundation model",
+      "url": "https://arxiv.org/abs/2503.15312",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2025-03-19",
+      "year": 2025,
+      "firstAuthors": [
+        "Euclid Collaboration",
+        "M. Siudek",
+        "M. Huertas-Company"
+      ],
+      "authorCount": 324,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Foundation models"
+      ],
+      "summary": "A multimodal foundation model extracts physical information from Euclid galaxy observations.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2503.15312"
+      ]
+    },
+    {
+      "id": "2503.15311",
+      "title": "Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at z<1",
+      "url": "https://arxiv.org/abs/2503.15311",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2025-03-19",
+      "year": 2025,
+      "firstAuthors": [
+        "Euclid Collaboration",
+        "M. Huertas-Company",
+        "M. Walmsley"
+      ],
+      "authorCount": 339,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "Deep-learning morphology measurements characterize the fraction of barred galaxies in Euclid Q1.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2503.15311"
+      ]
+    },
+    {
+      "id": "2503.15310",
+      "title": "Euclid Quick Data Release (Q1): First visual morphology catalogue",
+      "url": "https://arxiv.org/abs/2503.15310",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2025-03-19",
+      "year": 2025,
+      "firstAuthors": [
+        "Euclid Collaboration",
+        "M. Walmsley",
+        "M. Huertas-Company"
+      ],
+      "authorCount": 355,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "A deep-learning pipeline produces the first visual morphology catalogue for Euclid Q1.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2503.15310"
+      ]
+    },
+    {
+      "id": "2503.07717",
+      "title": "Galaxy mass profiles with convolutional neural networks",
+      "url": "https://arxiv.org/abs/2503.07717",
+      "doi": "10.1051/0004-6361/202554455",
+      "journal": "A&A 703, A140 (2025)",
+      "firstPosted": "2025-03-10",
+      "year": 2025,
+      "firstAuthors": [
+        "Jorge Sarrato-Alós",
+        "Christopher Brook",
+        "Arianna Di Cintio"
+      ],
+      "authorCount": 6,
+      "matches": [
+        {
+          "id": "jorge-sarrato-alos",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "Convolutional networks recover galaxy mass profiles and quantify uncertainty from simulated observations.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2503.07717"
+      ]
+    },
+    {
+      "id": "2503.03742",
+      "title": "MaNGA AGN dwarf galaxies (MAD). III. The role of mergers and environment in active galactic nucleus activity in dwarf galaxies",
+      "url": "https://arxiv.org/abs/2503.03742",
+      "doi": "10.1051/0004-6361/202554387",
+      "journal": "A&A 699, A330 (2025)",
+      "firstPosted": "2025-03-05",
+      "year": 2025,
+      "firstAuthors": [
+        "A. Eróstegui",
+        "M. Mezcua",
+        "M. Siudek"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "CIGALE fits correct stellar masses and pair mass ratios when testing mergers as triggers of dwarf-galaxy AGN.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2503.03742",
+        "https://arxiv.org/html/2503.03742"
+      ]
+    },
+    {
+      "id": "2503.03670",
+      "title": "Study of an active region prominence using spectropolarimetric data in the He I D3 multiplet",
+      "url": "https://arxiv.org/abs/2503.03670",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2025-03-05",
+      "year": 2025,
+      "firstAuthors": [
+        "S. Esteban Pozuelo",
+        "A. Asensio Ramos",
+        "J. Trujillo Bueno"
+      ],
+      "authorCount": 6,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "Helium-line spectropolarimetric inversions probe the magnetic structure of an active-region prominence.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2503.03670"
+      ]
+    },
+    {
+      "id": "2502.17568",
+      "title": "Cosmology with One Galaxy: Auto-Encoding the Galaxy Properties Manifold",
+      "url": "https://arxiv.org/abs/2502.17568",
+      "doi": "10.3847/1538-4357/add724",
+      "journal": "The Astrophysical Journal, 986(2), 133 (June 2025)",
+      "firstPosted": "2025-02-24",
+      "year": 2025,
+      "firstAuthors": [
+        "Amanda Lue",
+        "Shy Genel",
+        "Marc Huertas-Company"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "An autoencoder explores the galaxy-property manifold and the cosmological information encoded in individual galaxies.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2502.17568"
+      ]
+    },
+    {
+      "id": "2502.03532",
+      "title": "COSMOS-Web: The emergence of the Hubble Sequence",
+      "url": "https://arxiv.org/abs/2502.03532",
+      "doi": "10.1051/0004-6361/202553782",
+      "journal": "A&A 704, A94 (2025)",
+      "firstPosted": "2025-02-05",
+      "year": 2025,
+      "firstAuthors": [
+        "M. Huertas-Company",
+        "M. Shuntov",
+        "Y. Dong"
+      ],
+      "authorCount": 32,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "Deep-learning morphology measurements trace the emergence of the Hubble sequence in COSMOS-Web.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2502.03532"
+      ]
+    },
+    {
+      "id": "2501.06050",
+      "title": "ZF-UDS-7329: A relic galaxy in the early Universe",
+      "url": "https://arxiv.org/abs/2501.06050",
+      "doi": "10.1051/0004-6361/202452781",
+      "journal": "A&A 694, L7 (2025)",
+      "firstPosted": "2025-01-10",
+      "year": 2025,
+      "firstAuthors": [
+        "Eduardo A. Hartmann",
+        "Ignacio Martín-Navarro",
+        "Marc Huertas-Company"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "eduardo-hartmann",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "Full-spectrum stellar-population fitting and Monte Carlo uncertainties reconstruct the formation history of a high-redshift relic galaxy.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2501.06050",
+        "https://arxiv.org/html/2501.06050"
+      ]
+    },
+    {
+      "id": "2411.19723",
+      "title": "A statistical study of lopsided galaxies using random forest",
+      "url": "https://arxiv.org/abs/2411.19723",
+      "doi": "10.1051/0004-6361/202453215",
+      "journal": "A&A 699, A118 (2025)",
+      "firstPosted": "2024-11-29",
+      "year": 2025,
+      "firstAuthors": [
+        "Valentina Fontirroig",
+        "Facundo A. Gomez",
+        "Marcelo Jaque Arancibia"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "valentina-fontirroig-rojas",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "Random forests identify which galaxy properties are associated with lopsided structure.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2411.19723"
+      ]
+    },
+    {
+      "id": "2409.05156",
+      "title": "Exploring spectropolarimetric inversions using neural fields. Solar chromospheric magnetic field under the weak-field approximation",
+      "url": "https://arxiv.org/abs/2409.05156",
+      "doi": "10.1051/0004-6361/202452172",
+      "journal": "A&A 693, A170 (2025)",
+      "firstPosted": "2024-09-08",
+      "year": 2025,
+      "firstAuthors": [
+        "C. J. Díaz Baso",
+        "A. Asensio Ramos",
+        "J. de la Cruz Rodríguez"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Neural networks",
+        "Spectral inference"
+      ],
+      "summary": "Neural fields regularize spectropolarimetric inversions of the solar chromospheric magnetic field.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2409.05156"
+      ]
+    },
+    {
+      "id": "2408.00939",
+      "title": "New constraints on the central mass contents of Omega Centauri from combined stellar kinematics and pulsar timing",
+      "url": "https://arxiv.org/abs/2408.00939",
+      "doi": "10.1051/0004-6361/202451763",
+      "journal": "A&A 693, A104 (2025)",
+      "firstPosted": "2024-08-01",
+      "year": 2025,
+      "firstAuthors": [
+        "Andrés Bañares-Hernández",
+        "Francesca Calore",
+        "Jorge Martin Camalich"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Nested sampling combines stellar motions and pulsar timing to constrain the central mass components of Omega Centauri.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2408.00939",
+        "https://arxiv.org/html/2408.00939"
+      ]
+    },
+    {
+      "id": "2411.19158",
+      "title": "Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions",
+      "url": "https://arxiv.org/abs/2411.19158",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2024-11-28",
+      "year": 2024,
+      "firstAuthors": [
+        "Alessio Spagnoletti",
+        "Alexandre Boucaud",
+        "Marc Huertas-Company"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference",
+        "Generative models"
+      ],
+      "summary": "Diffusion priors support Bayesian image deconvolution and reveal which reconstructed features are driven by the prior.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2411.19158"
+      ]
+    },
+    {
+      "id": "2411.12397",
+      "title": "Non-Local Thermodynamic Equilibrium inversions of the Si I 10827 A spectral line",
+      "url": "https://arxiv.org/abs/2411.12397",
+      "doi": "10.1051/0004-6361/202452233",
+      "journal": "A&A 692, A169 (2024)",
+      "firstPosted": "2024-11-19",
+      "year": 2024,
+      "firstAuthors": [
+        "C. Quintero Noda",
+        "N. G. Shchukina",
+        "A. Asensio Ramos"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "Non-LTE inversions recover solar atmospheric information from the silicon 10827 Å line.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2411.12397"
+      ]
+    },
+    {
+      "id": "2410.24069",
+      "title": "Simulation-based inference of the 2D ex-situ stellar mass fraction distribution of galaxies using variational autoencoders",
+      "url": "https://arxiv.org/abs/2410.24069",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2024-10-31",
+      "year": 2024,
+      "firstAuthors": [
+        "Eirini Angeloudi",
+        "Marc Huertas-Company",
+        "Jesús Falcón-Barroso"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Simulation-based inference",
+        "Neural networks"
+      ],
+      "summary": "Variational autoencoders infer two-dimensional maps of stellar mass acquired through galaxy mergers.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2410.24069"
+      ]
+    },
+    {
+      "id": "2409.19066",
+      "title": "Value Added Catalog of physical properties of more than 1.3 million galaxies from the DESI Survey",
+      "url": "https://arxiv.org/abs/2409.19066",
+      "doi": "10.1051/0004-6361/202451761",
+      "journal": "A&A 691, A308 (2024)",
+      "firstPosted": "2024-09-27",
+      "year": 2024,
+      "firstAuthors": [
+        "M. Siudek",
+        "R. Pucha",
+        "M. Mezcua"
+      ],
+      "authorCount": 53,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "Spectral energy distribution fitting estimates physical properties for more than 1.3 million DESI galaxies.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2409.19066"
+      ]
+    },
+    {
+      "id": "2408.07645",
+      "title": "Properties of sunspot light bridges on a geometric height scale",
+      "url": "https://arxiv.org/abs/2408.07645",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2024-08-14",
+      "year": 2024,
+      "firstAuthors": [
+        "S. Esteban Pozuelo",
+        "A. Asensio Ramos",
+        "C. J. Díaz Baso"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "Spectral inversions reconstruct the atmospheric properties of sunspot light bridges on a geometric height scale.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2408.07645"
+      ]
+    },
+    {
+      "id": "2407.03918",
+      "title": "The negative BAO shift in the Lyα forest from cosmological simulations",
+      "url": "https://arxiv.org/abs/2407.03918",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2024-07-04",
+      "year": 2024,
+      "firstAuthors": [
+        "Francesco Sinigaglia",
+        "Francisco-Shu Kitaura",
+        "Kentaro Nagamine"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Markov-chain Monte Carlo fits quantify the baryon acoustic oscillation shift in simulated Lyman-alpha forests.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2407.03918"
+      ]
+    },
+    {
+      "id": "2407.00166",
+      "title": "Constraints on the in-situ and ex-situ stellar masses in nearby galaxies with Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2407.00166",
+      "doi": "10.1038/s41550-024-02327-3",
+      "journal": "Nature Astronomy 8, 1310–1320 (2024)",
+      "firstPosted": "2024-06-28",
+      "year": 2024,
+      "firstAuthors": [
+        "Eirini Angeloudi",
+        "Jesús Falcón-Barroso",
+        "Marc Huertas-Company"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "AI estimates how much stellar mass nearby galaxies formed internally and acquired through mergers.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2407.00166",
+        "https://doi.org/10.1038/s41550-024-02327-3"
+      ]
+    },
+    {
+      "id": "2406.18661",
+      "title": "Deriving the star formation histories of galaxies from spectra with simulation-based inference",
+      "url": "https://arxiv.org/abs/2406.18661",
+      "doi": "10.1051/0004-6361/202449909",
+      "journal": "A&A 689, A58 (2024)",
+      "firstPosted": "2024-06-26",
+      "year": 2024,
+      "firstAuthors": [
+        "Patricia Iglesias-Navarro",
+        "Marc Huertas-Company",
+        "Ignacio Martín-Navarro"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Simulation-based inference"
+      ],
+      "summary": "Simulation-based inference reconstructs galaxy star-formation histories from spectra with posterior uncertainties.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2406.18661"
+      ]
+    },
+    {
+      "id": "2406.02387",
+      "title": "A fast neural emulator for interstellar chemistry",
+      "url": "https://arxiv.org/abs/2406.02387",
+      "doi": "10.1093/mnras/stae1432",
+      "journal": "MNRAS 531, 4930–4943 (2024)",
+      "firstPosted": "2024-06-04",
+      "year": 2024,
+      "firstAuthors": [
+        "A. Asensio Ramos",
+        "C. Westendorp Plaza",
+        "D. Navarro-Almaida"
+      ],
+      "authorCount": 6,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        },
+        {
+          "id": "carlos-westendorp",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "A neural emulator accelerates interstellar chemical calculations for physical modelling and inference.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2406.02387",
+        "https://doi.org/10.1093/mnras/stae1432"
+      ]
+    },
+    {
+      "id": "2405.20385",
+      "title": "The PAU Survey: galaxy stellar population properties estimates with narrowband data",
+      "url": "https://arxiv.org/abs/2405.20385",
+      "doi": "10.1051/0004-6361/202449838",
+      "journal": "A&A 689, A37 (2024)",
+      "firstPosted": "2024-05-30",
+      "year": 2024,
+      "firstAuthors": [
+        "Benjamin Csizi",
+        "Luca Tortorelli",
+        "Małgorzata Siudek"
+      ],
+      "authorCount": 20,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference",
+        "Spectral inference"
+      ],
+      "summary": "CIGALE and Prospector infer galaxy properties from PAU narrow-band photometry and assess model-dependent uncertainties.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2405.20385"
+      ]
+    },
+    {
+      "id": "2405.10319",
+      "title": "Fast simulation mapping: from standard to modified gravity cosmologies using the bias assignment method",
+      "url": "https://arxiv.org/abs/2405.10319",
+      "doi": "10.1051/0004-6361/202450755",
+      "journal": "A&A 690, A27 (2024)",
+      "firstPosted": "2024-05-16",
+      "year": 2024,
+      "firstAuthors": [
+        "Jorge Enrique García-Farieta",
+        "Andrés Balaguera-Antolínez",
+        "Francisco-Shu Kitaura"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "A calibrated bias-assignment method maps standard cosmological simulations into modified-gravity tracer distributions.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2405.10319"
+      ]
+    },
+    {
+      "id": "2405.09864",
+      "title": "Solar multi-object multi-frame blind deconvolution with a spatially variant convolution neural emulator",
+      "url": "https://arxiv.org/abs/2405.09864",
+      "doi": "10.1051/0004-6361/202449568",
+      "journal": "A&A 688, A88 (2024)",
+      "firstPosted": "2024-05-16",
+      "year": 2024,
+      "firstAuthors": [
+        "A. Asensio Ramos"
+      ],
+      "authorCount": 1,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "A neural emulator accelerates solar image restoration with spatially varying atmospheric degradation.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2405.09864"
+      ]
+    },
+    {
+      "id": "2404.09958",
+      "title": "From VIPERS to SDSS: Unveiling galaxy spectra evolution over 9 Gyr through unsupervised machine-learning",
+      "url": "https://arxiv.org/abs/2404.09958",
+      "doi": "10.1051/0004-6361/202349026",
+      "journal": "A&A 687, A76 (2024)",
+      "firstPosted": "2024-04-15",
+      "year": 2024,
+      "firstAuthors": [
+        "J. Dubois",
+        "M. Siudek",
+        "D. Fraix-Burnet"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "Unsupervised spectral classification compares galaxy populations across nine billion years of evolution.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2404.09958"
+      ]
+    },
+    {
+      "id": "2404.02959",
+      "title": "Probing star formation rates and histories in AGN and non-AGN galaxies across diverse cosmic environments and extensive X-ray luminosity ranges",
+      "url": "https://arxiv.org/abs/2404.02959",
+      "doi": "10.1051/0004-6361/202348763",
+      "journal": "A&A 686, A229 (2024)",
+      "firstPosted": "2024-04-03",
+      "year": 2024,
+      "firstAuthors": [
+        "G. Mountrichas",
+        "M. Siudek",
+        "O. Cucciati"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "Likelihood-weighted CIGALE estimates compare star formation in AGN hosts and inactive galaxies across environments.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2404.02959",
+        "https://arxiv.org/html/2404.02959"
+      ]
+    },
+    {
+      "id": "2401.09632",
+      "title": "A post-merger enhancement only in star-forming Type 2 Seyfert galaxies: the deep learning view",
+      "url": "https://arxiv.org/abs/2401.09632",
+      "doi": "10.1093/mnras/stae183",
+      "journal": "",
+      "firstPosted": "2024-01-17",
+      "year": 2024,
+      "firstAuthors": [
+        "M. S. Avirett-Mackenzie",
+        "C. Villforth",
+        "M. Huertas-Company"
+      ],
+      "authorCount": 10,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "Deep-learning merger identification tests the connection between galaxy interactions and Seyfert activity.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2401.09632"
+      ]
+    },
+    {
+      "id": "2310.15232",
+      "title": "Galaxies Going Bananas: Inferring the 3D Geometry of High-Redshift Galaxies with JWST-CEERS",
+      "url": "https://arxiv.org/abs/2310.15232",
+      "doi": "10.3847/1538-4357/ad1a13",
+      "journal": "The Astrophysical Journal 963 (2024)",
+      "firstPosted": "2023-10-23",
+      "year": 2024,
+      "firstAuthors": [
+        "Viraj Pandya",
+        "Haowen Zhang",
+        "Marc Huertas-Company"
+      ],
+      "authorCount": 56,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Bayesian geometric inference reconstructs the three-dimensional shapes of high-redshift galaxies from JWST observations.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2310.15232",
+        "https://doi.org/10.3847/1538-4357/ad1a13"
+      ]
+    },
+    {
+      "id": "2309.00612",
+      "title": "Bayesian deep learning for cosmic volumes with modified gravity",
+      "url": "https://arxiv.org/abs/2309.00612",
+      "doi": "10.1051/0004-6361/202347929",
+      "journal": "A&A 684, A100 (2024)",
+      "firstPosted": "2023-09-01",
+      "year": 2024,
+      "firstAuthors": [
+        "Jorge Enrique García-Farieta",
+        "Héctor J Hortúa",
+        "Francisco-Shu Kitaura"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference",
+        "Neural networks"
+      ],
+      "summary": "Bayesian neural networks distinguish modified-gravity cosmologies from cosmic density volumes while quantifying uncertainty.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2309.00612",
+        "https://doi.org/10.1051/0004-6361/202347929"
+      ]
+    },
+    {
+      "id": "2305.02478",
+      "title": "Galaxy Morphology from z≈6 through the eyes of JWST",
+      "url": "https://arxiv.org/abs/2305.02478",
+      "doi": "10.1051/0004-6361/202346800",
+      "journal": "A&A 685, A48 (2024)",
+      "firstPosted": "2023-05-04",
+      "year": 2024,
+      "firstAuthors": [
+        "M. Huertas-Company",
+        "K. G. Iyer",
+        "E. Angeloudi"
+      ],
+      "authorCount": 29,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "Deep-learning morphology classification follows galaxy structure to redshift six with JWST.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2305.02478",
+        "https://doi.org/10.1051/0004-6361/202346800"
+      ]
+    },
+    {
+      "id": "2302.07277",
+      "title": "On the nature of disks at high redshift seen by JWST/CEERS with contrastive learning and cosmological simulations",
+      "url": "https://arxiv.org/abs/2302.07277",
+      "doi": "10.3847/1538-4357/ad05bb",
+      "journal": "The Astrophysical Journal 961, 51 (2024)",
+      "firstPosted": "2023-02-14",
+      "year": 2024,
+      "firstAuthors": [
+        "J. Vega-Ferrero",
+        "M. Huertas-Company",
+        "L. Costantin"
+      ],
+      "authorCount": 29,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Foundation models"
+      ],
+      "summary": "Contrastive learning compares high-redshift JWST galaxies with cosmological simulations to investigate disk structure.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2302.07277",
+        "https://doi.org/10.3847/1538-4357/ad05bb"
+      ]
+    }
+  ],
+  "sources": {
+    "arxiv": "complete",
+    "ads": "not configured"
+  }
+}

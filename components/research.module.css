@@ -1,0 +1,25 @@
+.section { padding: 2.5rem 0; color: #182840; }
+.eyebrow { color: #437482; font-size: .8rem; font-weight: 700; letter-spacing: .14em; }
+.section h2 { font-size: clamp(1.9rem, 4vw, 2.6rem); margin: .5rem 0 1rem; line-height: 1.2; }
+.intro { max-width: 760px; font-size: 1.1rem; line-height: 1.65; }
+.updated { color: #596578; font-size: .9rem; }
+.list { list-style: none; padding: 0; margin: 1.75rem 0; display: grid; gap: 1rem; }
+.paper { background: #fff; border: 1px solid #dce3e9; border-left: 3px solid #54858c; border-radius: 8px; padding: 1.4rem 1.6rem; overflow-wrap: anywhere; }
+.meta { color: #596578; font-size: .82rem; margin: 0 0 .5rem; }
+.paper h3 { font-size: 1.2rem; line-height: 1.4; margin: 0 0 .65rem; }
+.paper h3 a { color: #163956; text-decoration: none; }
+.paper h3 a:hover { text-decoration: underline; }
+.authors { font-size: .9rem; line-height: 1.6; color: #536174; margin: 0; }
+.authors strong { color: #203a50; }
+.summary { line-height: 1.65; font-size: 1rem; margin: .8rem 0; }
+.tags { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .85rem; }
+.tags span { background: #edf4f4; color: #245d64; border-radius: 4px; padding: .2rem .55rem; font-size: .75rem; }
+.links { display: flex; gap: 1.4rem; font-size: .85rem; margin-top: 1rem; }
+.links a, .details a { color: #225b77; }
+.browse { display: inline-block; padding: .9rem 1.2rem; background: #173c54; color: white; border-radius: 5px; font-weight: 600; }
+.filters { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1.8rem; }
+.filters label { display: flex; flex-direction: column; gap: .4rem; flex: 1 1 230px; font-size: .9rem; font-weight: 600; }
+.filters input, .filters select { padding: .8rem; border: 1px solid #a9b7c5; border-radius: 5px; background: white; color: #182840; font: inherit; width: 100%; }
+.details { border-top: 1px solid #dce3e9; padding-top: 1.5rem; line-height: 1.65; font-size: .9rem; color: #536174; }
+.details summary { cursor: pointer; color: #203a50; font-weight: 600; }
+@media (max-width: 540px) { .paper { padding: 1.1rem; } .section { padding: 1.5rem 0; } }

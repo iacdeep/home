@@ -1,0 +1,696 @@
+{
+  "2609.01400": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference"
+    ],
+    "summary": "Neural posterior estimation turns partially resolved stellar populations into distance measurements.",
+    "reason": "Neural posterior estimation turns partially resolved stellar populations into distance measurements.",
+    "sources": [
+      "https://arxiv.org/abs/2609.01400",
+      "https://arxiv.org/html/2609.01400"
+    ]
+  },
+  "2607.07329": {
+    "include": true,
+    "tags": [
+      "Neural networks"
+    ],
+    "summary": "An autoencoder searches DESI spectra for active galactic nuclei beyond conventional emission-line diagnostics.",
+    "reason": "An autoencoder searches DESI spectra for active galactic nuclei beyond conventional emission-line diagnostics.",
+    "sources": [
+      "https://arxiv.org/abs/2607.07329"
+    ]
+  },
+  "2607.06844": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "summary": "Bayesian spectral modelling with neural-assisted nested sampling tests evidence for an ultra-fast outflow in a quiescent galaxy.",
+    "reason": "Bayesian spectral modelling with neural-assisted nested sampling tests evidence for an ultra-fast outflow in a quiescent galaxy.",
+    "sources": [
+      "https://arxiv.org/abs/2607.06844",
+      "https://arxiv.org/html/2607.06844"
+    ]
+  },
+  "2606.30750": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference"
+    ],
+    "summary": "Pixel-level inference searches JWST images for signatures of Population III stars.",
+    "reason": "Pixel-level inference searches JWST images for signatures of Population III stars.",
+    "sources": [
+      "https://arxiv.org/abs/2606.30750"
+    ]
+  },
+  "2606.13004": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference",
+      "Generative models"
+    ],
+    "summary": "Flow matching estimates atmospheric parameters from three-dimensional Stokes profiles.",
+    "reason": "Flow matching estimates atmospheric parameters from three-dimensional Stokes profiles.",
+    "sources": [
+      "https://arxiv.org/abs/2606.13004"
+    ]
+  },
+  "2605.11980": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "summary": "Marginalizing over nuisance parameters improves multi-object, multi-frame restoration of astronomical images.",
+    "reason": "Marginalizing over nuisance parameters improves multi-object, multi-frame restoration of astronomical images.",
+    "sources": [
+      "https://arxiv.org/abs/2605.11980"
+    ]
+  },
+  "2605.09543": {
+    "include": true,
+    "tags": [
+      "Neural networks"
+    ],
+    "summary": "Graph neural networks accelerate three-dimensional non-LTE spectral synthesis.",
+    "reason": "Graph neural networks accelerate three-dimensional non-LTE spectral synthesis.",
+    "sources": [
+      "https://arxiv.org/abs/2605.09543"
+    ]
+  },
+  "2602.09670": {
+    "include": true,
+    "tags": [
+      "Foundation models"
+    ],
+    "summary": "A latent representation connects astronomical data to a language model for interpreting galaxy properties.",
+    "reason": "A latent representation connects astronomical data to a language model for interpreting galaxy properties.",
+    "sources": [
+      "https://arxiv.org/abs/2602.09670"
+    ]
+  },
+  "2512.15886": {
+    "include": true,
+    "tags": [
+      "Statistical inference"
+    ],
+    "summary": "Likelihood-based fits and model comparison test whether cuspy dark matter halos can reproduce apparently cored galaxies.",
+    "reason": "Likelihood-based fits and model comparison test whether cuspy dark matter halos can reproduce apparently cored galaxies.",
+    "sources": [
+      "https://arxiv.org/abs/2512.15886",
+      "https://arxiv.org/html/2512.15886"
+    ]
+  },
+  "2512.04362": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "summary": "A two-level Bayesian framework connects emission-line and luminous red galaxies to dark matter halo dynamics.",
+    "reason": "A two-level Bayesian framework connects emission-line and luminous red galaxies to dark matter halo dynamics.",
+    "sources": [
+      "https://arxiv.org/abs/2512.04362"
+    ]
+  },
+  "2512.02629": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "summary": "Bayesian torus modelling uses JWST silicate emission to constrain the geometry of an obscured quasar.",
+    "reason": "Bayesian torus modelling uses JWST silicate emission to constrain the geometry of an obscured quasar.",
+    "sources": [
+      "https://arxiv.org/abs/2512.02629"
+    ]
+  },
+  "2509.25340": {
+    "include": true,
+    "tags": [
+      "Generative models",
+      "Simulation-based inference"
+    ],
+    "summary": "Diffusion-based inference maps how mergers contribute to the spatial distribution of stellar mass in MaNGA galaxies.",
+    "reason": "Diffusion-based inference maps how mergers contribute to the spatial distribution of stellar mass in MaNGA galaxies.",
+    "sources": [
+      "https://arxiv.org/abs/2509.25340"
+    ]
+  },
+  "2507.00594": {
+    "include": true,
+    "tags": [
+      "Neural networks",
+      "Generative models"
+    ],
+    "summary": "A neural translation model connects Stokes spectra and atmospheric structure for both inversion and synthesis.",
+    "reason": "A neural translation model connects Stokes spectra and atmospheric structure for both inversion and synthesis.",
+    "sources": [
+      "https://arxiv.org/abs/2507.00594"
+    ]
+  },
+  "2506.09143": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "CIGALE spectral energy distribution modelling identifies AGN in DESI data and compares them with traditional selections.",
+    "reason": "CIGALE spectral energy distribution modelling identifies AGN in DESI data and compares them with traditional selections.",
+    "sources": [
+      "https://arxiv.org/abs/2506.09143"
+    ]
+  },
+  "2506.04336": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference"
+    ],
+    "summary": "Neural inference estimates resolved galaxy properties directly from JWST pixels.",
+    "reason": "Neural inference estimates resolved galaxy properties directly from JWST pixels.",
+    "sources": [
+      "https://arxiv.org/abs/2506.04336"
+    ]
+  },
+  "2506.03969": {
+    "include": true,
+    "tags": [
+      "Field-level inference"
+    ],
+    "summary": "A differentiable cosmic-web description supports gradient-based inference of large-scale structure.",
+    "reason": "A differentiable cosmic-web description supports gradient-based inference of large-scale structure.",
+    "sources": [
+      "https://arxiv.org/abs/2506.03969"
+    ]
+  },
+  "2505.24278": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "Inversions of helium and calcium spectra recover chromospheric velocities during a solar flare.",
+    "reason": "Inversions of helium and calcium spectra recover chromospheric velocities during a solar flare.",
+    "sources": [
+      "https://arxiv.org/abs/2505.24278"
+    ]
+  },
+  "2505.10639": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "summary": "A flexible image-restoration framework estimates objects and atmospheric aberrations through maximum-a-posteriori optimization.",
+    "reason": "A flexible image-restoration framework estimates objects and atmospheric aberrations through maximum-a-posteriori optimization.",
+    "sources": [
+      "https://arxiv.org/abs/2505.10639"
+    ]
+  },
+  "2503.15312": {
+    "include": true,
+    "tags": [
+      "Foundation models"
+    ],
+    "summary": "A multimodal foundation model extracts physical information from Euclid galaxy observations.",
+    "reason": "A multimodal foundation model extracts physical information from Euclid galaxy observations.",
+    "sources": [
+      "https://arxiv.org/abs/2503.15312"
+    ]
+  },
+  "2503.15311": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "Deep-learning morphology measurements characterize the fraction of barred galaxies in Euclid Q1.",
+    "reason": "Deep-learning morphology measurements characterize the fraction of barred galaxies in Euclid Q1.",
+    "sources": [
+      "https://arxiv.org/abs/2503.15311"
+    ]
+  },
+  "2503.15310": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "A deep-learning pipeline produces the first visual morphology catalogue for Euclid Q1.",
+    "reason": "A deep-learning pipeline produces the first visual morphology catalogue for Euclid Q1.",
+    "sources": [
+      "https://arxiv.org/abs/2503.15310"
+    ]
+  },
+  "2503.07717": {
+    "include": true,
+    "tags": [
+      "Neural networks"
+    ],
+    "summary": "Convolutional networks recover galaxy mass profiles and quantify uncertainty from simulated observations.",
+    "reason": "Convolutional networks recover galaxy mass profiles and quantify uncertainty from simulated observations.",
+    "sources": [
+      "https://arxiv.org/abs/2503.07717"
+    ]
+  },
+  "2503.03742": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "CIGALE fits correct stellar masses and pair mass ratios when testing mergers as triggers of dwarf-galaxy AGN.",
+    "reason": "CIGALE fits correct stellar masses and pair mass ratios when testing mergers as triggers of dwarf-galaxy AGN.",
+    "sources": [
+      "https://arxiv.org/abs/2503.03742",
+      "https://arxiv.org/html/2503.03742"
+    ]
+  },
+  "2503.03670": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "Helium-line spectropolarimetric inversions probe the magnetic structure of an active-region prominence.",
+    "reason": "Helium-line spectropolarimetric inversions probe the magnetic structure of an active-region prominence.",
+    "sources": [
+      "https://arxiv.org/abs/2503.03670"
+    ]
+  },
+  "2502.17568": {
+    "include": true,
+    "tags": [
+      "Neural networks"
+    ],
+    "summary": "An autoencoder explores the galaxy-property manifold and the cosmological information encoded in individual galaxies.",
+    "reason": "An autoencoder explores the galaxy-property manifold and the cosmological information encoded in individual galaxies.",
+    "sources": [
+      "https://arxiv.org/abs/2502.17568"
+    ]
+  },
+  "2502.03532": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "Deep-learning morphology measurements trace the emergence of the Hubble sequence in COSMOS-Web.",
+    "reason": "Deep-learning morphology measurements trace the emergence of the Hubble sequence in COSMOS-Web.",
+    "sources": [
+      "https://arxiv.org/abs/2502.03532"
+    ]
+  },
+  "2501.06050": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "Full-spectrum stellar-population fitting and Monte Carlo uncertainties reconstruct the formation history of a high-redshift relic galaxy.",
+    "reason": "Full-spectrum stellar-population fitting and Monte Carlo uncertainties reconstruct the formation history of a high-redshift relic galaxy.",
+    "sources": [
+      "https://arxiv.org/abs/2501.06050",
+      "https://arxiv.org/html/2501.06050"
+    ]
+  },
+  "2411.19723": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "Random forests identify which galaxy properties are associated with lopsided structure.",
+    "reason": "Random forests identify which galaxy properties are associated with lopsided structure.",
+    "sources": [
+      "https://arxiv.org/abs/2411.19723"
+    ]
+  },
+  "2411.19158": {
+    "include": true,
+    "tags": [
+      "Bayesian inference",
+      "Generative models"
+    ],
+    "summary": "Diffusion priors support Bayesian image deconvolution and reveal which reconstructed features are driven by the prior.",
+    "reason": "Diffusion priors support Bayesian image deconvolution and reveal which reconstructed features are driven by the prior.",
+    "sources": [
+      "https://arxiv.org/abs/2411.19158"
+    ]
+  },
+  "2411.12397": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "Non-LTE inversions recover solar atmospheric information from the silicon 10827 Å line.",
+    "reason": "Non-LTE inversions recover solar atmospheric information from the silicon 10827 Å line.",
+    "sources": [
+      "https://arxiv.org/abs/2411.12397"
+    ]
+  },
+  "2410.24069": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference",
+      "Neural networks"
+    ],
+    "summary": "Variational autoencoders infer two-dimensional maps of stellar mass acquired through galaxy mergers.",
+    "reason": "Variational autoencoders infer two-dimensional maps of stellar mass acquired through galaxy mergers.",
+    "sources": [
+      "https://arxiv.org/abs/2410.24069"
+    ]
+  },
+  "2409.19066": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "Spectral energy distribution fitting estimates physical properties for more than 1.3 million DESI galaxies.",
+    "reason": "Spectral energy distribution fitting estimates physical properties for more than 1.3 million DESI galaxies.",
+    "sources": [
+      "https://arxiv.org/abs/2409.19066"
+    ]
+  },
+  "2409.05156": {
+    "include": true,
+    "tags": [
+      "Neural networks",
+      "Spectral inference"
+    ],
+    "summary": "Neural fields regularize spectropolarimetric inversions of the solar chromospheric magnetic field.",
+    "reason": "Neural fields regularize spectropolarimetric inversions of the solar chromospheric magnetic field.",
+    "sources": [
+      "https://arxiv.org/abs/2409.05156"
+    ]
+  },
+  "2408.07645": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "Spectral inversions reconstruct the atmospheric properties of sunspot light bridges on a geometric height scale.",
+    "reason": "Spectral inversions reconstruct the atmospheric properties of sunspot light bridges on a geometric height scale.",
+    "sources": [
+      "https://arxiv.org/abs/2408.07645"
+    ]
+  },
+  "2408.00939": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "summary": "Nested sampling combines stellar motions and pulsar timing to constrain the central mass components of Omega Centauri.",
+    "reason": "Nested sampling combines stellar motions and pulsar timing to constrain the central mass components of Omega Centauri.",
+    "sources": [
+      "https://arxiv.org/abs/2408.00939",
+      "https://arxiv.org/html/2408.00939"
+    ]
+  },
+  "2407.03918": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "summary": "Markov-chain Monte Carlo fits quantify the baryon acoustic oscillation shift in simulated Lyman-alpha forests.",
+    "reason": "Markov-chain Monte Carlo fits quantify the baryon acoustic oscillation shift in simulated Lyman-alpha forests.",
+    "sources": [
+      "https://arxiv.org/abs/2407.03918"
+    ]
+  },
+  "2407.00166": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "AI estimates how much stellar mass nearby galaxies formed internally and acquired through mergers.",
+    "reason": "AI estimates how much stellar mass nearby galaxies formed internally and acquired through mergers.",
+    "sources": [
+      "https://arxiv.org/abs/2407.00166",
+      "https://doi.org/10.1038/s41550-024-02327-3"
+    ],
+    "journal": "Nature Astronomy 8, 1310–1320 (2024)",
+    "doi": "10.1038/s41550-024-02327-3"
+  },
+  "2406.18661": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference"
+    ],
+    "summary": "Simulation-based inference reconstructs galaxy star-formation histories from spectra with posterior uncertainties.",
+    "reason": "Simulation-based inference reconstructs galaxy star-formation histories from spectra with posterior uncertainties.",
+    "sources": [
+      "https://arxiv.org/abs/2406.18661"
+    ]
+  },
+  "2406.02387": {
+    "include": true,
+    "tags": [
+      "Neural networks"
+    ],
+    "summary": "A neural emulator accelerates interstellar chemical calculations for physical modelling and inference.",
+    "reason": "A neural emulator accelerates interstellar chemical calculations for physical modelling and inference.",
+    "sources": [
+      "https://arxiv.org/abs/2406.02387",
+      "https://doi.org/10.1093/mnras/stae1432"
+    ],
+    "journal": "MNRAS 531, 4930–4943 (2024)",
+    "doi": "10.1093/mnras/stae1432"
+  },
+  "2405.20385": {
+    "include": true,
+    "tags": [
+      "Bayesian inference",
+      "Spectral inference"
+    ],
+    "summary": "CIGALE and Prospector infer galaxy properties from PAU narrow-band photometry and assess model-dependent uncertainties.",
+    "reason": "CIGALE and Prospector infer galaxy properties from PAU narrow-band photometry and assess model-dependent uncertainties.",
+    "sources": [
+      "https://arxiv.org/abs/2405.20385"
+    ]
+  },
+  "2405.10319": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "A calibrated bias-assignment method maps standard cosmological simulations into modified-gravity tracer distributions.",
+    "reason": "A calibrated bias-assignment method maps standard cosmological simulations into modified-gravity tracer distributions.",
+    "sources": [
+      "https://arxiv.org/abs/2405.10319"
+    ]
+  },
+  "2405.09864": {
+    "include": true,
+    "tags": [
+      "Neural networks"
+    ],
+    "summary": "A neural emulator accelerates solar image restoration with spatially varying atmospheric degradation.",
+    "reason": "A neural emulator accelerates solar image restoration with spatially varying atmospheric degradation.",
+    "sources": [
+      "https://arxiv.org/abs/2405.09864"
+    ]
+  },
+  "2404.09958": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "Unsupervised spectral classification compares galaxy populations across nine billion years of evolution.",
+    "reason": "Unsupervised spectral classification compares galaxy populations across nine billion years of evolution.",
+    "sources": [
+      "https://arxiv.org/abs/2404.09958"
+    ]
+  },
+  "2404.02959": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "summary": "Likelihood-weighted CIGALE estimates compare star formation in AGN hosts and inactive galaxies across environments.",
+    "reason": "Likelihood-weighted CIGALE estimates compare star formation in AGN hosts and inactive galaxies across environments.",
+    "sources": [
+      "https://arxiv.org/abs/2404.02959",
+      "https://arxiv.org/html/2404.02959"
+    ]
+  },
+  "2401.09632": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "Deep-learning merger identification tests the connection between galaxy interactions and Seyfert activity.",
+    "reason": "Deep-learning merger identification tests the connection between galaxy interactions and Seyfert activity.",
+    "sources": [
+      "https://arxiv.org/abs/2401.09632"
+    ]
+  },
+  "2309.00612": {
+    "include": true,
+    "tags": [
+      "Bayesian inference",
+      "Neural networks"
+    ],
+    "summary": "Bayesian neural networks distinguish modified-gravity cosmologies from cosmic density volumes while quantifying uncertainty.",
+    "reason": "Bayesian neural networks distinguish modified-gravity cosmologies from cosmic density volumes while quantifying uncertainty.",
+    "sources": [
+      "https://arxiv.org/abs/2309.00612",
+      "https://doi.org/10.1051/0004-6361/202347929"
+    ],
+    "journal": "A&A 684, A100 (2024)",
+    "doi": "10.1051/0004-6361/202347929"
+  },
+  "2310.15232": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "summary": "Bayesian geometric inference reconstructs the three-dimensional shapes of high-redshift galaxies from JWST observations.",
+    "reason": "Bayesian geometric inference reconstructs the three-dimensional shapes of high-redshift galaxies from JWST observations.",
+    "sources": [
+      "https://arxiv.org/abs/2310.15232",
+      "https://doi.org/10.3847/1538-4357/ad1a13"
+    ],
+    "journal": "The Astrophysical Journal 963 (2024)",
+    "doi": "10.3847/1538-4357/ad1a13"
+  },
+  "2305.02478": {
+    "include": true,
+    "tags": [
+      "Machine learning"
+    ],
+    "summary": "Deep-learning morphology classification follows galaxy structure to redshift six with JWST.",
+    "reason": "Deep-learning morphology classification follows galaxy structure to redshift six with JWST.",
+    "sources": [
+      "https://arxiv.org/abs/2305.02478",
+      "https://doi.org/10.1051/0004-6361/202346800"
+    ],
+    "journal": "A&A 685, A48 (2024)",
+    "doi": "10.1051/0004-6361/202346800"
+  },
+  "2302.07277": {
+    "include": true,
+    "tags": [
+      "Foundation models"
+    ],
+    "summary": "Contrastive learning compares high-redshift JWST galaxies with cosmological simulations to investigate disk structure.",
+    "reason": "Contrastive learning compares high-redshift JWST galaxies with cosmological simulations to investigate disk structure.",
+    "sources": [
+      "https://arxiv.org/abs/2302.07277",
+      "https://doi.org/10.3847/1538-4357/ad05bb"
+    ],
+    "journal": "The Astrophysical Journal 961, 51 (2024)",
+    "doi": "10.3847/1538-4357/ad05bb"
+  },
+  "2607.02086": {
+    "include": false,
+    "reason": "Hyperon equilibration and neutrino-opacity calculations; no qualifying AI or advanced inference method established.",
+    "sources": [
+      "https://arxiv.org/abs/2607.02086"
+    ]
+  },
+  "2606.04830": {
+    "include": false,
+    "reason": "Forward treatment of cosmic variance and galaxy bias; no explicit advanced inverse method established.",
+    "sources": [
+      "https://arxiv.org/abs/2606.04830"
+    ]
+  },
+  "2604.11481": {
+    "include": false,
+    "reason": "Theoretical cosmic-web formation framework; no implemented AI or advanced inference method established.",
+    "sources": [
+      "https://arxiv.org/abs/2604.11481"
+    ]
+  },
+  "2603.15834": {
+    "include": false,
+    "reason": "Forward perturbative cosmic-web modelling; inference motivation alone does not meet the selection rule.",
+    "sources": [
+      "https://arxiv.org/abs/2603.15834"
+    ]
+  },
+  "2603.13106": {
+    "include": false,
+    "reason": "Forward Lagrangian dynamics; not an application of AI or an inverse method.",
+    "sources": [
+      "https://arxiv.org/abs/2603.13106"
+    ]
+  },
+  "2511.15275": {
+    "include": false,
+    "reason": "Spectral measurements and ordinary regression with bootstrap errors; no AI or advanced inverse method established.",
+    "sources": [
+      "https://arxiv.org/abs/2511.15275"
+    ]
+  },
+  "2509.15890": {
+    "include": false,
+    "reason": "Fast forward mock generation; no qualifying AI or advanced inference method established.",
+    "sources": [
+      "https://arxiv.org/abs/2509.15890"
+    ]
+  },
+  "2509.03590": {
+    "include": false,
+    "reason": "Observational scaling-relation analysis using existing physical-property estimates; no qualifying new inference procedure established.",
+    "sources": [
+      "https://arxiv.org/abs/2509.03590"
+    ]
+  },
+  "2508.00725": {
+    "include": false,
+    "reason": "Particle-physics cooling-bound calculation; no qualifying AI or advanced inference procedure established.",
+    "sources": [
+      "https://arxiv.org/abs/2508.00725"
+    ]
+  },
+  "2503.17323": {
+    "include": false,
+    "reason": "Particle-physics phenomenology review; no qualifying AI or inference implementation established.",
+    "sources": [
+      "https://arxiv.org/abs/2503.17323"
+    ]
+  },
+  "2411.01949": {
+    "include": false,
+    "reason": "Emission-line decomposition and changing-look classification; no advanced inference procedure established.",
+    "sources": [
+      "https://arxiv.org/abs/2411.01949"
+    ]
+  },
+  "2408.01406": {
+    "include": false,
+    "reason": "Forward supernova and particle-emission modelling; no qualifying inference implementation established.",
+    "sources": [
+      "https://arxiv.org/abs/2408.01406"
+    ]
+  },
+  "2404.14103": {
+    "include": false,
+    "reason": "Mass-size and environment analysis using catalogue properties and standard profile fits; no qualifying advanced method established.",
+    "sources": [
+      "https://arxiv.org/abs/2404.14103"
+    ]
+  },
+  "2404.02604": {
+    "include": false,
+    "reason": "Forward non-LTE radiative modelling; not an inverse or learning method.",
+    "sources": [
+      "https://arxiv.org/abs/2404.02604"
+    ]
+  },
+  "2403.19337": {
+    "include": false,
+    "reason": "Forward hierarchical cosmic-web model motivated by future inference; no implemented inference procedure established.",
+    "sources": [
+      "https://arxiv.org/abs/2403.19337"
+    ]
+  },
+  "2402.17581": {
+    "include": false,
+    "reason": "Forward mock generation and sub-grid modelling; no qualifying inverse or learning method established.",
+    "sources": [
+      "https://arxiv.org/abs/2402.17581"
+    ]
+  },
+  "2305.10428": {
+    "include": false,
+    "reason": "Calibrated forward Lyman-alpha model; no qualifying AI or advanced posterior inference method established.",
+    "sources": [
+      "https://arxiv.org/abs/2305.10428",
+      "https://doi.org/10.1051/0004-6361/202346931"
+    ],
+    "journal": "A&A 682, A21 (2024)",
+    "doi": "10.1051/0004-6361/202346931"
+  }
+}
