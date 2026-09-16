@@ -1,20 +1,20 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import styles from './layout.module.css';
-import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 
-const name = 'IACDEEP';
-export const siteTitle = 'IACDEEP';
+export const siteTitle = 'Artificial Intelligence and Advance Inference (IA2)';
 
 export default function Layout({ children, home }) {
+  const { basePath } = useRouter();
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="images/logo_transparent.png" />
+        <title>{siteTitle}</title>
+        <link rel="icon" href={`${basePath}/images/logo_transparent.png`} />
         <meta
           name="description"
-          content="IAC DEEP webpage"
+          content="Artificial Intelligence and Advance Inference (IA2) at the Instituto de Astrofísica de Canarias."
         />
         <meta
           property="og:image"

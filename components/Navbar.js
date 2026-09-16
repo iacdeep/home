@@ -1,23 +1,15 @@
 // Navbar.js
-import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link as ScrollLink } from 'react-scroll';
 import { useRouter } from 'next/router';
 
 
 const Navbar = ({ links }) => {
-  const router = useRouter();
+  const { basePath } = useRouter();
 
-  const iacdeepLink = links.find((link) => link.text.startsWith('IACDEEP'));
+  const brandLink = links.find((link) => link.brand);
 
-  const otherLinks = links.filter((link) => !link.text.startsWith('IACDEEP'));
-
-  const handleIACDEEPLinkClick = () => {
-    // Conditionally reload the page only if the link is not the "about" section
-    if (iacdeepLink.to !== 'about') {
-      router.reload();
-    }
-  };
+  const otherLinks = links.filter((link) => !link.brand);
 
   return (
     <nav className="navbar">
@@ -37,13 +29,13 @@ const Navbar = ({ links }) => {
           }}
         >
           <img
-            src="images/logo_color.png"
-            alt="Logo"
+            src={`${basePath}/images/logo_color.png`}
+            alt=""
             style={{ width: '50px', height: '50px', marginRight: '10px' }}
           />
           <ScrollLink
             activeClass="active"
-            to={iacdeepLink.to}
+            to={brandLink.to}
             spy={true}
             smooth={true}
             offset={-70}
@@ -56,9 +48,8 @@ const Navbar = ({ links }) => {
               fontSize: '1.4em',
               verticalAlign: 'middle',
             }}
-            onClick={handleIACDEEPLinkClick}
           >
-            {iacdeepLink.text}
+            {brandLink.text}
           </ScrollLink>
         </motion.li>
       </ul>

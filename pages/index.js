@@ -7,12 +7,8 @@ import Meetings from './meetings';
 import ScrollToTop from '../components/ScrollToTop';
 import Navbar from '../components/Navbar';
 import { getPapers } from '../lib/papers';
-import { Link as ScrollLink } from 'react-scroll';
 import Layout, { siteTitle } from '../components/layout';
 import Head from 'next/head';
-import utilStyles from '../styles/utils.module.css';
-import Image from 'next/image';
-import { authors } from '../utils/constants';
 import { motion } from 'framer-motion';
 
 export async function getStaticProps() {
@@ -28,7 +24,7 @@ export async function getStaticProps() {
 export default function Home({ allPapers }) {
 
   const links = [
-    { text: 'IACDEEP - Machine learning group at IAC', to: '' },
+    { text: 'IA2 · IAC', to: 'title', brand: true },
     { text: 'ABOUT', to: 'about' },
     { text: 'TEAM MEMBERS', to: 'members' },
     { text: 'MEETINGS', to: 'meetings' },
@@ -58,7 +54,8 @@ export default function Home({ allPapers }) {
               }
             },
           }}>
-            <h1>IACDEEP - <br/> Machine Learning Group at IAC</h1>
+            <h1>{siteTitle}</h1>
+            <p className="institution">Instituto de Astrofísica de Canarias</p>
           </motion.div>
         </Layout>
       </div>
@@ -72,7 +69,6 @@ export default function Home({ allPapers }) {
 
       <style jsx>{`
         .background-container {
-          background-image: url('../public/images/background.jpg'); /* Update the path to your image */
           background-size: cover;
           background-position: top;
           background-repeat: no-repeat;
@@ -89,6 +85,16 @@ export default function Home({ allPapers }) {
           border-radius: 100px;
           font-size: 2.5rem;
           margin-bottom: 0; /* Reduce or remove margin-bottom */
+        }
+
+        h1 {
+          font-size: clamp(2rem, 5vw, 3.8rem);
+          line-height: 1.15;
+          overflow-wrap: break-word;
+        }
+
+        .institution {
+          font-size: 1.1rem;
         }
 
         ul {
