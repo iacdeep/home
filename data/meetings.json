@@ -4,9 +4,9 @@
     {
       "id": "2026-kickoff",
       "date": "2026-09-17",
-      "title": "Kick-off meeting",
-      "time": null,
-      "location": null
+      "title": "Kick-off meeting"
     }
-  ]
+  ],
+  "defaultTime": "12:00 pm WEST",
+  "defaultLocation": "GTC room"
 }

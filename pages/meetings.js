@@ -29,9 +29,9 @@ export default function Meetings({ embedded = false }) {
                     <p className={styles.fullDate}>{formatDate({ day: 'numeric', month: 'long', year: 'numeric' })}</p>
                     <h3>{meeting.title}</h3>
                     <p className={styles.logistics}>
-                      {meeting.time || 'Time to be announced'}
+                      {meeting.time || schedule.defaultTime}
                       <span aria-hidden="true"> · </span>
-                      {meeting.location || 'Location to be announced'}
+                      {meeting.location || schedule.defaultLocation}
                     </p>
                   </div>
                 </li>

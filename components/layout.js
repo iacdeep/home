@@ -11,7 +11,7 @@ export default function Layout({ children, home }) {
     <div className={styles.container}>
       <Head>
         <title>{siteTitle}</title>
-        <link rel="icon" href={`${basePath}/images/logo_transparent.png`} />
+        <link rel="icon" type="image/svg+xml" href={`${basePath}/images/ia2-logo.svg`} />
         <meta
           name="description"
           content="Artificial Intelligence and Advance Inference (IA2) at the Instituto de Astrofísica de Canarias."
