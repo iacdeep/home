@@ -22,7 +22,6 @@ const Navbar = ({ links }) => {
             },
           }}
           style={{
-            marginRight: '20px',
             listStyle: 'none',
             display: 'flex',
             alignItems: 'center',
@@ -65,7 +64,6 @@ const Navbar = ({ links }) => {
               },
             }}
             style={{
-              marginRight: index < otherLinks.length - 1 ? '50px' : '0',
               listStyle: 'none',
             }}
           >
@@ -95,12 +93,14 @@ const Navbar = ({ links }) => {
         .navbar {
           display: flex;
           justify-content: space-between;
+          flex-wrap: wrap;
+          gap: 1.25rem;
           align-items: center;
           padding: 1rem;
           background: rgba(255, 255, 255, 0.0);
           color: white;
-          margin-left: 75px;
-          margin-right: 25px;
+          max-width: 1200px;
+          margin: auto;
         }
 
         .left-nav,
@@ -109,6 +109,11 @@ const Navbar = ({ links }) => {
           list-style: none;
           padding: 0;
           margin: 0;
+        }
+
+        .right-nav {
+          flex-wrap: wrap;
+          gap: 1rem 2rem;
         }
 
         .nav-link {
@@ -127,8 +132,8 @@ const Navbar = ({ links }) => {
           .right-nav {
             flex-direction: column;
             align-items: center;
-            width: 100%; // Set width to 100% for proper alignment
-            text-align: center; // Center the text on mobile
+            width: 100%;
+            text-align: center;
           }
 
           .nav-link {

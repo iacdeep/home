@@ -1,9 +1,3 @@
-.sectionHeading {
-  margin: 1.75rem 0 1rem;
-  font-size: 1.2rem;
-  font-weight: 600;
-}
-
 .grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -40,7 +34,7 @@
   padding: 1rem;
 }
 
-.details h4 {
+.details h3 {
   margin: 0;
   font-size: 1.1rem;
   line-height: 1.35;
@@ -58,58 +52,9 @@
   font-weight: 600;
 }
 
-.credit {
-  margin: 0.75rem 0 0;
-  line-height: 1.4;
-}
-
-.credit a {
-  font-size: 0.8rem;
-  font-weight: 400;
-  color: #475569;
-}
-
 .details a:focus-visible {
   outline: 2px solid #005ba8;
   outline-offset: 4px;
-}
-
-.tableWrapper {
-  overflow-x: auto;
-}
-
-.table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 1rem;
-  background: #fff;
-  color: #172c40;
-}
-
-.table th, .table td {
-  padding: 0.8rem;
-  text-align: left;
-  border-bottom: 1px solid #d9e2eb;
-}
-
-.table thead {
-  background: #e8eef3;
-}
-
-.table tbody th {
-  font-weight: 600;
-}
-
-.srOnly {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  white-space: nowrap;
-  border: 0;
 }
 
 @media (max-width: 640px) {

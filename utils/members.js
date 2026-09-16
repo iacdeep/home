@@ -1,26 +1,22 @@
-// Senior roster confirmed by the group, September 2026.
+// Team roster confirmed by the group, September 2026.
 // Photo provenance: public/images/members/SOURCES.md.
 // Kept separate from the existing ADS author query.
-export const seniorMembers = [
+export const teamMembers = [
   {
     "id": "marc-huertas-company",
     "name": "Marc Huertas-Company",
-    "role": "Principal investigator",
+    "role": "Faculty",
     "photo": "/images/members/marc-huertas-company.jpg",
     "profileUrl": "https://mhuertascompany.github.io/",
-    "profileLabel": "Personal website",
-    "photoSourceUrl": "https://mhuertascompany.github.io/",
-    "photoCredit": "Marc Huertas-Company"
+    "profileLabel": "Personal website"
   },
   {
     "id": "andres-asensio-ramos",
     "name": "Andrés Asensio Ramos",
-    "role": "Senior member",
+    "role": "Faculty",
     "photo": "/images/members/andres-asensio-ramos.jpg",
     "profileUrl": "https://github.com/aasensio",
     "profileLabel": "GitHub profile",
-    "photoSourceUrl": "https://www.iac.es/es/divulgacion/galeria-multimedia/elemento-multimedia/andres-asensio-investigador-del-iac",
-    "photoCredit": "Alejandra Rueda / IAC",
     "photoCrop": {
       "width": "718.644%",
       "height": "auto",
@@ -34,31 +30,65 @@ export const seniorMembers = [
   {
     "id": "francisco-kitaura",
     "name": "Francisco Kitaura",
-    "role": "Senior member",
+    "role": "Faculty",
     "photo": "/images/members/francisco-kitaura.jpg",
     "profileUrl": "https://iac.es/es/user/1323/research-staff-ficha",
-    "profileLabel": "IAC profile",
-    "photoSourceUrl": "https://portalciencia.ull.es/investigadores/81583/detalle?lang=en",
-    "photoCredit": "Universidad de La Laguna"
+    "profileLabel": "IAC profile"
   },
   {
     "id": "jorge-camalich",
     "name": "Jorge Camalich",
-    "role": "Senior member",
+    "role": "Faculty",
     "photo": "/images/members/jorge-camalich.jpeg",
     "profileUrl": "https://iac.es/es/proyectos/teoria-de-astroparticulas",
-    "profileLabel": "IAC research page",
-    "photoSourceUrl": "https://iac.edu.es/es/divulgacion/noticias/el-iac-ilumina-el-lado-oscuro-del-universo-con-el-proyecto-undark",
-    "photoCredit": "Inés Bonet / IAC"
+    "profileLabel": "IAC research page"
   },
   {
     "id": "carlos-westendorp",
     "name": "Carlos Westendorp",
-    "role": "Senior member",
-    "photo": "/images/members/carlos-westendorp.jpg",
-    "profileUrl": "https://cvc.cervantes.es/ciencia/astronomia/made_in_spain/autores/carlos_westendorp_plaza.htm",
-    "profileLabel": "Author biography",
-    "photoSourceUrl": "https://cvc.cervantes.es/ciencia/astronomia/made_in_spain/autores/carlos_westendorp_plaza.htm",
-    "photoCredit": "Instituto Cervantes"
+    "role": "Faculty",
+    "photo": "/images/members/carlos-westendorp.jpg"
+  },
+  {
+    "id": "patricia-iglesias-navarro",
+    "name": "Patricia Iglesias-Navarro",
+    "role": "Grad Student",
+    "photo": "/images/members/patricia-iglesias-navarro.jpg",
+    "profileUrl": "https://patriglesias.github.io/",
+    "profileLabel": "Personal website"
+  },
+  {
+    "id": "gosia-siudek",
+    "name": "Gosia Siudek",
+    "role": "Postdoc",
+    "photo": "/images/members/gosia-siudek.png"
+  },
+  {
+    "id": "eduardo-hartmann",
+    "name": "Eduardo Hartmann",
+    "role": "Grad Student",
+    "photo": "/images/members/eduardo-hartmann.jpg"
+  },
+  {
+    "id": "marina-dunn",
+    "name": "Marina Dunn",
+    "role": "Grad Student",
+    "photo": "/images/members/marina-dunn.jpg",
+    "profileUrl": "https://marinadunn.github.io/",
+    "profileLabel": "Personal website"
+  },
+  {
+    "id": "valentina-fontirroig-rojas",
+    "name": "Valentina Fontirroig Rojas",
+    "role": "Grad Student",
+    "photo": "/images/members/valentina-fontirroig-rojas.jpg"
+  },
+  {
+    "id": "jorge-sarrato-alos",
+    "name": "Jorge M. Sarrato Alós",
+    "role": "Grad Student",
+    "photo": "/images/members/jorge-sarrato-alos.jpg",
+    "profileUrl": "https://github.com/jorgesarrato",
+    "profileLabel": "GitHub profile"
   }
 ];

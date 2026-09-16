@@ -10,6 +10,7 @@ import { getPapers } from '../lib/papers';
 import Layout, { siteTitle } from '../components/layout';
 import Head from 'next/head';
 import { motion } from 'framer-motion';
+import { useRouter } from 'next/router';
 
 export async function getStaticProps() {
   const allPapers = await getPapers();
@@ -22,6 +23,7 @@ export async function getStaticProps() {
 
 
 export default function Home({ allPapers }) {
+  const { basePath } = useRouter();
 
   const links = [
     { text: 'IA2 · IAC', to: 'title', brand: true },
@@ -37,28 +39,33 @@ export default function Home({ allPapers }) {
         <title>{siteTitle}</title>
       </Head>
 
-      <Navbar links={links} />
+      <header className="hero" style={{
+        backgroundImage: `linear-gradient(rgba(9, 24, 47, 0.35), rgba(9, 24, 47, 0.8)), url(${basePath}/images/background.jpg)`,
+      }}>
+        <Navbar links={links} />
 
-      <div id="title" className="background-container">
-        <Layout home>
-          <motion.div initial="hidden" animate="visible" variants={{
-            hidden: {
-              scale: 0.8,
-              opacity: 0
-            },
-            visible: {
-              scale: 1,
-              opacity: 1,
-              transition: {
-                delay: 0.4
-              }
-            },
-          }}>
-            <h1>{siteTitle}</h1>
-            <p className="institution">Instituto de Astrofísica de Canarias</p>
-          </motion.div>
-        </Layout>
-      </div>
+        <div id="title" className="background-container">
+          <Layout home>
+            <motion.div initial="hidden" animate="visible" variants={{
+              hidden: {
+                scale: 0.8,
+                opacity: 0
+              },
+              visible: {
+                scale: 1,
+                opacity: 1,
+                transition: {
+                  delay: 0.4
+                }
+              },
+            }}>
+              <h1>{siteTitle}</h1>
+              <p className="institution">Instituto de Astrofísica de Canarias</p>
+            </motion.div>
+          </Layout>
+        </div>
+
+      </header>
 
       <About />
       <Members />
@@ -68,23 +75,20 @@ export default function Home({ allPapers }) {
       <ScrollToTop />
 
       <style jsx>{`
-        .background-container {
+        .hero {
+          background-color: #09182f;
           background-size: cover;
-          background-position: top;
-          background-repeat: no-repeat;
-          display: flex;
+          background-position: center;
           color: white;
-          flex-direction: column;
-          justify-content: flex-start; /* Change to move content higher up */
-          align-items: center;
+          overflow: hidden;
+        }
+
+        .background-container {
+          color: white;
           text-align: center;
           max-width: 1000px;
           margin: auto;
-          padding: 20px;
-          //box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-          border-radius: 100px;
-          font-size: 2.5rem;
-          margin-bottom: 0; /* Reduce or remove margin-bottom */
+          padding: 1rem 1rem 2rem;
         }
 
         h1 {
@@ -97,24 +101,6 @@ export default function Home({ allPapers }) {
           font-size: 1.1rem;
         }
 
-        ul {
-          list-style: none;
-          padding: 0;
-          display: flex;
-          justify-content: center;
-        }
-
-        a {
-          color: white;
-          text-decoration: none;
-        }
-
-        /* Media Query for Small Screens (e.g., Mobile) */
-        @media only screen and (max-width: 800px) {
-          .background-container {
-            font-size: 1.8rem;
-          }
-        }
       `}</style>
     </div>
   );

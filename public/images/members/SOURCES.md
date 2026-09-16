@@ -1,6 +1,6 @@
-# Senior member portrait sources
+# Member portrait sources
 
-Retrieved 16 September 2026. Original files are retained; any display cropping is applied with CSS. No explicit reuse license was found on the source pages. Credits are also displayed on each card.
+Retrieved 16 September 2026. Original files are retained; any display cropping is applied with CSS. No explicit reuse license was found on the source pages. Credits are retained here for maintenance.
 
 ## Marc Huertas-Company
 
@@ -38,3 +38,51 @@ Retrieved 16 September 2026. Original files are retained; any display cropping i
 - Original image: https://cvc.cervantes.es/img/astronomia/made_in_spain/autor13_carlos_westendorp_plaza.jpg
 - Credit: Centro Virtual Cervantes / Instituto Cervantes
 - Notes: Small 70x90 historical portrait; name explicitly labeled in institutional source.
+
+## Patricia Iglesias-Navarro
+
+- File: `patricia-iglesias-navarro.jpg`
+- Source: https://patriglesias.github.io/
+- Original image: https://patriglesias.github.io/images/patricia_iglesias.jpeg
+- Credit: Patricia Iglesias Navarro personal website
+- Role: Grad Student. Personal website identifies PhD student at IAC.
+
+## Gosia Siudek
+
+- File: `gosia-siudek.png`
+- Source: https://bist.eu/research/conference-2019/
+- Original image: https://bist.eu/wp-content/uploads/2019/10/Malzorgata-300px.png
+- Credit: Barcelona Institute of Science and Technology (BIST)
+- Role: Postdoc. IAC POSTDOC Machine Learning 2023 award identifies Malgorzata Siudek; existing IACDEEP roster also PostDoc.
+
+## Eduardo Hartmann
+
+- File: `eduardo-hartmann.jpg`
+- Source: https://j-pas.org/collaboration
+- Original image: https://j-pas.org/resource/index/1?sp=remote_img/users/users_00591/user_00591.jpeg
+- Credit: J-PAS collaboration directory
+- Role: Grad Student. Directory names Eduardo Albuquerque Hartmann and Grad Student; IACDEEP current roster also Grad Student.
+
+## Marina Dunn
+
+- File: `marina-dunn.jpg`
+- Source: https://marinadunn.github.io/
+- Original image: https://marinadunn.github.io/assets/images/profile.JPEG
+- Credit: Marina M. Dunn personal website
+- Role: Grad Student. Personal page and IAC Talk to Them page identify predoctoral researcher.
+
+## Valentina Fontirroig Rojas
+
+- File: `valentina-fontirroig-rojas.jpg`
+- Source: https://astronomyontap.org/locations/canary-islands-spain/
+- Original image: https://astronomyontap.org/wp-content/uploads/2026/06/Valentina_Fontirroig_Rojas-edited.jpg
+- Credit: Astronomy on Tap Canary Islands
+- Role: Grad Student. User confirmed name and role; IAC directory page 38 lists PREDOC Predoc_25.
+
+## Jorge M. Sarrato Alós
+
+- File: `jorge-sarrato-alos.jpg`
+- Source: https://github.com/jorgesarrato
+- Original image: https://avatars.githubusercontent.com/u/100696598?v=4
+- Credit: Jorge Sarrato Alós GitHub profile
+- Role: Grad Student. GitHub identity corroborated by own LinkedIn linking jorgesarrato repositories. IACDEEP roster Grad Student; parent found IAC 2026 predoctoral evidence.
