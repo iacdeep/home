@@ -1,0 +1,24 @@
+.anchor { scroll-margin-top: 2rem; }
+.section { padding: 2rem 0; color: #182840; }
+.header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; margin-bottom: 1.8rem; }
+.eyebrow { margin: 0 0 .6rem; color: #437482; font-size: .8rem; font-weight: 700; letter-spacing: .14em; }
+.header h2 { margin: 0; font-size: clamp(1.9rem, 4vw, 2.6rem); line-height: 1.2; }
+.year { padding: .5rem .8rem; border-radius: 5px; background: #edf4f4; color: #245d64; font-size: .85rem; }
+.schedule { list-style: none; padding: 0; margin: 0; display: grid; gap: 1rem; }
+.meeting { display: grid; grid-template-columns: 112px minmax(0, 1fr); overflow: hidden; border: 1px solid #dce3e9; border-radius: 10px; background: #fff; }
+.date { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .2rem; padding: 1.2rem .6rem; background: #173c54; color: white; }
+.month { font-size: .85rem; font-weight: 600; text-transform: uppercase; letter-spacing: .12em; }
+.day { font-size: 2.6rem; font-weight: 700; line-height: 1.1; }
+.weekday { font-size: .75rem; color: #d4e6ec; }
+.details { padding: 1.4rem 1.6rem; align-self: center; overflow-wrap: anywhere; }
+.fullDate { margin: 0 0 .4rem; color: #596578; font-size: .85rem; }
+.details h3 { margin: 0 0 .65rem; font-size: 1.3rem; line-height: 1.35; }
+.logistics { margin: 0; color: #596578; font-size: .9rem; line-height: 1.65; }
+.note { margin: 1rem 0 0; color: #596578; font-size: .9rem; line-height: 1.6; }
+@media (max-width: 480px) {
+  .section { padding: 1.5rem 0; }
+  .meeting { grid-template-columns: 82px minmax(0, 1fr); }
+  .details { padding: 1.1rem; }
+  .details h3 { font-size: 1.15rem; }
+  .day { font-size: 2.2rem; }
+}

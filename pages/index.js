@@ -29,8 +29,8 @@ export default function Home({ allPapers }) {
     { text: 'IA2 · IAC', to: 'title', brand: true },
     { text: 'ABOUT', to: 'about' },
     { text: 'TEAM MEMBERS', to: 'members' },
-    { text: 'MEETINGS', to: 'meetings' },
     { text: 'FEATURED RESEARCH', to: 'papers' },
+    { text: 'MEETINGS', to: 'meetings' },
   ];
 
   return (
@@ -69,8 +69,8 @@ export default function Home({ allPapers }) {
 
       <About />
       <Members />
-      <Meetings />
       <Papers allPapers={allPapers} featured />
+      <Meetings embedded />
 
       <ScrollToTop />
 

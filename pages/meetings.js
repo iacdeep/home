@@ -1,56 +1,46 @@
-import Head from 'next/head';
-import Layout, { siteTitle } from '../components/layout';
-import utilStyles from '../styles/utils.module.css';
+import Layout from '../components/layout';
+import schedule from '../data/meetings.json';
+import styles from '../styles/meetings.module.css';
 
-export default function Meetings() {
+export default function Meetings({ embedded = false }) {
   return (
-    <div id="meetings"> {/* Add the id attribute here */}
-      <Layout home>
-        {/* Add the Image component here */}
-        <h2 className={utilStyles.headingLg}>Meetings</h2>
-        <div className="responsive-iframe">
-        <iframe
-          src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOG3qUlK87cqUNnrQuKIHNU0pl2HNVE6iSyUgnnH5SYjG0pMCnxt11ysdtDgcSq2GS7m-68lP-gPqe/pubhtml?gid=0&single=true&widget=true&headers=false&chrome=false"
-          title="Google Sheets Document"
-          frameBorder="0"
-          width="100%"
-          height="600"
-          allowFullScreen
-        ></iframe>
-      </div>
+    <div id="meetings" className={styles.anchor}>
+      <Layout home={embedded}>
+        <section className={styles.section} aria-labelledby="meetings-title">
+          <header className={styles.header}>
+            <div>
+              <p className={styles.eyebrow}>IA2 · GROUP MEETINGS</p>
+              <h2 id="meetings-title">Meetings</h2>
+            </div>
+            <span className={styles.year}>Academic year {schedule.academicYear}</span>
+          </header>
+          <ol className={styles.schedule}>
+            {schedule.meetings.map(meeting => {
+              const date = new Date(`${meeting.date}T12:00:00Z`);
+              const formatDate = options => new Intl.DateTimeFormat('en-GB', { ...options, timeZone: 'UTC' }).format(date);
+              return (
+                <li className={styles.meeting} key={meeting.id}>
+                  <time className={styles.date} dateTime={meeting.date} aria-label={formatDate({ dateStyle: 'full' })}>
+                    <span className={styles.month}>{formatDate({ month: 'short' })}</span>
+                    <span className={styles.day}>{formatDate({ day: 'numeric' })}</span>
+                    <span className={styles.weekday}>{formatDate({ weekday: 'long' })}</span>
+                  </time>
+                  <div className={styles.details}>
+                    <p className={styles.fullDate}>{formatDate({ day: 'numeric', month: 'long', year: 'numeric' })}</p>
+                    <h3>{meeting.title}</h3>
+                    <p className={styles.logistics}>
+                      {meeting.time || 'Time to be announced'}
+                      <span aria-hidden="true"> · </span>
+                      {meeting.location || 'Location to be announced'}
+                    </p>
+                  </div>
+                </li>
+              );
+            })}
+          </ol>
+          <p className={styles.note}>More meetings will be added throughout the academic year.</p>
+        </section>
       </Layout>
-
-      <style jsx>{`
-        .responsive-iframe {
-            class: "styled-table";
-            border-collapse: collapse;
-            margin: 25px 0;
-            font-size: 0.9em;
-            font-family: sans-serif;
-            min-width: 400px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-        }
-        .responsive-iframe tbody tr {
-            border-bottom: 1px solid #dddddd;
-        }
-
-        .responsive-iframe tbody tr:nth-of-type(even) {
-            background-color: #f3f3f3;
-        }
-
-        .responsive-iframe tbody tr.active-row {
-            font-weight: bold;
-            color: #009879;
-        }
-
-
-        td {
-          border: 1px solid #ddd;
-          padding: 10px;
-          text-align: left;
-        }
-      `}</style>
-
     </div>
   );
 }
