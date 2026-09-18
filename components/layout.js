@@ -3,7 +3,7 @@ import styles from './layout.module.css';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 
-export const siteTitle = 'Artificial Intelligence and Advance Inference (IA2)';
+export const siteTitle = 'Artificial Intelligence and Advanced Inference (IA2)';
 
 export default function Layout({ children, home }) {
   const { basePath } = useRouter();
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" type="image/svg+xml" href={`${basePath}/images/ia2-logo.svg`} />
         <meta
           name="description"
-          content="Artificial Intelligence and Advance Inference (IA2) at the Instituto de Astrofísica de Canarias."
+          content="Artificial Intelligence and Advanced Inference (IA2) at the Instituto de Astrofísica de Canarias."
         />
         <meta
           property="og:image"

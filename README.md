@@ -1,4 +1,4 @@
-# Artificial Intelligence and Advance Inference (IA2)
+# Artificial Intelligence and Advanced Inference (IA2)
 
 Website for the IA2 group at the Instituto de Astrofísica de Canarias.
 
