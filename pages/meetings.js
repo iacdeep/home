@@ -28,6 +28,7 @@ export default function Meetings({ embedded = false }) {
                   <div className={styles.details}>
                     <p className={styles.fullDate}>{formatDate({ day: 'numeric', month: 'long', year: 'numeric' })}</p>
                     <h3>{meeting.title}</h3>
+                    {meeting.speaker && <p className={styles.speaker}>{meeting.speaker}</p>}
                     <p className={styles.logistics}>
                       {meeting.time || schedule.defaultTime}
                       <span aria-hidden="true"> · </span>

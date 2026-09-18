@@ -5,6 +5,12 @@
       "id": "2026-kickoff",
       "date": "2026-09-17",
       "title": "Kick-off meeting"
+    },
+    {
+      "id": "2026-ai-solar-physics",
+      "date": "2026-10-01",
+      "title": "An overview of AI for solar physics at the IAC",
+      "speaker": "Andrés Asensio Ramos"
     }
   ],
   "defaultTime": "12:00 pm WEST",
