@@ -45,6 +45,13 @@
       ]
     },
     {
+      "id": "inigo-arregui",
+      "aliases": [
+        "I Arregui",
+        "Inigo Arregui"
+      ]
+    },
+    {
       "id": "patricia-iglesias-navarro",
       "aliases": [
         "P Iglesias Navarro",
@@ -57,6 +64,15 @@
         "M Siudek",
         "Malgorzata Siudek",
         "Gosia Siudek"
+      ]
+    },
+    {
+      "id": "carlos-diaz-baso",
+      "aliases": [
+        "C Diaz Baso",
+        "C J Diaz Baso",
+        "Carlos Diaz Baso",
+        "Carlos Jose Diaz Baso"
       ]
     },
     {
@@ -97,9 +113,9 @@
     }
   ],
   "arxivQueries": [
-    "au:Huertas OR au:Asensio OR au:Kitaura OR au:Camalich OR au:Westendorp OR au:Westerdorp OR au:Iglesias OR au:Siudek OR au:Hartmann OR au:Dunn OR au:Fontirroig OR au:Sarrato",
+    "au:Huertas OR au:Asensio OR au:Kitaura OR au:Camalich OR au:Westendorp OR au:Westerdorp OR au:Iglesias OR au:Siudek OR au:Hartmann OR au:Dunn OR au:Fontirroig OR au:Sarrato OR au:Arregui OR au:\"Diaz_Baso\"",
     "au:\"Huertas-Company\" OR au:\"Huertas Company\" OR au:\"Marc-Huertas Company\"",
-    "au:\"Huertas-Company\" OR au:\"Asensio_Ramos\" OR au:\"Kitaura\" OR au:\"Camalich\" OR au:\"Westendorp\" OR au:\"Iglesias_Navarro\" OR au:\"Siudek\" OR au:\"Hartmann_E\" OR au:\"Dunn_Marina\" OR au:\"Fontirroig\" OR au:\"Sarrato\""
+    "au:\"Huertas-Company\" OR au:\"Asensio_Ramos\" OR au:\"Kitaura\" OR au:\"Camalich\" OR au:\"Westendorp\" OR au:\"Iglesias_Navarro\" OR au:\"Siudek\" OR au:\"Hartmann_E\" OR au:\"Dunn_Marina\" OR au:\"Fontirroig\" OR au:\"Sarrato\" OR au:\"Arregui\" OR au:\"Diaz_Baso\""
   ],
   "adsAuthors": [
     "Huertas-Company, M",
@@ -112,6 +128,8 @@
     "Hartmann, E A",
     "Dunn, M M",
     "Fontirroig, V",
-    "Sarrato Alos, J"
+    "Sarrato Alos, J",
+    "Arregui, I",
+    "Diaz Baso, C"
   ]
 }

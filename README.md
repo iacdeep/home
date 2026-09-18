@@ -9,6 +9,8 @@ Website for the IA2 group at the Instituto de Astrofísica de Canarias.
 
 Edit `utils/members.js` to update team members, their order, roles, portraits and profile links. Portraits are stored in `public/images/members/` so the site does not depend on remote image servers. Record image sources and credits in `public/images/members/SOURCES.md` when replacing a photo.
 
+When adding a member, also update aliases and search queries in `data/research-config.json` and reconcile the saved catalogue's member matches. Run `python3 scripts/update_research.py --validate` before publishing; see `docs/research-maintenance.md` for the research workflow.
+
 The visible roster is maintained only in `utils/members.js`, with a role of `Faculty`, `Postdoc` (optionally qualified, e.g. `Postdoc (RyC)`) or `Grad Student` for each person. Members without a portrait use an `initials` placeholder until a photo is available. `utils/constants.js` continues to supply the existing publication search independently.
 
 ## Development
