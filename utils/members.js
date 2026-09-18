@@ -53,7 +53,7 @@ export const teamMembers = [
     "id": "inigo-arregui",
     "name": "Íñigo Arregui",
     "role": "Faculty",
-    "initials": "ÍA"
+    "photo": "/images/members/inigo-arregui.jpeg"
   },
   {
     "id": "patricia-iglesias-navarro",

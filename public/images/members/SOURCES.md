@@ -39,6 +39,15 @@ Retrieved 16 September 2026 unless otherwise noted. Original files are retained;
 - Credit: Centro Virtual Cervantes / Instituto Cervantes
 - Notes: Small 70x90 historical portrait; name explicitly labeled in institutional source.
 
+## Íñigo Arregui
+
+- File: `inigo-arregui.jpeg`
+- Source: https://www.linkedin.com/in/i%C3%B1igo-arregui-a5b36440/
+- Original image: https://media.licdn.com/dms/image/v2/D4D03AQGV2GZlHB0tOA/profile-displayphoto-crop_800_800/B4DZd_MBGVHAAI-/0/1750185555460
+- Credit: Íñigo Arregui's LinkedIn profile; no photographer identified.
+- Retrieved: 18 September 2026.
+- Notes: 800×800 profile portrait downloaded from the user-provided profile, which identifies him as a researcher at Instituto de Astrofísica de Canarias. Stored locally because LinkedIn media URLs expire. No additional cropping applied.
+
 ## Patricia Iglesias-Navarro
 
 - File: `patricia-iglesias-navarro.jpg`
