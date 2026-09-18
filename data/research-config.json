@@ -113,7 +113,7 @@
     }
   ],
   "arxivQueries": [
-    "au:Huertas OR au:Asensio OR au:Kitaura OR au:Camalich OR au:Westendorp OR au:Westerdorp OR au:Iglesias OR au:Siudek OR au:Hartmann OR au:Dunn OR au:Fontirroig OR au:Sarrato OR au:Arregui OR au:\"Diaz_Baso\"",
+    "au:Huertas OR au:Asensio OR au:Kitaura OR au:Camalich OR au:Westendorp OR au:Westerdorp OR au:Iglesias OR au:Siudek OR au:Hartmann OR au:Dunn OR au:Fontirroig OR au:Sarrato OR au:Arregui OR au:\"Diaz_Baso\" OR au:Baso",
     "au:\"Huertas-Company\" OR au:\"Huertas Company\" OR au:\"Marc-Huertas Company\"",
     "au:\"Huertas-Company\" OR au:\"Asensio_Ramos\" OR au:\"Kitaura\" OR au:\"Camalich\" OR au:\"Westendorp\" OR au:\"Iglesias_Navarro\" OR au:\"Siudek\" OR au:\"Hartmann_E\" OR au:\"Dunn_Marina\" OR au:\"Fontirroig\" OR au:\"Sarrato\" OR au:\"Arregui\" OR au:\"Diaz_Baso\""
   ],

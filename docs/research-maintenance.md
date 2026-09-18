@@ -26,6 +26,12 @@ This is a systematic search, not a guarantee of universal bibliographic complete
 | Jorge M. Sarrato Alós | 1 |
 | Marina Dunn | 0 |
 
+## Expanded-team refresh: 18 September 2026
+
+The catalogue was refreshed for Íñigo Arregui and Carlos Díaz Baso using the same date, first-three-author and research-method rules. Fully paginated arXiv queries returned 1,784 unique records, with 78 date/author-eligible candidates and 59 selected papers. Ten papers were added; all 49 previous entries were retained. Íñigo matches five selected papers and Carlos matches nine, including four already in the catalogue. ADS was not configured for this local refresh.
+
+The new members' eligible abstracts were manually reviewed, with decisions and source links saved in `data/research-overrides.json`. This includes Bayesian fitting and spectral-inversion applications missed by the conservative automatic classifier. A broad `au:Baso` query supplements the compound-name query, which did not return Carlos's records in this search; explicit author aliases still filter out unrelated authors. The counts in the initial-search table above remain historical.
+
 ## Selection rules
 
 - A current roster member must occur in positions 1, 2 or 3 of the ordered source author list. A collaboration label occupies a position; we do not silently remove it. ADS author lists take precedence when journal metadata is available.

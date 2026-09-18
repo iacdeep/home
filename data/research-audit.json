@@ -1,12 +1,12 @@
 {
-  "checked": "2026-09-16",
+  "checked": "2026-09-18",
   "sources": {
     "arxiv": "complete",
     "ads": "not configured"
   },
-  "uniqueRecords": 1738,
-  "eligibleAuthorRecords": 66,
-  "selectedPapers": 49,
+  "uniqueRecords": 1784,
+  "eligibleAuthorRecords": 78,
+  "selectedPapers": 59,
   "screened": [
     {
       "id": "2609.01400",
@@ -19,6 +19,15 @@
           "id": "patricia-iglesias-navarro",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Ignacio Martín-Navarro",
+        "Patricia Iglesias Navarro",
+        "Francesco La Barbera"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2609.01400",
+        "https://arxiv.org/html/2609.01400"
       ]
     },
     {
@@ -32,6 +41,14 @@
           "id": "gosia-siudek",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "J. A. Alcolea",
+        "M. Siudek",
+        "M. Eriksen"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2607.07329"
       ]
     },
     {
@@ -45,6 +62,15 @@
           "id": "gosia-siudek",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Yerong Xu",
+        "Malgorzata Siudek",
+        "Victor Rodríguez Morales"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2607.06844",
+        "https://arxiv.org/html/2607.06844"
       ]
     },
     {
@@ -58,6 +84,14 @@
           "id": "jorge-camalich",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Ruben Zatini",
+        "Jorge Martin Camalich",
+        "Pasquale Dario Serpico"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2607.02086"
       ]
     },
     {
@@ -71,6 +105,14 @@
           "id": "andres-asensio-ramos",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "A. Asensio Ramos",
+        "K. E. Yang",
+        "M. J. Martinez Gonzalez"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2606.13004"
       ]
     },
     {
@@ -84,6 +126,13 @@
           "id": "francisco-kitaura",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Francesco Sinigaglia",
+        "Francisco-Shu Kitaura"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2606.04830"
       ]
     },
     {
@@ -97,6 +146,12 @@
           "id": "andres-asensio-ramos",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "A. Asensio Ramos"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2605.11980"
       ]
     },
     {
@@ -109,7 +164,40 @@
         {
           "id": "andres-asensio-ramos",
           "position": 2
+        },
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
         }
+      ],
+      "firstAuthors": [
+        "A. Vicente Arévalo",
+        "A. Asensio Ramos",
+        "C. J. Díaz Baso"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2605.09543"
+      ]
+    },
+    {
+      "id": "2605.03818",
+      "title": "IRIS NUV diagnostics for Ellerman bombs: spectral properties, thermodynamics, and formation height",
+      "url": "https://arxiv.org/abs/2605.03818",
+      "included": true,
+      "reason": "IRIS²⁺ spectral inversions recover atmospheric stratification and formation heights for Ellerman bombs.",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "I. J. Soler Poquet",
+        "C. J. Díaz Baso",
+        "A. Sainz Dalda"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2605.03818"
       ]
     },
     {
@@ -123,6 +211,31 @@
           "id": "francisco-kitaura",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "Francisco-Shu Kitaura"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2604.11481"
+      ]
+    },
+    {
+      "id": "2604.00654",
+      "title": "A comparison of pendulum models for large-amplitude longitudinal prominence oscillations",
+      "url": "https://arxiv.org/abs/2604.00654",
+      "included": true,
+      "reason": "Bayesian parameter inference and model comparison quantify prominence magnetic fields under competing pendulum models.",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Iñigo Arregui"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2604.00654"
       ]
     },
     {
@@ -136,6 +249,13 @@
           "id": "francisco-kitaura",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "Francisco-Shu Kitaura",
+        "Francesco Sinigaglia"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2603.15834"
       ]
     },
     {
@@ -149,6 +269,76 @@
           "id": "francisco-kitaura",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "Francisco-Shu Kitaura",
+        "Francesco Sinigaglia"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2603.13106"
+      ]
+    },
+    {
+      "id": "2602.20316",
+      "title": "Inspectorch: Efficient rare event exploration in solar observations",
+      "url": "https://arxiv.org/abs/2602.20316",
+      "included": true,
+      "reason": "Flow-based density estimation identifies rare solar events through probabilistic anomaly scores.",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "C. J. Díaz Baso",
+        "I. J. Soler Poquet",
+        "C. Kuckein"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2602.20316"
+      ]
+    },
+    {
+      "id": "2602.11884",
+      "title": "Signatures of Damping Nonlinear Oscillations by KHI-induced Turbulence in Synthetic Observations",
+      "url": "https://arxiv.org/abs/2602.11884",
+      "included": true,
+      "reason": "Bayesian fits to synthetic loop oscillations constrain amplitudes and periods while exposing degeneracies in damping parameters.",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Sihui Zhong",
+        "Andrew Hillier",
+        "Iñigo Arregui"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2602.11884"
+      ]
+    },
+    {
+      "id": "2601.01730",
+      "title": "Inferring physical parameters of solar filaments from simultaneous longitudinal and transverse oscillations",
+      "url": "https://arxiv.org/abs/2601.01730",
+      "included": true,
+      "reason": "Bayesian seismology combines longitudinal and transverse filament oscillations to infer magnetic fields, flux-tube lengths and twists.",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Upasna Baweja",
+        "Vaibhav Pant",
+        "Iñigo Arregui"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2601.01730"
       ]
     },
     {
@@ -162,6 +352,15 @@
           "id": "jorge-camalich",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Fernando Valenciano",
+        "Jorge Martin Camalich",
+        "Arianna Di Cintio"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2512.15886",
+        "https://arxiv.org/html/2512.15886"
       ]
     },
     {
@@ -175,6 +374,14 @@
           "id": "francisco-kitaura",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Ginevra Favole",
+        "Francisco-Shu Kitaura",
+        "Boryana Hadzhiyska"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2512.04362"
       ]
     },
     {
@@ -192,6 +399,14 @@
           "id": "carlos-westendorp",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "C. Ramos Almeida",
+        "A. Asensio Ramos",
+        "C. Westerdorp Plaza"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2512.02629"
       ]
     },
     {
@@ -205,6 +420,56 @@
           "id": "gosia-siudek",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Wei-Jian Guo",
+        "Victoria A. Fawcett",
+        "Małgorzata Siudek"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2511.15275"
+      ]
+    },
+    {
+      "id": "2511.14285",
+      "title": "MHD waves with mixed properties / Alfvén waves with pressure variations: a review",
+      "url": "https://arxiv.org/abs/2511.14285",
+      "included": false,
+      "reason": "Review of MHD-wave properties; no explicit qualifying AI or advanced-inference application established in the abstract.",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Marcel Goossens",
+        "Iñigo Arregui",
+        "Roberto Soler"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2511.14285"
+      ]
+    },
+    {
+      "id": "2510.16647",
+      "title": "Thermodynamic and magnetic evolution of an eruptive C-class solar flare observed with SST/TRIPPEL-SP",
+      "url": "https://arxiv.org/abs/2510.16647",
+      "included": true,
+      "reason": "Non-LTE spectropolarimetric inversions reconstruct the atmospheric evolution of an eruptive C-class solar flare.",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "C. J. Díaz Baso",
+        "J. de la Cruz Rodríguez",
+        "H. -P. Doerr"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2510.16647"
       ]
     },
     {
@@ -218,6 +483,14 @@
           "id": "francisco-kitaura",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Francesco Sinigaglia",
+        "Francisco-Shu Kitaura",
+        "Mahlet Shiferaw"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2509.15890"
       ]
     },
     {
@@ -231,6 +504,35 @@
           "id": "gosia-siudek",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "G. Mountrichas",
+        "M. Siudek",
+        "F. J. Carrera"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2509.03590"
+      ]
+    },
+    {
+      "id": "2508.16349",
+      "title": "Identification of Nonlinear Damping of Transverse Loop Oscillations by KHI-induced Turbulence",
+      "url": "https://arxiv.org/abs/2508.16349",
+      "included": true,
+      "reason": "MCMC fitting and Bayesian model comparison test nonlinear turbulence damping against linear models of coronal-loop oscillations.",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Sihui Zhong",
+        "Andrew Hillier",
+        "Iñigo Arregui"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2508.16349"
       ]
     },
     {
@@ -244,6 +546,14 @@
           "id": "jorge-camalich",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Claudio Andrea Manzari",
+        "Jorge Martin Camalich",
+        "Jonas Spinner"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2508.00725"
       ]
     },
     {
@@ -257,6 +567,13 @@
           "id": "andres-asensio-ramos",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "A. Asensio Ramos",
+        "J. de la Cruz Rodriguez"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2507.00594"
       ]
     },
     {
@@ -270,6 +587,14 @@
           "id": "gosia-siudek",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "M. Siudek",
+        "M. Mezcua",
+        "C. Circosta"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2506.09143"
       ]
     },
     {
@@ -287,6 +612,14 @@
           "id": "marc-huertas-company",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Patricia Iglesias-Navarro",
+        "Marc Huertas-Company",
+        "Pablo Pérez-González"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2506.04336"
       ]
     },
     {
@@ -300,6 +633,14 @@
           "id": "francisco-kitaura",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "P. Rosselló",
+        "F. -S. Kitaura",
+        "D. Forero-Sánchez"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2506.03969"
       ]
     },
     {
@@ -313,6 +654,14 @@
           "id": "andres-asensio-ramos",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "C. Kuckein",
+        "M. Collados",
+        "A. Asensio Ramos"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2505.24278"
       ]
     },
     {
@@ -325,7 +674,40 @@
         {
           "id": "andres-asensio-ramos",
           "position": 1
+        },
+        {
+          "id": "carlos-diaz-baso",
+          "position": 2
         }
+      ],
+      "firstAuthors": [
+        "A. Asensio Ramos",
+        "C. Díaz Baso",
+        "C. Kuckein"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2505.10639"
+      ]
+    },
+    {
+      "id": "2505.03023",
+      "title": "Automatic detection of Ellerman bombs using Deep Learning",
+      "url": "https://arxiv.org/abs/2505.03023",
+      "included": true,
+      "reason": "Neural networks detect Ellerman bombs in solar observations and assess the spectral and spatial information needed.",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "I. J. Soler Poquet",
+        "C. J. Díaz Baso",
+        "L. H. M. Rouppe van der Voort"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2505.03023"
       ]
     },
     {
@@ -339,6 +721,13 @@
           "id": "jorge-camalich",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "Jorge Martin Camalich",
+        "Robert Ziegler"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2503.17323"
       ]
     },
     {
@@ -356,6 +745,14 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Euclid Collaboration",
+        "M. Siudek",
+        "M. Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2503.15312"
       ]
     },
     {
@@ -369,6 +766,14 @@
           "id": "marc-huertas-company",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Euclid Collaboration",
+        "M. Huertas-Company",
+        "M. Walmsley"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2503.15311"
       ]
     },
     {
@@ -382,6 +787,15 @@
           "id": "gosia-siudek",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "A. Eróstegui",
+        "M. Mezcua",
+        "M. Siudek"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2503.03742",
+        "https://arxiv.org/html/2503.03742"
       ]
     },
     {
@@ -395,6 +809,14 @@
           "id": "andres-asensio-ramos",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "S. Esteban Pozuelo",
+        "A. Asensio Ramos",
+        "J. Trujillo Bueno"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2503.03670"
       ]
     },
     {
@@ -412,6 +834,15 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Eduardo A. Hartmann",
+        "Ignacio Martín-Navarro",
+        "Marc Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2501.06050",
+        "https://arxiv.org/html/2501.06050"
       ]
     },
     {
@@ -425,6 +856,14 @@
           "id": "valentina-fontirroig-rojas",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "Valentina Fontirroig",
+        "Facundo A. Gomez",
+        "Marcelo Jaque Arancibia"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2411.19723"
       ]
     },
     {
@@ -438,6 +877,14 @@
           "id": "andres-asensio-ramos",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "C. Quintero Noda",
+        "N. G. Shchukina",
+        "A. Asensio Ramos"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2411.12397"
       ]
     },
     {
@@ -451,6 +898,14 @@
           "id": "gosia-siudek",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Wei-Jian Guo",
+        "Zhiwei Pan",
+        "Małgorzata Siudek"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2411.01949"
       ]
     },
     {
@@ -464,6 +919,55 @@
           "id": "gosia-siudek",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "M. Siudek",
+        "R. Pucha",
+        "M. Mezcua"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2409.19066"
+      ]
+    },
+    {
+      "id": "2409.13677",
+      "title": "Spectral resolution effects on the information content in solar spectra",
+      "url": "https://arxiv.org/abs/2409.13677",
+      "included": true,
+      "reason": "SIR inversions of degraded synthetic Stokes spectra measure how spectral resolution affects inferred solar atmospheric parameters.",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "C. J. Díaz Baso",
+        "I. Milić",
+        "L. Rouppe van der Voort"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2409.13677"
+      ]
+    },
+    {
+      "id": "2409.13318",
+      "title": "Coronal heating",
+      "url": "https://arxiv.org/abs/2409.13318",
+      "included": false,
+      "reason": "Coronal-heating review chapter; no explicit qualifying AI or advanced-inference application established in the abstract.",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Iñigo Arregui",
+        "Tom Van Doorsselaere"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2409.13318"
       ]
     },
     {
@@ -474,9 +978,21 @@
       "reason": "Neural fields regularize spectropolarimetric inversions of the solar chromospheric magnetic field.",
       "matches": [
         {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        },
+        {
           "id": "andres-asensio-ramos",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "C. J. Díaz Baso",
+        "A. Asensio Ramos",
+        "J. de la Cruz Rodríguez"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2409.05156"
       ]
     },
     {
@@ -489,7 +1005,19 @@
         {
           "id": "andres-asensio-ramos",
           "position": 2
+        },
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
         }
+      ],
+      "firstAuthors": [
+        "S. Esteban Pozuelo",
+        "A. Asensio Ramos",
+        "C. J. Díaz Baso"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2408.07645"
       ]
     },
     {
@@ -503,6 +1031,14 @@
           "id": "jorge-camalich",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Tobias Fischer",
+        "Jorge Martin Camalich",
+        "Hristijan Kochankovski"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2408.01406"
       ]
     },
     {
@@ -516,6 +1052,15 @@
           "id": "jorge-camalich",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Andrés Bañares-Hernández",
+        "Francesca Calore",
+        "Jorge Martin Camalich"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2408.00939",
+        "https://arxiv.org/html/2408.00939"
       ]
     },
     {
@@ -529,6 +1074,14 @@
           "id": "francisco-kitaura",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Francesco Sinigaglia",
+        "Francisco-Shu Kitaura",
+        "Kentaro Nagamine"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2407.03918"
       ]
     },
     {
@@ -546,6 +1099,15 @@
           "id": "carlos-westendorp",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "A. Asensio Ramos",
+        "C. Westendorp Plaza",
+        "D. Navarro-Almaida"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2406.02387",
+        "https://doi.org/10.1093/mnras/stae1432"
       ]
     },
     {
@@ -559,6 +1121,14 @@
           "id": "gosia-siudek",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Benjamin Csizi",
+        "Luca Tortorelli",
+        "Małgorzata Siudek"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2405.20385"
       ]
     },
     {
@@ -572,6 +1142,14 @@
           "id": "francisco-kitaura",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Jorge Enrique García-Farieta",
+        "Andrés Balaguera-Antolínez",
+        "Francisco-Shu Kitaura"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2405.10319"
       ]
     },
     {
@@ -585,6 +1163,12 @@
           "id": "andres-asensio-ramos",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "A. Asensio Ramos"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2405.09864"
       ]
     },
     {
@@ -598,6 +1182,14 @@
           "id": "gosia-siudek",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "M. Figueira",
+        "M. Siudek",
+        "A. Pollo"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2404.14103"
       ]
     },
     {
@@ -611,6 +1203,14 @@
           "id": "gosia-siudek",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "J. Dubois",
+        "M. Siudek",
+        "D. Fraix-Burnet"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2404.09958"
       ]
     },
     {
@@ -624,6 +1224,15 @@
           "id": "gosia-siudek",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "G. Mountrichas",
+        "M. Siudek",
+        "O. Cucciati"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2404.02959",
+        "https://arxiv.org/html/2404.02959"
       ]
     },
     {
@@ -637,6 +1246,14 @@
           "id": "andres-asensio-ramos",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "A. García Muñoz",
+        "A. Asensio Ramos",
+        "A. Faure"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2404.02604"
       ]
     },
     {
@@ -650,6 +1267,14 @@
           "id": "francisco-kitaura",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "J. M. Coloma-Nadal",
+        "F. -S. Kitaura",
+        "J. E. García-Farieta"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2403.19337"
       ]
     },
     {
@@ -663,6 +1288,35 @@
           "id": "francisco-kitaura",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Daniel Forero-Sánchez",
+        "Francisco-Shu Kitaura",
+        "Francesco Sinigaglia"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2402.17581"
+      ]
+    },
+    {
+      "id": "2401.05022",
+      "title": "Global Coronal Magnetic Field Estimation Using Bayesian Inference",
+      "url": "https://arxiv.org/abs/2401.05022",
+      "included": true,
+      "reason": "Bayesian inference maps coronal magnetic-field strengths from CoMP wave and density measurements, including uncertainty.",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Upasna Baweja",
+        "Vaibhav Pant",
+        "Iñigo Arregui"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2401.05022"
       ]
     },
     {
@@ -676,6 +1330,15 @@
           "id": "francisco-kitaura",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Jorge Enrique García-Farieta",
+        "Héctor J Hortúa",
+        "Francisco-Shu Kitaura"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2309.00612",
+        "https://doi.org/10.1051/0004-6361/202347929"
       ]
     },
     {
@@ -689,6 +1352,15 @@
           "id": "francisco-kitaura",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Francesco Sinigaglia",
+        "Francisco-Shu Kitaura",
+        "Kentaro Nagamine"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2305.10428",
+        "https://doi.org/10.1051/0004-6361/202346931"
       ]
     },
     {
@@ -706,6 +1378,14 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Patricia Iglesias-Navarro",
+        "Thomas Harvey",
+        "Marc Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2606.30750"
       ]
     },
     {
@@ -719,6 +1399,14 @@
           "id": "marc-huertas-company",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Ilay Kamai",
+        "Marc-Huertas Company",
+        "Mike J. Smith"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2602.09670"
       ]
     },
     {
@@ -732,6 +1420,14 @@
           "id": "marc-huertas-company",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Eirini Angeloudi",
+        "Marc Huertas-Company",
+        "Jesús Falcón-Barroso"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2509.25340"
       ]
     },
     {
@@ -745,6 +1441,14 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Euclid Collaboration",
+        "M. Walmsley",
+        "M. Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2503.15310"
       ]
     },
     {
@@ -758,6 +1462,14 @@
           "id": "jorge-sarrato-alos",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "Jorge Sarrato-Alós",
+        "Christopher Brook",
+        "Arianna Di Cintio"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2503.07717"
       ]
     },
     {
@@ -771,6 +1483,14 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Amanda Lue",
+        "Shy Genel",
+        "Marc Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2502.17568"
       ]
     },
     {
@@ -784,6 +1504,14 @@
           "id": "marc-huertas-company",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "M. Huertas-Company",
+        "M. Shuntov",
+        "Y. Dong"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2502.03532"
       ]
     },
     {
@@ -797,6 +1525,14 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Alessio Spagnoletti",
+        "Alexandre Boucaud",
+        "Marc Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2411.19158"
       ]
     },
     {
@@ -810,6 +1546,14 @@
           "id": "marc-huertas-company",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Eirini Angeloudi",
+        "Marc Huertas-Company",
+        "Jesús Falcón-Barroso"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2410.24069"
       ]
     },
     {
@@ -823,6 +1567,15 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Eirini Angeloudi",
+        "Jesús Falcón-Barroso",
+        "Marc Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2407.00166",
+        "https://doi.org/10.1038/s41550-024-02327-3"
       ]
     },
     {
@@ -840,6 +1593,14 @@
           "id": "marc-huertas-company",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "Patricia Iglesias-Navarro",
+        "Marc Huertas-Company",
+        "Ignacio Martín-Navarro"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2406.18661"
       ]
     },
     {
@@ -853,6 +1614,14 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "M. S. Avirett-Mackenzie",
+        "C. Villforth",
+        "M. Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2401.09632"
       ]
     },
     {
@@ -866,6 +1635,15 @@
           "id": "marc-huertas-company",
           "position": 3
         }
+      ],
+      "firstAuthors": [
+        "Viraj Pandya",
+        "Haowen Zhang",
+        "Marc Huertas-Company"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2310.15232",
+        "https://doi.org/10.3847/1538-4357/ad1a13"
       ]
     },
     {
@@ -879,6 +1657,15 @@
           "id": "marc-huertas-company",
           "position": 1
         }
+      ],
+      "firstAuthors": [
+        "M. Huertas-Company",
+        "K. G. Iyer",
+        "E. Angeloudi"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2305.02478",
+        "https://doi.org/10.1051/0004-6361/202346800"
       ]
     },
     {
@@ -892,6 +1679,15 @@
           "id": "marc-huertas-company",
           "position": 2
         }
+      ],
+      "firstAuthors": [
+        "J. Vega-Ferrero",
+        "M. Huertas-Company",
+        "L. Costantin"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2302.07277",
+        "https://doi.org/10.3847/1538-4357/ad05bb"
       ]
     }
   ]

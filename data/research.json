@@ -1,6 +1,6 @@
 {
   "since": "2024-01-01",
-  "lastChecked": "2026-09-16",
+  "lastChecked": "2026-09-18",
   "papers": [
     {
       "id": "2609.01400",
@@ -215,6 +215,121 @@
       ]
     },
     {
+      "id": "2605.03818",
+      "title": "IRIS NUV diagnostics for Ellerman bombs: spectral properties, thermodynamics, and formation height",
+      "url": "https://arxiv.org/abs/2605.03818",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-05-05",
+      "year": 2026,
+      "firstAuthors": [
+        "I. J. Soler Poquet",
+        "C. J. Díaz Baso",
+        "A. Sainz Dalda"
+      ],
+      "authorCount": 6,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "IRIS²⁺ spectral inversions recover atmospheric stratification and formation heights for Ellerman bombs.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2605.03818"
+      ]
+    },
+    {
+      "id": "2604.00654",
+      "title": "A comparison of pendulum models for large-amplitude longitudinal prominence oscillations",
+      "url": "https://arxiv.org/abs/2604.00654",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-04-01",
+      "year": 2026,
+      "firstAuthors": [
+        "Iñigo Arregui"
+      ],
+      "authorCount": 1,
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Bayesian parameter inference and model comparison quantify prominence magnetic fields under competing pendulum models.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2604.00654"
+      ]
+    },
+    {
+      "id": "2602.20316",
+      "title": "Inspectorch: Efficient rare event exploration in solar observations",
+      "url": "https://arxiv.org/abs/2602.20316",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-02-23",
+      "year": 2026,
+      "firstAuthors": [
+        "C. J. Díaz Baso",
+        "I. J. Soler Poquet",
+        "C. Kuckein"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Generative models"
+      ],
+      "summary": "Flow-based density estimation identifies rare solar events through probabilistic anomaly scores.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2602.20316"
+      ]
+    },
+    {
+      "id": "2602.11884",
+      "title": "Signatures of Damping Nonlinear Oscillations by KHI-induced Turbulence in Synthetic Observations",
+      "url": "https://arxiv.org/abs/2602.11884",
+      "doi": "10.3847/1538-4357/ae4223",
+      "journal": "",
+      "firstPosted": "2026-02-12",
+      "year": 2026,
+      "firstAuthors": [
+        "Sihui Zhong",
+        "Andrew Hillier",
+        "Iñigo Arregui"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Bayesian fits to synthetic loop oscillations constrain amplitudes and periods while exposing degeneracies in damping parameters.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2602.11884"
+      ]
+    },
+    {
       "id": "2602.09670",
       "title": "Talking with the Latents -- how to convert your LLM into an astronomer",
       "url": "https://arxiv.org/abs/2602.09670",
@@ -241,6 +356,35 @@
       "selection": "reviewed",
       "sources": [
         "https://arxiv.org/abs/2602.09670"
+      ]
+    },
+    {
+      "id": "2601.01730",
+      "title": "Inferring physical parameters of solar filaments from simultaneous longitudinal and transverse oscillations",
+      "url": "https://arxiv.org/abs/2601.01730",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-01-05",
+      "year": 2026,
+      "firstAuthors": [
+        "Upasna Baweja",
+        "Vaibhav Pant",
+        "Iñigo Arregui"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Bayesian seismology combines longitudinal and transverse filament oscillations to infer magnetic fields, flux-tube lengths and twists.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2601.01730"
       ]
     },
     {
@@ -336,6 +480,35 @@
       ]
     },
     {
+      "id": "2510.16647",
+      "title": "Thermodynamic and magnetic evolution of an eruptive C-class solar flare observed with SST/TRIPPEL-SP",
+      "url": "https://arxiv.org/abs/2510.16647",
+      "doi": "10.1051/0004-6361/202557756",
+      "journal": "A&A 707, A164 (2026)",
+      "firstPosted": "2025-10-18",
+      "year": 2026,
+      "firstAuthors": [
+        "C. J. Díaz Baso",
+        "J. de la Cruz Rodríguez",
+        "H. -P. Doerr"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "Non-LTE spectropolarimetric inversions reconstruct the atmospheric evolution of an eruptive C-class solar flare.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2510.16647"
+      ]
+    },
+    {
       "id": "2506.03969",
       "title": "Differentiable Fuzzy Cosmic-Web for Field Level Inference",
       "url": "https://arxiv.org/abs/2506.03969",
@@ -392,6 +565,35 @@
       "selection": "reviewed",
       "sources": [
         "https://arxiv.org/abs/2509.25340"
+      ]
+    },
+    {
+      "id": "2508.16349",
+      "title": "Identification of Nonlinear Damping of Transverse Loop Oscillations by KHI-induced Turbulence",
+      "url": "https://arxiv.org/abs/2508.16349",
+      "doi": "10.3847/1538-4357/adfd5c",
+      "journal": "",
+      "firstPosted": "2025-08-22",
+      "year": 2025,
+      "firstAuthors": [
+        "Sihui Zhong",
+        "Andrew Hillier",
+        "Iñigo Arregui"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "MCMC fitting and Bayesian model comparison test nonlinear turbulence damping against linear models of coronal-loop oscillations.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2508.16349"
       ]
     },
     {
@@ -545,6 +747,36 @@
       "selection": "reviewed",
       "sources": [
         "https://arxiv.org/abs/2505.10639"
+      ]
+    },
+    {
+      "id": "2505.03023",
+      "title": "Automatic detection of Ellerman bombs using Deep Learning",
+      "url": "https://arxiv.org/abs/2505.03023",
+      "doi": "10.1051/0004-6361/202453524",
+      "journal": "A&A 699, A54 (2025)",
+      "firstPosted": "2025-05-05",
+      "year": 2025,
+      "firstAuthors": [
+        "I. J. Soler Poquet",
+        "C. J. Díaz Baso",
+        "L. H. M. Rouppe van der Voort"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Neural networks"
+      ],
+      "summary": "Neural networks detect Ellerman bombs in solar observations and assess the spectral and spatial information needed.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2505.03023"
       ]
     },
     {
@@ -845,6 +1077,35 @@
       "selection": "reviewed",
       "sources": [
         "https://arxiv.org/abs/2411.19723"
+      ]
+    },
+    {
+      "id": "2409.13677",
+      "title": "Spectral resolution effects on the information content in solar spectra",
+      "url": "https://arxiv.org/abs/2409.13677",
+      "doi": "10.1051/0004-6361/202452331",
+      "journal": "A&A 693, A272 (2025)",
+      "firstPosted": "2024-09-20",
+      "year": 2025,
+      "firstAuthors": [
+        "C. J. Díaz Baso",
+        "I. Milić",
+        "L. Rouppe van der Voort"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Spectral inference"
+      ],
+      "summary": "SIR inversions of degraded synthetic Stokes spectra measure how spectral resolution affects inferred solar atmospheric parameters.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2409.13677"
       ]
     },
     {
@@ -1360,6 +1621,35 @@
       "selection": "reviewed",
       "sources": [
         "https://arxiv.org/abs/2401.09632"
+      ]
+    },
+    {
+      "id": "2401.05022",
+      "title": "Global Coronal Magnetic Field Estimation Using Bayesian Inference",
+      "url": "https://arxiv.org/abs/2401.05022",
+      "doi": "10.3847/1538-4357/ad1b57",
+      "journal": "The Astrophysical Journal, 2024, 963, 69",
+      "firstPosted": "2024-01-10",
+      "year": 2024,
+      "firstAuthors": [
+        "Upasna Baweja",
+        "Vaibhav Pant",
+        "Iñigo Arregui"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Bayesian inference maps coronal magnetic-field strengths from CoMP wave and density measurements, including uncertainty.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2401.05022"
       ]
     },
     {

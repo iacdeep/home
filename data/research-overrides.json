@@ -692,5 +692,131 @@
     ],
     "journal": "A&A 682, A21 (2024)",
     "doi": "10.1051/0004-6361/202346931"
+  },
+  "2604.00654": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "Bayesian parameter inference and model comparison quantify prominence magnetic fields under competing pendulum models.",
+    "summary": "Bayesian parameter inference and model comparison quantify prominence magnetic fields under competing pendulum models.",
+    "sources": [
+      "https://arxiv.org/abs/2604.00654"
+    ]
+  },
+  "2602.11884": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "Bayesian fits to synthetic loop oscillations constrain amplitudes and periods while exposing degeneracies in damping parameters.",
+    "summary": "Bayesian fits to synthetic loop oscillations constrain amplitudes and periods while exposing degeneracies in damping parameters.",
+    "sources": [
+      "https://arxiv.org/abs/2602.11884"
+    ]
+  },
+  "2601.01730": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "Bayesian seismology combines longitudinal and transverse filament oscillations to infer magnetic fields, flux-tube lengths and twists.",
+    "summary": "Bayesian seismology combines longitudinal and transverse filament oscillations to infer magnetic fields, flux-tube lengths and twists.",
+    "sources": [
+      "https://arxiv.org/abs/2601.01730"
+    ]
+  },
+  "2508.16349": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "MCMC fitting and Bayesian model comparison test nonlinear turbulence damping against linear models of coronal-loop oscillations.",
+    "summary": "MCMC fitting and Bayesian model comparison test nonlinear turbulence damping against linear models of coronal-loop oscillations.",
+    "sources": [
+      "https://arxiv.org/abs/2508.16349"
+    ]
+  },
+  "2401.05022": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "Bayesian inference maps coronal magnetic-field strengths from CoMP wave and density measurements, including uncertainty.",
+    "summary": "Bayesian inference maps coronal magnetic-field strengths from CoMP wave and density measurements, including uncertainty.",
+    "sources": [
+      "https://arxiv.org/abs/2401.05022"
+    ]
+  },
+  "2605.03818": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "reason": "IRIS²⁺ spectral inversions recover atmospheric stratification and formation heights for Ellerman bombs.",
+    "summary": "IRIS²⁺ spectral inversions recover atmospheric stratification and formation heights for Ellerman bombs.",
+    "sources": [
+      "https://arxiv.org/abs/2605.03818"
+    ]
+  },
+  "2602.20316": {
+    "include": true,
+    "tags": [
+      "Machine learning",
+      "Generative models"
+    ],
+    "reason": "Flow-based density estimation identifies rare solar events through probabilistic anomaly scores.",
+    "summary": "Flow-based density estimation identifies rare solar events through probabilistic anomaly scores.",
+    "sources": [
+      "https://arxiv.org/abs/2602.20316"
+    ]
+  },
+  "2510.16647": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "reason": "Non-LTE spectropolarimetric inversions reconstruct the atmospheric evolution of an eruptive C-class solar flare.",
+    "summary": "Non-LTE spectropolarimetric inversions reconstruct the atmospheric evolution of an eruptive C-class solar flare.",
+    "sources": [
+      "https://arxiv.org/abs/2510.16647"
+    ]
+  },
+  "2505.03023": {
+    "include": true,
+    "tags": [
+      "Machine learning",
+      "Neural networks"
+    ],
+    "reason": "Neural networks detect Ellerman bombs in solar observations and assess the spectral and spatial information needed.",
+    "summary": "Neural networks detect Ellerman bombs in solar observations and assess the spectral and spatial information needed.",
+    "sources": [
+      "https://arxiv.org/abs/2505.03023"
+    ]
+  },
+  "2409.13677": {
+    "include": true,
+    "tags": [
+      "Spectral inference"
+    ],
+    "reason": "SIR inversions of degraded synthetic Stokes spectra measure how spectral resolution affects inferred solar atmospheric parameters.",
+    "summary": "SIR inversions of degraded synthetic Stokes spectra measure how spectral resolution affects inferred solar atmospheric parameters.",
+    "sources": [
+      "https://arxiv.org/abs/2409.13677"
+    ]
+  },
+  "2511.14285": {
+    "include": false,
+    "reason": "Review of MHD-wave properties; no explicit qualifying AI or advanced-inference application established in the abstract.",
+    "sources": [
+      "https://arxiv.org/abs/2511.14285"
+    ]
+  },
+  "2409.13318": {
+    "include": false,
+    "reason": "Coronal-heating review chapter; no explicit qualifying AI or advanced-inference application established in the abstract.",
+    "sources": [
+      "https://arxiv.org/abs/2409.13318"
+    ]
   }
 }
