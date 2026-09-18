@@ -34,6 +34,17 @@
   padding: 1rem;
 }
 
+.initials {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  background: #e8eef3;
+  color: #475569;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
 .details h3 {
   margin: 0;
   font-size: 1.1rem;

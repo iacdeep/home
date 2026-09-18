@@ -50,6 +50,12 @@ export const teamMembers = [
     "photo": "/images/members/carlos-westendorp.jpg"
   },
   {
+    "id": "inigo-arregui",
+    "name": "Íñigo Arregui",
+    "role": "Faculty",
+    "initials": "ÍA"
+  },
+  {
     "id": "patricia-iglesias-navarro",
     "name": "Patricia Iglesias-Navarro",
     "role": "Grad Student",
@@ -62,6 +68,12 @@ export const teamMembers = [
     "name": "Gosia Siudek",
     "role": "Postdoc",
     "photo": "/images/members/gosia-siudek.png"
+  },
+  {
+    "id": "carlos-diaz-baso",
+    "name": "Carlos Díaz Baso",
+    "role": "Postdoc (RyC)",
+    "photo": "/images/members/carlos-diaz-baso.jpg"
   },
   {
     "id": "eduardo-hartmann",

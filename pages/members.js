@@ -14,7 +14,7 @@ export default function Members() {
           {teamMembers.map(member => (
             <li key={member.id} className={styles.card}>
               <div className={styles.photoFrame}>
-                <img
+                {member.photo ? <img
                   className={styles.portrait}
                   src={`${basePath}${member.photo}`}
                   alt={`Portrait of ${member.name}`}
@@ -23,7 +23,11 @@ export default function Members() {
                   loading="lazy"
                   decoding="async"
                   style={member.photoCrop}
-                />
+                /> : (
+                  <div className={styles.initials} aria-hidden="true">
+                    {member.initials}
+                  </div>
+                )}
               </div>
               <div className={styles.details}>
                 <h3>{member.name}</h3>

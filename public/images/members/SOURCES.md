@@ -1,6 +1,6 @@
 # Member portrait sources
 
-Retrieved 16 September 2026. Original files are retained; any display cropping is applied with CSS. No explicit reuse license was found on the source pages. Credits are retained here for maintenance.
+Retrieved 16 September 2026 unless otherwise noted. Original files are retained; any display cropping is applied with CSS. No explicit reuse license was found on the source pages. Credits are retained here for maintenance.
 
 ## Marc Huertas-Company
 
@@ -54,6 +54,15 @@ Retrieved 16 September 2026. Original files are retained; any display cropping i
 - Original image: https://bist.eu/wp-content/uploads/2019/10/Malzorgata-300px.png
 - Credit: Barcelona Institute of Science and Technology (BIST)
 - Role: Postdoc. IAC POSTDOC Machine Learning 2023 award identifies Malgorzata Siudek; existing IACDEEP roster also PostDoc.
+
+## Carlos Díaz Baso
+
+- File: `carlos-diaz-baso.jpg`
+- Source: https://www.iac.es/en/mobility/dr-carlos-jose-diaz-baso-rosseland-centre-solar-physics-norway
+- Original image: https://www.iac.es/sites/default/files/images/stay/CarlosDiazBaso_IAC.jpg
+- Credit: Instituto de Astrofísica de Canarias (IAC); no photographer identified on the source page.
+- Retrieved: 18 September 2026.
+- Role: Postdoc (RyC), as confirmed by the group.
 
 ## Eduardo Hartmann
 
