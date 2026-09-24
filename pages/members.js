@@ -32,13 +32,6 @@ export default function Members() {
               <div className={styles.details}>
                 <h3>{member.name}</h3>
                 <p className={styles.role}>{member.role}</p>
-                {member.email && (
-                  <p className={styles.email}>
-                    <a href={`mailto:${member.email}`} aria-label={`Email ${member.name}`}>
-                      {member.email}
-                    </a>
-                  </p>
-                )}
                 {member.profileUrl && (
                   <a href={member.profileUrl} aria-label={`${member.profileLabel}: ${member.name}`}>
                     {member.profileLabel} <span aria-hidden="true">↗</span>

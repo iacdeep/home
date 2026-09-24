@@ -80,7 +80,8 @@ export const teamMembers = [
     "name": "Christopher Eckner",
     "role": "Postdoc",
     "photo": "/images/members/christopher-eckner.jpg",
-    "email": "ceckner@iac.es"
+    "profileUrl": "https://www.linkedin.com/in/christopher-eckner/",
+    "profileLabel": "LinkedIn profile"
   },
   {
     "id": "eduardo-hartmann",
@@ -124,6 +125,7 @@ export const teamMembers = [
       "left": "-73.913%",
       "top": "-53.913%"
     },
-    "email": "fernando.valenciano@iac.es"
+    "profileUrl": "https://iac.es/en/user/16907/research-staff-ficha",
+    "profileLabel": "IAC profile"
   }
 ];
