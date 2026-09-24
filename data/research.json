@@ -1,6 +1,6 @@
 {
   "since": "2024-01-01",
-  "lastChecked": "2026-09-18",
+  "lastChecked": "2026-09-24",
   "papers": [
     {
       "id": "2609.01400",
@@ -403,6 +403,10 @@
       "authorCount": 7,
       "matches": [
         {
+          "id": "fernando-valenciano",
+          "position": 1
+        },
+        {
           "id": "jorge-camalich",
           "position": 2
         }
@@ -538,6 +542,36 @@
       ]
     },
     {
+      "id": "2511.03350",
+      "title": "Stellar-like Galactic center excess challenges particle dark matter",
+      "url": "https://arxiv.org/abs/2511.03350",
+      "doi": "10.1103/2wkq-xrsc",
+      "journal": "",
+      "firstPosted": "2025-11-05",
+      "year": 2025,
+      "firstAuthors": [
+        "Silvia Manconi",
+        "Christopher Eckner",
+        "Francesca Calore"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Adaptive template fitting and MultiNest posterior sampling constrain dark matter contributions to the Galactic center excess.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2511.03350",
+        "https://arxiv.org/html/2511.03350"
+      ]
+    },
+    {
       "id": "2509.25340",
       "title": "The spatially-resolved effect of mergers on the stellar mass assembly of MaNGA galaxies",
       "url": "https://arxiv.org/abs/2509.25340",
@@ -565,6 +599,36 @@
       "selection": "reviewed",
       "sources": [
         "https://arxiv.org/abs/2509.25340"
+      ]
+    },
+    {
+      "id": "2509.20578",
+      "title": "Probing the Parameter Space of Axion-Like Particles Using Simulation-Based Inference",
+      "url": "https://arxiv.org/abs/2509.20578",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2025-09-24",
+      "year": 2025,
+      "firstAuthors": [
+        "Pooja Bhattacharjee",
+        "Christopher Eckner",
+        "Gabrijela Zaharijas"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Simulation-based inference",
+        "Neural networks"
+      ],
+      "summary": "Truncated marginal neural ratio estimation constrains axion-like particle parameters from simulated CTAO spectra.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2509.20578"
       ]
     },
     {
@@ -777,6 +841,36 @@
       "selection": "reviewed",
       "sources": [
         "https://arxiv.org/abs/2505.03023"
+      ]
+    },
+    {
+      "id": "2505.02906",
+      "title": "A robust neural determination of the source-count distribution of the Fermi-LAT sky at high latitudes",
+      "url": "https://arxiv.org/abs/2505.02906",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2025-05-05",
+      "year": 2025,
+      "firstAuthors": [
+        "Christopher Eckner",
+        "Noemi Anau Montel",
+        "Florian List"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Simulation-based inference",
+        "Neural networks"
+      ],
+      "summary": "Neural ratio estimation detects gamma-ray sources and reconstructs source-count distributions from Fermi-LAT data.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2505.02906"
       ]
     },
     {
@@ -1262,6 +1356,36 @@
       ]
     },
     {
+      "id": "2410.19909",
+      "title": "No evidence for gamma-ray emission from the Sagittarius dwarf spheroidal galaxy",
+      "url": "https://arxiv.org/abs/2410.19909",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2024-10-25",
+      "year": 2024,
+      "firstAuthors": [
+        "Christopher Eckner",
+        "Silvia Manconi",
+        "Francesca Calore"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Adaptive gamma-ray templates and nested sampling of pixel-count statistics test emission associated with the Sagittarius dwarf galaxy.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2410.19909",
+        "https://arxiv.org/html/2410.19909v1"
+      ]
+    },
+    {
       "id": "2409.19066",
       "title": "Value Added Catalog of physical properties of more than 1.3 million galaxies from the DESI Survey",
       "url": "https://arxiv.org/abs/2409.19066",
@@ -1480,6 +1604,36 @@
       ]
     },
     {
+      "id": "2405.15691",
+      "title": "Simulation-based inference of radio millisecond pulsars in globular clusters",
+      "url": "https://arxiv.org/abs/2405.15691",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2024-05-24",
+      "year": 2024,
+      "firstAuthors": [
+        "Joanna Berteaud",
+        "Christopher Eckner",
+        "Francesca Calore"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Simulation-based inference",
+        "Neural networks"
+      ],
+      "summary": "Marginal neural ratio estimation constrains the size and luminosity distribution of millisecond-pulsar populations in globular clusters.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2405.15691"
+      ]
+    },
+    {
       "id": "2405.10319",
       "title": "Fast simulation mapping: from standard to modified gravity cosmologies using the bias assignment method",
       "url": "https://arxiv.org/abs/2405.10319",
@@ -1592,6 +1746,36 @@
       "sources": [
         "https://arxiv.org/abs/2404.02959",
         "https://arxiv.org/html/2404.02959"
+      ]
+    },
+    {
+      "id": "2402.05449",
+      "title": "Robust inference of the Galactic centre gamma-ray excess spatial properties",
+      "url": "https://arxiv.org/abs/2402.05449",
+      "doi": "10.1093/mnras/stae923",
+      "journal": "2024MNRAS.530.4395S",
+      "firstPosted": "2024-02-08",
+      "year": 2024,
+      "firstAuthors": [
+        "Deheng Song",
+        "Christopher Eckner",
+        "Chris Gordon"
+      ],
+      "authorCount": 9,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Bayesian evidence compares Galactic center excess morphologies after adaptive optimization of diffuse-emission backgrounds.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2402.05449",
+        "https://arxiv.org/html/2402.05449"
       ]
     },
     {
@@ -1711,6 +1895,36 @@
       "sources": [
         "https://arxiv.org/abs/2309.00612",
         "https://doi.org/10.1051/0004-6361/202347929"
+      ]
+    },
+    {
+      "id": "2306.03925",
+      "title": "Uncovering axion-like particles in supernova gamma-ray spectra",
+      "url": "https://arxiv.org/abs/2306.03925",
+      "doi": "10.1103/PhysRevD.109.043010",
+      "journal": "Phys. Rev. D 109, 043010 (2024)",
+      "firstPosted": "2023-06-06",
+      "year": 2024,
+      "firstAuthors": [
+        "Francesca Calore",
+        "Pierluca Carenza",
+        "Christopher Eckner"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "MultiNest posterior sampling reconstructs axion-like particle parameters from simulated supernova gamma-ray spectra.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2306.03925",
+        "https://arxiv.org/pdf/2306.03925"
       ]
     },
     {

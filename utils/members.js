@@ -76,6 +76,13 @@ export const teamMembers = [
     "photo": "/images/members/carlos-diaz-baso.jpg"
   },
   {
+    "id": "christopher-eckner",
+    "name": "Christopher Eckner",
+    "role": "Postdoc",
+    "photo": "/images/members/christopher-eckner.jpg",
+    "email": "ceckner@iac.es"
+  },
+  {
     "id": "eduardo-hartmann",
     "name": "Eduardo Hartmann",
     "role": "Grad Student",
@@ -102,5 +109,21 @@ export const teamMembers = [
     "photo": "/images/members/jorge-sarrato-alos.jpg",
     "profileUrl": "https://github.com/jorgesarrato",
     "profileLabel": "GitHub profile"
+  },
+  {
+    "id": "fernando-valenciano",
+    "name": "Fernando Valenciano",
+    "role": "Grad Student",
+    "photo": "/images/members/fernando-valenciano.jpeg",
+    "photoCrop": {
+      "width": "203.478%",
+      "height": "auto",
+      "aspectRatio": "auto",
+      "maxWidth": "none",
+      "position": "absolute",
+      "left": "-73.913%",
+      "top": "-53.913%"
+    },
+    "email": "fernando.valenciano@iac.es"
   }
 ];

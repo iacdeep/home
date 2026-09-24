@@ -32,6 +32,12 @@ The catalogue was refreshed for Íñigo Arregui and Carlos Díaz Baso using the 
 
 The new members' eligible abstracts were manually reviewed, with decisions and source links saved in `data/research-overrides.json`. This includes Bayesian fitting and spectral-inversion applications missed by the conservative automatic classifier. A broad `au:Baso` query supplements the compound-name query, which did not return Carlos's records in this search; explicit author aliases still filter out unrelated authors. The counts in the initial-search table above remain historical.
 
+## Expanded-team refresh: 24 September 2026
+
+Christopher Eckner and Fernando Valenciano were added to the author searches, including Fernando's full surname Valenciano Ruano. Fully paginated arXiv queries returned 1,837 unique records, with 94 date/author-eligible candidates and 66 selected papers. All 59 previous entries were retained. Seven qualifying Christopher papers were added; Fernando matches one existing paper, *Cored galaxies in cuspy dark matter halos*.
+
+The new candidates were reviewed under the same rules, consulting full texts for ambiguous methods. Four Christopher papers use Bayesian posterior sampling or evidence comparisons not evident from the automatic abstract filter, including the 2023 supernova preprint published in 2024. Fernando's cosmic-ray spectral-break paper was excluded: its full text uses power-law fits, nuisance profiling and Monte Carlo significance calibration, without an established qualifying AI, Bayesian parameter-inference or advanced inverse method. Decisions and supporting sources are retained in `data/research-overrides.json` and `data/research-audit.json`. ADS was not configured for this refresh.
+
 ## Selection rules
 
 - A current roster member must occur in positions 1, 2 or 3 of the ordered source author list. A collaboration label occupies a position; we do not silently remove it. ADS author lists take precedence when journal metadata is available.

@@ -818,5 +818,148 @@
     "sources": [
       "https://arxiv.org/abs/2409.13318"
     ]
+  },
+  "2509.20578": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference",
+      "Neural networks"
+    ],
+    "reason": "Truncated marginal neural ratio estimation constrains axion-like particle parameters from simulated CTAO spectra.",
+    "summary": "Truncated marginal neural ratio estimation constrains axion-like particle parameters from simulated CTAO spectra.",
+    "sources": [
+      "https://arxiv.org/abs/2509.20578"
+    ]
+  },
+  "2505.02906": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference",
+      "Neural networks"
+    ],
+    "reason": "Neural ratio estimation detects gamma-ray sources and reconstructs source-count distributions from Fermi-LAT data.",
+    "summary": "Neural ratio estimation detects gamma-ray sources and reconstructs source-count distributions from Fermi-LAT data.",
+    "sources": [
+      "https://arxiv.org/abs/2505.02906"
+    ]
+  },
+  "2405.15691": {
+    "include": true,
+    "tags": [
+      "Simulation-based inference",
+      "Neural networks"
+    ],
+    "reason": "Marginal neural ratio estimation constrains the size and luminosity distribution of millisecond-pulsar populations in globular clusters.",
+    "summary": "Marginal neural ratio estimation constrains the size and luminosity distribution of millisecond-pulsar populations in globular clusters.",
+    "sources": [
+      "https://arxiv.org/abs/2405.15691"
+    ]
+  },
+  "2511.03350": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "Adaptive template fitting and MultiNest posterior sampling constrain dark matter contributions to the Galactic center excess.",
+    "summary": "Adaptive template fitting and MultiNest posterior sampling constrain dark matter contributions to the Galactic center excess.",
+    "sources": [
+      "https://arxiv.org/abs/2511.03350",
+      "https://arxiv.org/html/2511.03350"
+    ]
+  },
+  "2410.19909": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "Adaptive gamma-ray templates and nested sampling of pixel-count statistics test emission associated with the Sagittarius dwarf galaxy.",
+    "summary": "Adaptive gamma-ray templates and nested sampling of pixel-count statistics test emission associated with the Sagittarius dwarf galaxy.",
+    "sources": [
+      "https://arxiv.org/abs/2410.19909",
+      "https://arxiv.org/html/2410.19909v1"
+    ]
+  },
+  "2402.05449": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "Bayesian evidence compares Galactic center excess morphologies after adaptive optimization of diffuse-emission backgrounds.",
+    "summary": "Bayesian evidence compares Galactic center excess morphologies after adaptive optimization of diffuse-emission backgrounds.",
+    "sources": [
+      "https://arxiv.org/abs/2402.05449",
+      "https://arxiv.org/html/2402.05449"
+    ]
+  },
+  "2306.03925": {
+    "include": true,
+    "tags": [
+      "Bayesian inference"
+    ],
+    "reason": "MultiNest posterior sampling reconstructs axion-like particle parameters from simulated supernova gamma-ray spectra.",
+    "summary": "MultiNest posterior sampling reconstructs axion-like particle parameters from simulated supernova gamma-ray spectra.",
+    "sources": [
+      "https://arxiv.org/abs/2306.03925",
+      "https://arxiv.org/pdf/2306.03925"
+    ]
+  },
+  "2608.28757": {
+    "include": false,
+    "reason": "Power-law spectral fits, nuisance profiling and Monte Carlo significance calibration; no qualifying machine learning, Bayesian parameter inference or advanced inverse method established in the full text.",
+    "sources": [
+      "https://arxiv.org/abs/2608.28757",
+      "https://arxiv.org/html/2608.28757"
+    ]
+  },
+  "2512.17828": {
+    "include": false,
+    "reason": "Analytic scattering-amplitude constraints and numerical bootstrap; no qualifying AI or statistical inference application established.",
+    "sources": [
+      "https://arxiv.org/abs/2512.17828"
+    ]
+  },
+  "2512.15316": {
+    "include": false,
+    "reason": "Forward simulations and conventional CTAO sensitivity forecasts; no qualifying AI or advanced inference method established.",
+    "sources": [
+      "https://arxiv.org/abs/2512.15316"
+    ]
+  },
+  "2505.12905": {
+    "include": false,
+    "reason": "Lecture notes on WISP phenomenology and gamma-ray signatures; no explicit qualifying AI or advanced-inference application established.",
+    "sources": [
+      "https://arxiv.org/abs/2505.12905"
+    ]
+  },
+  "2501.09789": {
+    "include": false,
+    "reason": "Forward halo-population simulations and conventional detection likelihood sensitivity forecasts; no qualifying AI or advanced inference method established.",
+    "sources": [
+      "https://arxiv.org/abs/2501.09789",
+      "https://arxiv.org/html/2501.09789"
+    ]
+  },
+  "2405.21057": {
+    "include": false,
+    "reason": "Analytic Regge-trajectory constraints and linear-programming bootstrap, rather than qualifying AI or statistical inference.",
+    "sources": [
+      "https://arxiv.org/abs/2405.21057"
+    ]
+  },
+  "2401.08736": {
+    "include": false,
+    "reason": "Linear-programming bootstrap of scattering amplitudes; no qualifying AI or statistical inference application established.",
+    "sources": [
+      "https://arxiv.org/abs/2401.08736"
+    ]
+  },
+  "2306.16397": {
+    "include": false,
+    "reason": "Poisson likelihood-ratio upper limits on supernova gamma rays; no qualifying AI or advanced-inference application established in the full text.",
+    "sources": [
+      "https://arxiv.org/abs/2306.16397",
+      "https://arxiv.org/html/2306.16397"
+    ]
   }
 }

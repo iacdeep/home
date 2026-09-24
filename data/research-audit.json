@@ -1,12 +1,12 @@
 {
-  "checked": "2026-09-18",
+  "checked": "2026-09-24",
   "sources": {
     "arxiv": "complete",
     "ads": "not configured"
   },
-  "uniqueRecords": 1784,
-  "eligibleAuthorRecords": 78,
-  "selectedPapers": 59,
+  "uniqueRecords": 1837,
+  "eligibleAuthorRecords": 94,
+  "selectedPapers": 66,
   "screened": [
     {
       "id": "2609.01400",
@@ -28,6 +28,28 @@
       "sources": [
         "https://arxiv.org/abs/2609.01400",
         "https://arxiv.org/html/2609.01400"
+      ]
+    },
+    {
+      "id": "2608.28757",
+      "title": "Decisive evidence for a global cosmic-ray feature in gamma-ray data",
+      "url": "https://arxiv.org/abs/2608.28757",
+      "included": false,
+      "reason": "Power-law spectral fits, nuisance profiling and Monte Carlo significance calibration; no qualifying machine learning, Bayesian parameter inference or advanced inverse method established in the full text.",
+      "matches": [
+        {
+          "id": "fernando-valenciano",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Fernando Valenciano",
+        "Pedro De la Torre Luque",
+        "Daniele Gaggero"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2608.28757",
+        "https://arxiv.org/html/2608.28757"
       ]
     },
     {
@@ -321,6 +343,27 @@
       ]
     },
     {
+      "id": "2601.17113",
+      "title": "The Impact of Star Formation Histories on the Inner Dark Matter Density Slopes of Galaxies",
+      "url": "https://arxiv.org/abs/2601.17113",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-sarrato-alos",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Jorge Sarrato-Alós",
+        "James Bullock",
+        "Arianna Di Cintio"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2601.17113"
+      ]
+    },
+    {
       "id": "2601.01730",
       "title": "Inferring physical parameters of solar filaments from simultaneous longitudinal and transverse oscillations",
       "url": "https://arxiv.org/abs/2601.01730",
@@ -342,12 +385,37 @@
       ]
     },
     {
+      "id": "2512.17828",
+      "title": "Regge trajectories for UV completions of graviton scattering from polynomial boundedness",
+      "url": "https://arxiv.org/abs/2512.17828",
+      "included": false,
+      "reason": "Analytic scattering-amplitude constraints and numerical bootstrap; no qualifying AI or statistical inference application established.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Christopher Eckner",
+        "Felipe Figueroa",
+        "Simon Metayer"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2512.17828"
+      ]
+    },
+    {
       "id": "2512.15886",
       "title": "Cored galaxies in cuspy dark matter halos",
       "url": "https://arxiv.org/abs/2512.15886",
       "included": true,
       "reason": "Likelihood-based fits and model comparison test whether cuspy dark matter halos can reproduce apparently cored galaxies.",
       "matches": [
+        {
+          "id": "fernando-valenciano",
+          "position": 1
+        },
         {
           "id": "jorge-camalich",
           "position": 2
@@ -361,6 +429,27 @@
       "sources": [
         "https://arxiv.org/abs/2512.15886",
         "https://arxiv.org/html/2512.15886"
+      ]
+    },
+    {
+      "id": "2512.15316",
+      "title": "Prospects on detection of the Fermi Bubbles with CTAO",
+      "url": "https://arxiv.org/abs/2512.15316",
+      "included": false,
+      "reason": "Forward simulations and conventional CTAO sensitivity forecasts; no qualifying AI or advanced inference method established.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Francesco Xotta",
+        "Nina Bavdaž",
+        "Christopher Eckner"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2512.15316"
       ]
     },
     {
@@ -452,6 +541,28 @@
       ]
     },
     {
+      "id": "2511.03350",
+      "title": "Stellar-like Galactic center excess challenges particle dark matter",
+      "url": "https://arxiv.org/abs/2511.03350",
+      "included": true,
+      "reason": "Adaptive template fitting and MultiNest posterior sampling constrain dark matter contributions to the Galactic center excess.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Silvia Manconi",
+        "Christopher Eckner",
+        "Francesca Calore"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2511.03350",
+        "https://arxiv.org/html/2511.03350"
+      ]
+    },
+    {
       "id": "2510.16647",
       "title": "Thermodynamic and magnetic evolution of an eruptive C-class solar flare observed with SST/TRIPPEL-SP",
       "url": "https://arxiv.org/abs/2510.16647",
@@ -470,6 +581,27 @@
       ],
       "sources": [
         "https://arxiv.org/abs/2510.16647"
+      ]
+    },
+    {
+      "id": "2509.20578",
+      "title": "Probing the Parameter Space of Axion-Like Particles Using Simulation-Based Inference",
+      "url": "https://arxiv.org/abs/2509.20578",
+      "included": true,
+      "reason": "Truncated marginal neural ratio estimation constrains axion-like particle parameters from simulated CTAO spectra.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Pooja Bhattacharjee",
+        "Christopher Eckner",
+        "Gabrijela Zaharijas"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2509.20578"
       ]
     },
     {
@@ -665,6 +797,26 @@
       ]
     },
     {
+      "id": "2505.12905",
+      "title": "Lecture Notes: WISPs in gamma-ray astrophysics",
+      "url": "https://arxiv.org/abs/2505.12905",
+      "included": false,
+      "reason": "Lecture notes on WISP phenomenology and gamma-ray signatures; no explicit qualifying AI or advanced-inference application established.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Francesca Calore",
+        "Christopher Eckner"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2505.12905"
+      ]
+    },
+    {
       "id": "2505.10639",
       "title": "torchmfbd: a flexible multi-object multi-frame blind deconvolution code",
       "url": "https://arxiv.org/abs/2505.10639",
@@ -708,6 +860,27 @@
       ],
       "sources": [
         "https://arxiv.org/abs/2505.03023"
+      ]
+    },
+    {
+      "id": "2505.02906",
+      "title": "A robust neural determination of the source-count distribution of the Fermi-LAT sky at high latitudes",
+      "url": "https://arxiv.org/abs/2505.02906",
+      "included": true,
+      "reason": "Neural ratio estimation detects gamma-ray sources and reconstructs source-count distributions from Fermi-LAT data.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Christopher Eckner",
+        "Noemi Anau Montel",
+        "Florian List"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2505.02906"
       ]
     },
     {
@@ -820,6 +993,28 @@
       ]
     },
     {
+      "id": "2501.09789",
+      "title": "Detecting dark matter sub-halos in the Galactic plane with the Cherenkov Telescope Array Observatory",
+      "url": "https://arxiv.org/abs/2501.09789",
+      "included": false,
+      "reason": "Forward halo-population simulations and conventional detection likelihood sensitivity forecasts; no qualifying AI or advanced inference method established.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Christopher Eckner",
+        "Veronika Vodeb",
+        "Tejas Satheesh"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2501.09789",
+        "https://arxiv.org/html/2501.09789"
+      ]
+    },
+    {
       "id": "2501.06050",
       "title": "ZF-UDS-7329: A relic galaxy in the early Universe",
       "url": "https://arxiv.org/abs/2501.06050",
@@ -906,6 +1101,28 @@
       ],
       "sources": [
         "https://arxiv.org/abs/2411.01949"
+      ]
+    },
+    {
+      "id": "2410.19909",
+      "title": "No evidence for gamma-ray emission from the Sagittarius dwarf spheroidal galaxy",
+      "url": "https://arxiv.org/abs/2410.19909",
+      "included": true,
+      "reason": "Adaptive gamma-ray templates and nested sampling of pixel-count statistics test emission associated with the Sagittarius dwarf galaxy.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Christopher Eckner",
+        "Silvia Manconi",
+        "Francesca Calore"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2410.19909",
+        "https://arxiv.org/html/2410.19909v1"
       ]
     },
     {
@@ -1111,6 +1328,27 @@
       ]
     },
     {
+      "id": "2405.21057",
+      "title": "On the number of Regge trajectories for dual amplitudes",
+      "url": "https://arxiv.org/abs/2405.21057",
+      "included": false,
+      "reason": "Analytic Regge-trajectory constraints and linear-programming bootstrap, rather than qualifying AI or statistical inference.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Christopher Eckner",
+        "Felipe Figueroa",
+        "Piotr Tourkine"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2405.21057"
+      ]
+    },
+    {
       "id": "2405.20385",
       "title": "The PAU Survey: galaxy stellar population properties estimates with narrowband data",
       "url": "https://arxiv.org/abs/2405.20385",
@@ -1129,6 +1367,27 @@
       ],
       "sources": [
         "https://arxiv.org/abs/2405.20385"
+      ]
+    },
+    {
+      "id": "2405.15691",
+      "title": "Simulation-based inference of radio millisecond pulsars in globular clusters",
+      "url": "https://arxiv.org/abs/2405.15691",
+      "included": true,
+      "reason": "Marginal neural ratio estimation constrains the size and luminosity distribution of millisecond-pulsar populations in globular clusters.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Joanna Berteaud",
+        "Christopher Eckner",
+        "Francesca Calore"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2405.15691"
       ]
     },
     {
@@ -1299,6 +1558,49 @@
       ]
     },
     {
+      "id": "2402.05449",
+      "title": "Robust inference of the Galactic centre gamma-ray excess spatial properties",
+      "url": "https://arxiv.org/abs/2402.05449",
+      "included": true,
+      "reason": "Bayesian evidence compares Galactic center excess morphologies after adaptive optimization of diffuse-emission backgrounds.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Deheng Song",
+        "Christopher Eckner",
+        "Chris Gordon"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2402.05449",
+        "https://arxiv.org/html/2402.05449"
+      ]
+    },
+    {
+      "id": "2401.08736",
+      "title": "The Regge bootstrap, from linear to non-linear trajectories",
+      "url": "https://arxiv.org/abs/2401.08736",
+      "included": false,
+      "reason": "Linear-programming bootstrap of scattering amplitudes; no qualifying AI or statistical inference application established.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Christopher Eckner",
+        "Felipe Figueroa",
+        "Piotr Tourkine"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2401.08736"
+      ]
+    },
+    {
       "id": "2401.05022",
       "title": "Global Coronal Magnetic Field Estimation Using Bayesian Inference",
       "url": "https://arxiv.org/abs/2401.05022",
@@ -1339,6 +1641,50 @@
       "sources": [
         "https://arxiv.org/abs/2309.00612",
         "https://doi.org/10.1051/0004-6361/202347929"
+      ]
+    },
+    {
+      "id": "2306.16397",
+      "title": "Constraining MeV-scale axion-like particles with Fermi-LAT observations of SN 2023ixf",
+      "url": "https://arxiv.org/abs/2306.16397",
+      "included": false,
+      "reason": "Poisson likelihood-ratio upper limits on supernova gamma rays; no qualifying AI or advanced-inference application established in the full text.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Eike Ravensburg",
+        "Pierluca Carenza",
+        "Christopher Eckner"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2306.16397",
+        "https://arxiv.org/html/2306.16397"
+      ]
+    },
+    {
+      "id": "2306.03925",
+      "title": "Uncovering axion-like particles in supernova gamma-ray spectra",
+      "url": "https://arxiv.org/abs/2306.03925",
+      "included": true,
+      "reason": "MultiNest posterior sampling reconstructs axion-like particle parameters from simulated supernova gamma-ray spectra.",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Francesca Calore",
+        "Pierluca Carenza",
+        "Christopher Eckner"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2306.03925",
+        "https://arxiv.org/pdf/2306.03925"
       ]
     },
     {

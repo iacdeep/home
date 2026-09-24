@@ -76,6 +76,13 @@
       ]
     },
     {
+      "id": "christopher-eckner",
+      "aliases": [
+        "C Eckner",
+        "Christopher Eckner"
+      ]
+    },
+    {
       "id": "eduardo-hartmann",
       "aliases": [
         "E A Hartmann",
@@ -110,10 +117,19 @@
         "Jorge Sarrato Alos",
         "Jorge M Sarrato Alos"
       ]
+    },
+    {
+      "id": "fernando-valenciano",
+      "aliases": [
+        "F Valenciano",
+        "Fernando Valenciano",
+        "F Valenciano Ruano",
+        "Fernando Valenciano Ruano"
+      ]
     }
   ],
   "arxivQueries": [
-    "au:Huertas OR au:Asensio OR au:Kitaura OR au:Camalich OR au:Westendorp OR au:Westerdorp OR au:Iglesias OR au:Siudek OR au:Hartmann OR au:Dunn OR au:Fontirroig OR au:Sarrato OR au:Arregui OR au:\"Diaz_Baso\" OR au:Baso",
+    "au:Huertas OR au:Asensio OR au:Kitaura OR au:Camalich OR au:Westendorp OR au:Westerdorp OR au:Iglesias OR au:Siudek OR au:Hartmann OR au:Dunn OR au:Fontirroig OR au:Sarrato OR au:Arregui OR au:\"Diaz_Baso\" OR au:Baso OR au:Eckner OR au:Valenciano",
     "au:\"Huertas-Company\" OR au:\"Huertas Company\" OR au:\"Marc-Huertas Company\"",
     "au:\"Huertas-Company\" OR au:\"Asensio_Ramos\" OR au:\"Kitaura\" OR au:\"Camalich\" OR au:\"Westendorp\" OR au:\"Iglesias_Navarro\" OR au:\"Siudek\" OR au:\"Hartmann_E\" OR au:\"Dunn_Marina\" OR au:\"Fontirroig\" OR au:\"Sarrato\" OR au:\"Arregui\" OR au:\"Diaz_Baso\""
   ],
@@ -130,6 +146,8 @@
     "Fontirroig, V",
     "Sarrato Alos, J",
     "Arregui, I",
-    "Diaz Baso, C"
+    "Diaz Baso, C",
+    "Eckner, C",
+    "Valenciano, F"
   ]
 }

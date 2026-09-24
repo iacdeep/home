@@ -104,3 +104,21 @@ Retrieved 16 September 2026 unless otherwise noted. Original files are retained;
 - Original image: https://avatars.githubusercontent.com/u/100696598?v=4
 - Credit: Jorge Sarrato Alós GitHub profile
 - Role: Grad Student. GitHub identity corroborated by own LinkedIn linking jorgesarrato repositories. IACDEEP roster Grad Student; parent found IAC 2026 predoctoral evidence.
+
+## Christopher Eckner
+
+- File: `christopher-eckner.jpg`
+- Source: https://www.linkedin.com/in/christopher-eckner/
+- Original image: https://media.licdn.com/dms/image/v2/D4E03AQEBb_whEFplIw/profile-displayphoto-crop_800_800/B4EZmj1Yu9KwAI-/0/1759390307020
+- Credit: Christopher Eckner's LinkedIn profile; no photographer identified.
+- Retrieved: 24 September 2026.
+- Notes: 800×800 portrait from the profile identifying him as a postdoctoral researcher at the IAC. Stored locally because LinkedIn media URLs expire.
+
+## Fernando Valenciano
+
+- File: `fernando-valenciano.jpeg`
+- Source: https://iac.edu.es/en/outreach/news/los-rayos-gamma-y-la-materia-oscura-protagonizan-la-proxima-sesion-de-del-cielo-la-tesis-el-jueves-19-en-el
+- Original image: https://iac.edu.es/sites/default/files/images/inline-images/FernandoValenciano.jpeg
+- Credit: Instituto de Astrofísica de Canarias (IAC); no photographer identified.
+- Retrieved: 24 September 2026.
+- Notes: Caption identifies Fernando Valenciano. Original 2340×1771 image retained; CSS displays a 1150×1150 region beginning at x=850, y=620.
