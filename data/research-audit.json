@@ -1,12 +1,12 @@
 {
-  "checked": "2026-09-24",
+  "checked": "2026-09-30",
   "sources": {
     "arxiv": "complete",
-    "ads": "not configured"
+    "ads": "complete"
   },
-  "uniqueRecords": 1837,
-  "eligibleAuthorRecords": 94,
-  "selectedPapers": 66,
+  "uniqueRecords": 1976,
+  "eligibleAuthorRecords": 129,
+  "selectedPapers": 82,
   "screened": [
     {
       "id": "2609.01400",
@@ -21,9 +21,9 @@
         }
       ],
       "firstAuthors": [
-        "Ignacio Martín-Navarro",
-        "Patricia Iglesias Navarro",
-        "Francesco La Barbera"
+        "Martín-Navarro, Ignacio",
+        "Iglesias Navarro, Patricia",
+        "La Barbera, Francesco"
       ],
       "sources": [
         "https://arxiv.org/abs/2609.01400",
@@ -43,9 +43,9 @@
         }
       ],
       "firstAuthors": [
-        "Fernando Valenciano",
-        "Pedro De la Torre Luque",
-        "Daniele Gaggero"
+        "Valenciano, Fernando",
+        "De la Torre Luque, Pedro",
+        "Gaggero, Daniele"
       ],
       "sources": [
         "https://arxiv.org/abs/2608.28757",
@@ -65,9 +65,9 @@
         }
       ],
       "firstAuthors": [
-        "J. A. Alcolea",
-        "M. Siudek",
-        "M. Eriksen"
+        "Alcolea, J. A.",
+        "Siudek, M.",
+        "Eriksen, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2607.07329"
@@ -86,9 +86,9 @@
         }
       ],
       "firstAuthors": [
-        "Yerong Xu",
-        "Malgorzata Siudek",
-        "Victor Rodríguez Morales"
+        "Xu, Yerong",
+        "Siudek, Malgorzata",
+        "Morales, Victor Rodríguez"
       ],
       "sources": [
         "https://arxiv.org/abs/2607.06844",
@@ -129,9 +129,9 @@
         }
       ],
       "firstAuthors": [
-        "A. Asensio Ramos",
-        "K. E. Yang",
-        "M. J. Martinez Gonzalez"
+        "Asensio Ramos, A.",
+        "Yang, K. E.",
+        "Martínez González, M. J."
       ],
       "sources": [
         "https://arxiv.org/abs/2606.13004"
@@ -150,8 +150,8 @@
         }
       ],
       "firstAuthors": [
-        "Francesco Sinigaglia",
-        "Francisco-Shu Kitaura"
+        "Sinigaglia, Francesco",
+        "Kitaura, Francisco-Shu"
       ],
       "sources": [
         "https://arxiv.org/abs/2606.04830"
@@ -170,7 +170,7 @@
         }
       ],
       "firstAuthors": [
-        "A. Asensio Ramos"
+        "Asensio Ramos, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2605.11980"
@@ -193,9 +193,9 @@
         }
       ],
       "firstAuthors": [
-        "A. Vicente Arévalo",
-        "A. Asensio Ramos",
-        "C. J. Díaz Baso"
+        "Arévalo, A. Vicente",
+        "Asensio Ramos, A.",
+        "Díaz Baso, C. J."
       ],
       "sources": [
         "https://arxiv.org/abs/2605.09543"
@@ -214,9 +214,9 @@
         }
       ],
       "firstAuthors": [
-        "I. J. Soler Poquet",
-        "C. J. Díaz Baso",
-        "A. Sainz Dalda"
+        "Soler Poquet, I. J.",
+        "Díaz Baso, C. J.",
+        "Sainz Dalda, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2605.03818"
@@ -235,7 +235,7 @@
         }
       ],
       "firstAuthors": [
-        "Francisco-Shu Kitaura"
+        "Kitaura, Francisco-Shu"
       ],
       "sources": [
         "https://arxiv.org/abs/2604.11481"
@@ -254,7 +254,7 @@
         }
       ],
       "firstAuthors": [
-        "Iñigo Arregui"
+        "Arregui, Iñigo"
       ],
       "sources": [
         "https://arxiv.org/abs/2604.00654"
@@ -273,8 +273,8 @@
         }
       ],
       "firstAuthors": [
-        "Francisco-Shu Kitaura",
-        "Francesco Sinigaglia"
+        "Kitaura, Francisco-Shu",
+        "Sinigaglia, Francesco"
       ],
       "sources": [
         "https://arxiv.org/abs/2603.15834"
@@ -293,8 +293,8 @@
         }
       ],
       "firstAuthors": [
-        "Francisco-Shu Kitaura",
-        "Francesco Sinigaglia"
+        "Kitaura, Francisco-Shu",
+        "Sinigaglia, Francesco"
       ],
       "sources": [
         "https://arxiv.org/abs/2603.13106"
@@ -313,9 +313,9 @@
         }
       ],
       "firstAuthors": [
-        "C. J. Díaz Baso",
-        "I. J. Soler Poquet",
-        "C. Kuckein"
+        "Díaz Baso, C. J.",
+        "Soler Poquet, I. J.",
+        "Kuckein, C."
       ],
       "sources": [
         "https://arxiv.org/abs/2602.20316"
@@ -334,9 +334,9 @@
         }
       ],
       "firstAuthors": [
-        "Sihui Zhong",
-        "Andrew Hillier",
-        "Iñigo Arregui"
+        "Zhong, Sihui",
+        "Hillier, Andrew",
+        "Arregui, Iñigo"
       ],
       "sources": [
         "https://arxiv.org/abs/2602.11884"
@@ -355,9 +355,9 @@
         }
       ],
       "firstAuthors": [
-        "Jorge Sarrato-Alós",
-        "James Bullock",
-        "Arianna Di Cintio"
+        "Sarrato-Alós, J.",
+        "Bullock, J.",
+        "Di Cintio, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2601.17113"
@@ -376,9 +376,9 @@
         }
       ],
       "firstAuthors": [
-        "Upasna Baweja",
-        "Vaibhav Pant",
-        "Iñigo Arregui"
+        "Baweja, Upasna",
+        "Pant, Vaibhav",
+        "Arregui, Iñigo"
       ],
       "sources": [
         "https://arxiv.org/abs/2601.01730"
@@ -397,9 +397,9 @@
         }
       ],
       "firstAuthors": [
-        "Christopher Eckner",
-        "Felipe Figueroa",
-        "Simon Metayer"
+        "Eckner, Christopher",
+        "Figueroa, Felipe",
+        "Metayer, Simon"
       ],
       "sources": [
         "https://arxiv.org/abs/2512.17828"
@@ -422,9 +422,9 @@
         }
       ],
       "firstAuthors": [
-        "Fernando Valenciano",
-        "Jorge Martin Camalich",
-        "Arianna Di Cintio"
+        "Valenciano, Fernando",
+        "Martin Camalich, Jorge",
+        "Di Cintio, Arianna"
       ],
       "sources": [
         "https://arxiv.org/abs/2512.15886",
@@ -444,9 +444,9 @@
         }
       ],
       "firstAuthors": [
-        "Francesco Xotta",
-        "Nina Bavdaž",
-        "Christopher Eckner"
+        "Xotta, F.",
+        "Bavdaž, N.",
+        "Eckner, C."
       ],
       "sources": [
         "https://arxiv.org/abs/2512.15316"
@@ -465,9 +465,9 @@
         }
       ],
       "firstAuthors": [
-        "Ginevra Favole",
-        "Francisco-Shu Kitaura",
-        "Boryana Hadzhiyska"
+        "Favole, Ginevra",
+        "Kitaura, Francisco-Shu",
+        "Hadzhiyska, Boryana"
       ],
       "sources": [
         "https://arxiv.org/abs/2512.04362"
@@ -490,9 +490,9 @@
         }
       ],
       "firstAuthors": [
-        "C. Ramos Almeida",
-        "A. Asensio Ramos",
-        "C. Westerdorp Plaza"
+        "Ramos Almeida, C.",
+        "Asensio Ramos, A.",
+        "Westerdorp Plaza, C."
       ],
       "sources": [
         "https://arxiv.org/abs/2512.02629"
@@ -511,9 +511,9 @@
         }
       ],
       "firstAuthors": [
-        "Wei-Jian Guo",
-        "Victoria A. Fawcett",
-        "Małgorzata Siudek"
+        "Guo, Wei-Jian",
+        "Fawcett, Victoria A.",
+        "Siudek, Małgorzata"
       ],
       "sources": [
         "https://arxiv.org/abs/2511.15275"
@@ -532,9 +532,9 @@
         }
       ],
       "firstAuthors": [
-        "Marcel Goossens",
-        "Iñigo Arregui",
-        "Roberto Soler"
+        "Goossens, Marcel",
+        "Arregui, Iñigo",
+        "Soler, Roberto"
       ],
       "sources": [
         "https://arxiv.org/abs/2511.14285"
@@ -553,9 +553,9 @@
         }
       ],
       "firstAuthors": [
-        "Silvia Manconi",
-        "Christopher Eckner",
-        "Francesca Calore"
+        "Manconi, Silvia",
+        "Eckner, Christopher",
+        "Calore, Francesca"
       ],
       "sources": [
         "https://arxiv.org/abs/2511.03350",
@@ -575,9 +575,9 @@
         }
       ],
       "firstAuthors": [
-        "C. J. Díaz Baso",
-        "J. de la Cruz Rodríguez",
-        "H. -P. Doerr"
+        "Díaz Baso, C. J.",
+        "de la Cruz Rodríguez, J.",
+        "Doerr, H.-P."
       ],
       "sources": [
         "https://arxiv.org/abs/2510.16647"
@@ -596,9 +596,9 @@
         }
       ],
       "firstAuthors": [
-        "Pooja Bhattacharjee",
-        "Christopher Eckner",
-        "Gabrijela Zaharijas"
+        "Bhattacharjee, Pooja",
+        "Eckner, Christopher",
+        "Zaharijas, Gabrijela"
       ],
       "sources": [
         "https://arxiv.org/abs/2509.20578"
@@ -617,9 +617,9 @@
         }
       ],
       "firstAuthors": [
-        "Francesco Sinigaglia",
-        "Francisco-Shu Kitaura",
-        "Mahlet Shiferaw"
+        "Sinigaglia, F.",
+        "Kitaura, F.-S.",
+        "Shiferaw, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2509.15890"
@@ -638,9 +638,9 @@
         }
       ],
       "firstAuthors": [
-        "G. Mountrichas",
-        "M. Siudek",
-        "F. J. Carrera"
+        "Mountrichas, G.",
+        "Siudek, M.",
+        "Carrera, F. J."
       ],
       "sources": [
         "https://arxiv.org/abs/2509.03590"
@@ -659,9 +659,9 @@
         }
       ],
       "firstAuthors": [
-        "Sihui Zhong",
-        "Andrew Hillier",
-        "Iñigo Arregui"
+        "Zhong, Sihui",
+        "Hillier, Andrew",
+        "Arregui, Iñigo"
       ],
       "sources": [
         "https://arxiv.org/abs/2508.16349"
@@ -701,8 +701,8 @@
         }
       ],
       "firstAuthors": [
-        "A. Asensio Ramos",
-        "J. de la Cruz Rodriguez"
+        "Asensio Ramos, A.",
+        "de la Cruz Rodríguez, J."
       ],
       "sources": [
         "https://arxiv.org/abs/2507.00594"
@@ -721,9 +721,9 @@
         }
       ],
       "firstAuthors": [
-        "M. Siudek",
-        "M. Mezcua",
-        "C. Circosta"
+        "Siudek, M.",
+        "Mezcua, M.",
+        "Circosta, C."
       ],
       "sources": [
         "https://arxiv.org/abs/2506.09143"
@@ -746,9 +746,9 @@
         }
       ],
       "firstAuthors": [
-        "Patricia Iglesias-Navarro",
-        "Marc Huertas-Company",
-        "Pablo Pérez-González"
+        "Iglesias-Navarro, Patricia",
+        "Huertas-Company, Marc",
+        "Pérez-González, Pablo"
       ],
       "sources": [
         "https://arxiv.org/abs/2506.04336"
@@ -767,9 +767,9 @@
         }
       ],
       "firstAuthors": [
-        "P. Rosselló",
-        "F. -S. Kitaura",
-        "D. Forero-Sánchez"
+        "Rosselló, P.",
+        "Kitaura, F.-S.",
+        "Forero Sánchez, D."
       ],
       "sources": [
         "https://arxiv.org/abs/2506.03969"
@@ -788,9 +788,9 @@
         }
       ],
       "firstAuthors": [
-        "C. Kuckein",
-        "M. Collados",
-        "A. Asensio Ramos"
+        "Kuckein, C.",
+        "Collados, M.",
+        "Asensio Ramos, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2505.24278"
@@ -809,8 +809,8 @@
         }
       ],
       "firstAuthors": [
-        "Francesca Calore",
-        "Christopher Eckner"
+        "Calore, Francesca",
+        "Eckner, Christopher"
       ],
       "sources": [
         "https://arxiv.org/abs/2505.12905"
@@ -829,13 +829,13 @@
         },
         {
           "id": "carlos-diaz-baso",
-          "position": 2
+          "position": 3
         }
       ],
       "firstAuthors": [
-        "A. Asensio Ramos",
-        "C. Díaz Baso",
-        "C. Kuckein"
+        "Asensio Ramos, A.",
+        "Löfdahl, M. G.",
+        "Díaz Baso, C."
       ],
       "sources": [
         "https://arxiv.org/abs/2505.10639"
@@ -854,9 +854,9 @@
         }
       ],
       "firstAuthors": [
-        "I. J. Soler Poquet",
-        "C. J. Díaz Baso",
-        "L. H. M. Rouppe van der Voort"
+        "Soler Poquet, I. J.",
+        "Díaz Baso, C. J.",
+        "Rouppe van der Voort, L. H. M."
       ],
       "sources": [
         "https://arxiv.org/abs/2505.03023"
@@ -875,9 +875,9 @@
         }
       ],
       "firstAuthors": [
-        "Christopher Eckner",
-        "Noemi Anau Montel",
-        "Florian List"
+        "Eckner, Christopher",
+        "Montel, Noemi Anau",
+        "List, Florian"
       ],
       "sources": [
         "https://arxiv.org/abs/2505.02906"
@@ -896,8 +896,8 @@
         }
       ],
       "firstAuthors": [
-        "Jorge Martin Camalich",
-        "Robert Ziegler"
+        "Martin Camalich, Jorge",
+        "Ziegler, Robert"
       ],
       "sources": [
         "https://arxiv.org/abs/2503.17323"
@@ -921,8 +921,8 @@
       ],
       "firstAuthors": [
         "Euclid Collaboration",
-        "M. Siudek",
-        "M. Huertas-Company"
+        "Siudek, M.",
+        "Huertas-Company, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2503.15312"
@@ -942,8 +942,8 @@
       ],
       "firstAuthors": [
         "Euclid Collaboration",
-        "M. Huertas-Company",
-        "M. Walmsley"
+        "Huertas-Company, M.",
+        "Walmsley, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2503.15311"
@@ -962,9 +962,9 @@
         }
       ],
       "firstAuthors": [
-        "A. Eróstegui",
-        "M. Mezcua",
-        "M. Siudek"
+        "Eróstegui, A.",
+        "Mezcua, M.",
+        "Siudek, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2503.03742",
@@ -984,9 +984,9 @@
         }
       ],
       "firstAuthors": [
-        "S. Esteban Pozuelo",
-        "A. Asensio Ramos",
-        "J. Trujillo Bueno"
+        "Esteban Pozuelo, S.",
+        "Asensio Ramos, A.",
+        "Trujillo Bueno, J."
       ],
       "sources": [
         "https://arxiv.org/abs/2503.03670"
@@ -1005,9 +1005,9 @@
         }
       ],
       "firstAuthors": [
-        "Christopher Eckner",
-        "Veronika Vodeb",
-        "Tejas Satheesh"
+        "Eckner, Christopher",
+        "Vodeb, Veronika",
+        "Satheesh, Tejas"
       ],
       "sources": [
         "https://arxiv.org/abs/2501.09789",
@@ -1031,9 +1031,9 @@
         }
       ],
       "firstAuthors": [
-        "Eduardo A. Hartmann",
-        "Ignacio Martín-Navarro",
-        "Marc Huertas-Company"
+        "Hartmann, Eduardo A.",
+        "Martín-Navarro, Ignacio",
+        "Huertas-Company, Marc"
       ],
       "sources": [
         "https://arxiv.org/abs/2501.06050",
@@ -1053,9 +1053,9 @@
         }
       ],
       "firstAuthors": [
-        "Valentina Fontirroig",
-        "Facundo A. Gomez",
-        "Marcelo Jaque Arancibia"
+        "Fontirroig, Valentina",
+        "Gómez, Facundo A.",
+        "Jaque Arancibia, Marcelo"
       ],
       "sources": [
         "https://arxiv.org/abs/2411.19723"
@@ -1074,9 +1074,9 @@
         }
       ],
       "firstAuthors": [
-        "C. Quintero Noda",
-        "N. G. Shchukina",
-        "A. Asensio Ramos"
+        "Quintero Noda, C.",
+        "Shchukina, N. G.",
+        "Asensio Ramos, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2411.12397"
@@ -1095,9 +1095,9 @@
         }
       ],
       "firstAuthors": [
-        "Wei-Jian Guo",
-        "Zhiwei Pan",
-        "Małgorzata Siudek"
+        "Guo, Wei-Jian",
+        "Pan, Zhiwei",
+        "Siudek, Małgorzata"
       ],
       "sources": [
         "https://arxiv.org/abs/2411.01949"
@@ -1116,9 +1116,9 @@
         }
       ],
       "firstAuthors": [
-        "Christopher Eckner",
-        "Silvia Manconi",
-        "Francesca Calore"
+        "Eckner, Christopher",
+        "Manconi, Silvia",
+        "Calore, Francesca"
       ],
       "sources": [
         "https://arxiv.org/abs/2410.19909",
@@ -1138,9 +1138,9 @@
         }
       ],
       "firstAuthors": [
-        "M. Siudek",
-        "R. Pucha",
-        "M. Mezcua"
+        "Siudek, M.",
+        "Pucha, R.",
+        "Mezcua, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2409.19066"
@@ -1159,9 +1159,9 @@
         }
       ],
       "firstAuthors": [
-        "C. J. Díaz Baso",
-        "I. Milić",
-        "L. Rouppe van der Voort"
+        "Díaz Baso, C. J.",
+        "Milić, I.",
+        "Rouppe van der Voort, L."
       ],
       "sources": [
         "https://arxiv.org/abs/2409.13677"
@@ -1180,8 +1180,8 @@
         }
       ],
       "firstAuthors": [
-        "Iñigo Arregui",
-        "Tom Van Doorsselaere"
+        "Arregui, Iñigo",
+        "Van Doorsselaere, Tom"
       ],
       "sources": [
         "https://arxiv.org/abs/2409.13318"
@@ -1204,9 +1204,9 @@
         }
       ],
       "firstAuthors": [
-        "C. J. Díaz Baso",
-        "A. Asensio Ramos",
-        "J. de la Cruz Rodríguez"
+        "Díaz Baso, C. J.",
+        "Asensio Ramos, A.",
+        "de la Cruz Rodríguez, J."
       ],
       "sources": [
         "https://arxiv.org/abs/2409.05156"
@@ -1229,9 +1229,9 @@
         }
       ],
       "firstAuthors": [
-        "S. Esteban Pozuelo",
-        "A. Asensio Ramos",
-        "C. J. Díaz Baso"
+        "Esteban Pozuelo, S.",
+        "Asensio Ramos, A.",
+        "Díaz Baso, C. J."
       ],
       "sources": [
         "https://arxiv.org/abs/2408.07645"
@@ -1271,9 +1271,9 @@
         }
       ],
       "firstAuthors": [
-        "Andrés Bañares-Hernández",
-        "Francesca Calore",
-        "Jorge Martin Camalich"
+        "Bañares-Hernández, Andrés",
+        "Calore, Francesca",
+        "Martin Camalich, Jorge"
       ],
       "sources": [
         "https://arxiv.org/abs/2408.00939",
@@ -1293,9 +1293,9 @@
         }
       ],
       "firstAuthors": [
-        "Francesco Sinigaglia",
-        "Francisco-Shu Kitaura",
-        "Kentaro Nagamine"
+        "Sinigaglia, Francesco",
+        "Kitaura, Francisco-Shu",
+        "Nagamine, Kentaro"
       ],
       "sources": [
         "https://arxiv.org/abs/2407.03918"
@@ -1318,9 +1318,9 @@
         }
       ],
       "firstAuthors": [
-        "A. Asensio Ramos",
-        "C. Westendorp Plaza",
-        "D. Navarro-Almaida"
+        "Asensio Ramos, A.",
+        "Westendorp Plaza, C.",
+        "Navarro-Almaida, D."
       ],
       "sources": [
         "https://arxiv.org/abs/2406.02387",
@@ -1340,9 +1340,9 @@
         }
       ],
       "firstAuthors": [
-        "Christopher Eckner",
-        "Felipe Figueroa",
-        "Piotr Tourkine"
+        "Eckner, Christopher",
+        "Figueroa, Felipe",
+        "Tourkine, Piotr"
       ],
       "sources": [
         "https://arxiv.org/abs/2405.21057"
@@ -1361,9 +1361,9 @@
         }
       ],
       "firstAuthors": [
-        "Benjamin Csizi",
-        "Luca Tortorelli",
-        "Małgorzata Siudek"
+        "Csizi, B.",
+        "Tortorelli, L.",
+        "Siudek, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2405.20385"
@@ -1382,9 +1382,9 @@
         }
       ],
       "firstAuthors": [
-        "Joanna Berteaud",
-        "Christopher Eckner",
-        "Francesca Calore"
+        "Berteaud, Joanna",
+        "Eckner, Christopher",
+        "Calore, Francesca"
       ],
       "sources": [
         "https://arxiv.org/abs/2405.15691"
@@ -1403,9 +1403,9 @@
         }
       ],
       "firstAuthors": [
-        "Jorge Enrique García-Farieta",
-        "Andrés Balaguera-Antolínez",
-        "Francisco-Shu Kitaura"
+        "García-Farieta, Jorge Enrique",
+        "Balaguera-Antolínez, Andrés",
+        "Kitaura, Francisco-Shu"
       ],
       "sources": [
         "https://arxiv.org/abs/2405.10319"
@@ -1424,7 +1424,7 @@
         }
       ],
       "firstAuthors": [
-        "A. Asensio Ramos"
+        "Asensio Ramos, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2405.09864"
@@ -1443,9 +1443,9 @@
         }
       ],
       "firstAuthors": [
-        "M. Figueira",
-        "M. Siudek",
-        "A. Pollo"
+        "Figueira, M.",
+        "Siudek, M.",
+        "Pollo, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2404.14103"
@@ -1464,9 +1464,9 @@
         }
       ],
       "firstAuthors": [
-        "J. Dubois",
-        "M. Siudek",
-        "D. Fraix-Burnet"
+        "Dubois, J.",
+        "Siudek, M.",
+        "Fraix-Burnet, D."
       ],
       "sources": [
         "https://arxiv.org/abs/2404.09958"
@@ -1485,9 +1485,9 @@
         }
       ],
       "firstAuthors": [
-        "G. Mountrichas",
-        "M. Siudek",
-        "O. Cucciati"
+        "Mountrichas, G.",
+        "Siudek, M.",
+        "Cucciati, O."
       ],
       "sources": [
         "https://arxiv.org/abs/2404.02959",
@@ -1507,9 +1507,9 @@
         }
       ],
       "firstAuthors": [
-        "A. García Muñoz",
-        "A. Asensio Ramos",
-        "A. Faure"
+        "García Muñoz, A.",
+        "Asensio Ramos, A.",
+        "Faure, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2404.02604"
@@ -1528,9 +1528,9 @@
         }
       ],
       "firstAuthors": [
-        "J. M. Coloma-Nadal",
-        "F. -S. Kitaura",
-        "J. E. García-Farieta"
+        "Coloma-Nadal, J. M.",
+        "Kitaura, F.-S.",
+        "García-Farieta, J. E."
       ],
       "sources": [
         "https://arxiv.org/abs/2403.19337"
@@ -1549,9 +1549,9 @@
         }
       ],
       "firstAuthors": [
-        "Daniel Forero-Sánchez",
-        "Francisco-Shu Kitaura",
-        "Francesco Sinigaglia"
+        "Forero Sánchez, D.",
+        "Kitaura, F.-S.",
+        "Sinigaglia, F."
       ],
       "sources": [
         "https://arxiv.org/abs/2402.17581"
@@ -1570,9 +1570,9 @@
         }
       ],
       "firstAuthors": [
-        "Deheng Song",
-        "Christopher Eckner",
-        "Chris Gordon"
+        "Song, Deheng",
+        "Eckner, Christopher",
+        "Gordon, Chris"
       ],
       "sources": [
         "https://arxiv.org/abs/2402.05449",
@@ -1592,9 +1592,9 @@
         }
       ],
       "firstAuthors": [
-        "Christopher Eckner",
-        "Felipe Figueroa",
-        "Piotr Tourkine"
+        "Eckner, Christopher",
+        "Figueroa, Felipe",
+        "Tourkine, Piotr"
       ],
       "sources": [
         "https://arxiv.org/abs/2401.08736"
@@ -1613,9 +1613,9 @@
         }
       ],
       "firstAuthors": [
-        "Upasna Baweja",
-        "Vaibhav Pant",
-        "Iñigo Arregui"
+        "Baweja, Upasna",
+        "Pant, Vaibhav",
+        "Arregui, Iñigo"
       ],
       "sources": [
         "https://arxiv.org/abs/2401.05022"
@@ -1634,13 +1634,34 @@
         }
       ],
       "firstAuthors": [
-        "Jorge Enrique García-Farieta",
-        "Héctor J Hortúa",
-        "Francisco-Shu Kitaura"
+        "García-Farieta, Jorge Enrique",
+        "Hortúa, Héctor J.",
+        "Kitaura, Francisco-Shu"
       ],
       "sources": [
         "https://arxiv.org/abs/2309.00612",
         "https://doi.org/10.1051/0004-6361/202347929"
+      ]
+    },
+    {
+      "id": "2308.02217",
+      "title": "Nonlinear wave damping by Kelvin-Helmholtz instability induced turbulence",
+      "url": "https://arxiv.org/abs/2308.02217",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Hillier, Andrew",
+        "Arregui, Iñigo",
+        "Matsumoto, Takeshi"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2308.02217"
       ]
     },
     {
@@ -1678,9 +1699,9 @@
         }
       ],
       "firstAuthors": [
-        "Francesca Calore",
-        "Pierluca Carenza",
-        "Christopher Eckner"
+        "Calore, Francesca",
+        "Carenza, Pierluca",
+        "Eckner, Christopher"
       ],
       "sources": [
         "https://arxiv.org/abs/2306.03925",
@@ -1700,13 +1721,34 @@
         }
       ],
       "firstAuthors": [
-        "Francesco Sinigaglia",
-        "Francisco-Shu Kitaura",
-        "Kentaro Nagamine"
+        "Sinigaglia, F.",
+        "Kitaura, F.-S.",
+        "Nagamine, K."
       ],
       "sources": [
         "https://arxiv.org/abs/2305.10428",
         "https://doi.org/10.1051/0004-6361/202346931"
+      ]
+    },
+    {
+      "id": "2301.03648",
+      "title": "The Cosmic Web from Perturbation Theory",
+      "url": "https://arxiv.org/abs/2301.03648",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Kitaura, F.-S.",
+        "Sinigaglia, F.",
+        "Balaguera-Antolínez, A."
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2301.03648"
       ]
     },
     {
@@ -1726,9 +1768,9 @@
         }
       ],
       "firstAuthors": [
-        "Patricia Iglesias-Navarro",
-        "Thomas Harvey",
-        "Marc Huertas-Company"
+        "Iglesias-Navarro, Patricia",
+        "Harvey, Thomas",
+        "Huertas-Company, Marc"
       ],
       "sources": [
         "https://arxiv.org/abs/2606.30750"
@@ -1768,9 +1810,9 @@
         }
       ],
       "firstAuthors": [
-        "Eirini Angeloudi",
-        "Marc Huertas-Company",
-        "Jesús Falcón-Barroso"
+        "Angeloudi, Eirini",
+        "Huertas-Company, Marc",
+        "Falcón-Barroso, Jesús"
       ],
       "sources": [
         "https://arxiv.org/abs/2509.25340"
@@ -1790,8 +1832,8 @@
       ],
       "firstAuthors": [
         "Euclid Collaboration",
-        "M. Walmsley",
-        "M. Huertas-Company"
+        "Walmsley, M.",
+        "Huertas-Company, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2503.15310"
@@ -1810,9 +1852,9 @@
         }
       ],
       "firstAuthors": [
-        "Jorge Sarrato-Alós",
-        "Christopher Brook",
-        "Arianna Di Cintio"
+        "Sarrato-Alós, J.",
+        "Brook, C.",
+        "Di Cintio, A."
       ],
       "sources": [
         "https://arxiv.org/abs/2503.07717"
@@ -1831,9 +1873,9 @@
         }
       ],
       "firstAuthors": [
-        "Amanda Lue",
-        "Shy Genel",
-        "Marc Huertas-Company"
+        "Lue, Amanda",
+        "Genel, Shy",
+        "Huertas-Company, Marc"
       ],
       "sources": [
         "https://arxiv.org/abs/2502.17568"
@@ -1852,9 +1894,9 @@
         }
       ],
       "firstAuthors": [
-        "M. Huertas-Company",
-        "M. Shuntov",
-        "Y. Dong"
+        "Huertas-Company, M.",
+        "Shuntov, M.",
+        "Dong, Y."
       ],
       "sources": [
         "https://arxiv.org/abs/2502.03532"
@@ -1873,9 +1915,9 @@
         }
       ],
       "firstAuthors": [
-        "Alessio Spagnoletti",
-        "Alexandre Boucaud",
-        "Marc Huertas-Company"
+        "Spagnoletti, Alessio",
+        "Boucaud, Alexandre",
+        "Huertas-Company, Marc"
       ],
       "sources": [
         "https://arxiv.org/abs/2411.19158"
@@ -1894,9 +1936,9 @@
         }
       ],
       "firstAuthors": [
-        "Eirini Angeloudi",
-        "Marc Huertas-Company",
-        "Jesús Falcón-Barroso"
+        "Angeloudi, Eirini",
+        "Huertas-Company, Marc",
+        "Falcón-Barroso, Jesús"
       ],
       "sources": [
         "https://arxiv.org/abs/2410.24069"
@@ -1915,9 +1957,9 @@
         }
       ],
       "firstAuthors": [
-        "Eirini Angeloudi",
-        "Jesús Falcón-Barroso",
-        "Marc Huertas-Company"
+        "Angeloudi, Eirini",
+        "Falcón-Barroso, Jesús",
+        "Huertas-Company, Marc"
       ],
       "sources": [
         "https://arxiv.org/abs/2407.00166",
@@ -1941,9 +1983,9 @@
         }
       ],
       "firstAuthors": [
-        "Patricia Iglesias-Navarro",
-        "Marc Huertas-Company",
-        "Ignacio Martín-Navarro"
+        "Iglesias-Navarro, Patricia",
+        "Huertas-Company, Marc",
+        "Martín-Navarro, Ignacio"
       ],
       "sources": [
         "https://arxiv.org/abs/2406.18661"
@@ -1962,9 +2004,9 @@
         }
       ],
       "firstAuthors": [
-        "M. S. Avirett-Mackenzie",
-        "C. Villforth",
-        "M. Huertas-Company"
+        "Avirett-Mackenzie, M. S.",
+        "Villforth, C.",
+        "Huertas-Company, M."
       ],
       "sources": [
         "https://arxiv.org/abs/2401.09632"
@@ -1983,9 +2025,9 @@
         }
       ],
       "firstAuthors": [
-        "Viraj Pandya",
-        "Haowen Zhang",
-        "Marc Huertas-Company"
+        "Pandya, Viraj",
+        "Zhang, Haowen",
+        "Huertas-Company, Marc"
       ],
       "sources": [
         "https://arxiv.org/abs/2310.15232",
@@ -2005,9 +2047,9 @@
         }
       ],
       "firstAuthors": [
-        "M. Huertas-Company",
-        "K. G. Iyer",
-        "E. Angeloudi"
+        "Huertas-Company, M.",
+        "Iyer, K. G.",
+        "Angeloudi, E."
       ],
       "sources": [
         "https://arxiv.org/abs/2305.02478",
@@ -2034,6 +2076,696 @@
       "sources": [
         "https://arxiv.org/abs/2302.07277",
         "https://doi.org/10.3847/1538-4357/ad05bb"
+      ]
+    },
+    {
+      "id": "2609.25220",
+      "title": "Dark matter haloes from dwarf to massive galaxies: no systematic inner-density tension with ΛCDM hydrodynamical simulations",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260925220M",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-sarrato-alos",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Mancera Piña, Pavel E.",
+        "Read, Justin I.",
+        "Sarrato-Alós, Jorge"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026arXiv260925220M"
+      ]
+    },
+    {
+      "id": "2026cosp...46.2318G",
+      "title": "Resonant Absorption by vortical motions",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2318G",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Goossens, Marcel",
+        "Arregui, Inigo",
+        "Soler, Roberto"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2318G"
+      ]
+    },
+    {
+      "id": "2026cosp...46.2341Z",
+      "title": "Signatures of nonlinear damping of kink oscillations by Kelvin-Helmholtz instability-induced turbulence",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2341Z",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Zhong, Sihui",
+        "Hillier, Andrew",
+        "Arregui, Inigo"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2341Z"
+      ]
+    },
+    {
+      "id": "2026cosp...46.2212D",
+      "title": "Physics-informed machine learning and probabilistic methods for spectropolarimetry",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2212D",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Diaz Baso, Carlos Jose"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2212D"
+      ]
+    },
+    {
+      "id": "2026cosp...46.2185S",
+      "title": "Ellerman bomb plasma properties inferred from IRIS/SST co-observations.",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2185S",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Soler Poquet, Ignasi",
+        "Diaz Baso, Carlos Jose"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2185S"
+      ]
+    },
+    {
+      "id": "2607.08818",
+      "title": "Dark matter density profiles of the Milky Way satellite population: reconciling simulations and observations",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260708818S",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-sarrato-alos",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Sarrato-Alós, Jorge",
+        "Arroyo-Polonio, José María"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026arXiv260708818S"
+      ]
+    },
+    {
+      "id": "2026A&A...710A.227C",
+      "title": "A synergistic spectropolarimetric inversion via gradient-bias annealing and physics-informed neural networks",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026A&A...710A.227C",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Chen, G. Y.",
+        "Guo, Y.",
+        "Díaz Baso, C. J."
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026A&A...710A.227C"
+      ]
+    },
+    {
+      "id": "2026JPhCS3266a2002H",
+      "title": "Plasma formation in a gas mixture via electron-beam self-ionization at SLAC FACET-II",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026JPhCS3266a2002H",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "eduardo-hartmann",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Hartmann, E. A.",
+        "Habib, A. F.",
+        "Cerchez, M."
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026JPhCS3266a2002H"
+      ]
+    },
+    {
+      "id": "2603.13011",
+      "title": "Simulation-based inference from the Lyman-alpha forest 1D power spectrum with CAMELS",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260313011S",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Sinigaglia, Francesco",
+        "Iglesias-Navarro, Patricia",
+        "Viel, Matteo"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026arXiv260313011S"
+      ]
+    },
+    {
+      "id": "2026imfw.conf.8949B",
+      "title": "Wideband 3-D-Printed Coaxial-Line Filters for SatCom Applications",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026imfw.conf.8949B",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Baranowski, M.",
+        "Pons-Abenza, A.",
+        "Arregui, I."
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026imfw.conf.8949B"
+      ]
+    },
+    {
+      "id": "2026A&A...705A..35Z",
+      "title": "Insights into penumbral formation from high-resolution photospheric and chromospheric observations",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026A&A...705A..35Z",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Zbinden, Jonas",
+        "de la Cruz Rodríguez, Jaime",
+        "Díaz Baso, Carlos José"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026A&A...705A..35Z"
+      ]
+    },
+    {
+      "id": "2025NatSR..1542309K",
+      "title": "Higher-order sonification of the human brain",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025NatSR..1542309K",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Kitaura, Francisco-Shu",
+        "Kitaura, Emi-Pauline",
+        "Janssen, Niels"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2025NatSR..1542309K"
+      ]
+    },
+    {
+      "id": "2025epsc.conf.1693D",
+      "title": "Reconstructing exoplanet surfaces from unresolved light curves",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025epsc.conf.1693D",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Dobat, Max Johann",
+        "Asensio Ramos, Andrés",
+        "Richards Kuhn, Jeffrey"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2025epsc.conf.1693D"
+      ]
+    },
+    {
+      "id": "2025IAUS..368..116S",
+      "title": "Deep learning and numerical simulations to infer the evolution of MaNGA galaxies",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025IAUS..368..116S",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Sarmiento, Regina",
+        "Knapen, Johan H.",
+        "Huertas-Company, Marc"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2025IAUS..368..116S"
+      ]
+    },
+    {
+      "id": "2025cacw.confE..50C",
+      "title": "Training School Lecture Notes: WISPs in gamma-ray astrophysics",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025cacw.confE..50C",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Calore, F.",
+        "Eckner, C."
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2025cacw.confE..50C"
+      ]
+    },
+    {
+      "id": "2025IMWTL..35.1292B",
+      "title": "A 3-D-Printing-Oriented Coaxial-Line Filter With Wide Out-of-Band Rejection",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025IMWTL..35.1292B",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Baranowski, M.",
+        "Pons-Abenza, A.",
+        "Arregui, I."
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2025IMWTL..35.1292B"
+      ]
+    },
+    {
+      "id": "2024A&A...692A.182B",
+      "title": "The return of FarNet-II: Generation of solar far-side magnetograms from helioseismic data",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...692A.182B",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Broock, E. G.",
+        "Asensio Ramos, A.",
+        "Felipe, T."
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024A&A...692A.182B"
+      ]
+    },
+    {
+      "id": "2024icrc.confE.772E",
+      "title": "Detecting and characterizing pulsar halos with the Cherenkov Telescope Array",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024icrc.confE.772E",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Eckner, C.",
+        "Consortium, CTA"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024icrc.confE.772E"
+      ]
+    },
+    {
+      "id": "2024icrc.confE1401E",
+      "title": "The impact of model realism on interpretations of the Galactic Center Excess",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024icrc.confE1401E",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Eckner, C.",
+        "Fermi-LAT Collaboration"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024icrc.confE1401E"
+      ]
+    },
+    {
+      "id": "2024BAAA...65..281I",
+      "title": "Neural calibration of imaging Stokes polarimeters",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024BAAA...65..281I",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Iglesias, F. A.",
+        "Asensio Ramos, A.",
+        "Sanchez, M."
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024BAAA...65..281I"
+      ]
+    },
+    {
+      "id": "2024cosp...45.2023M",
+      "title": "Enhancing the interpretation of spectropolarimetric observations using machine learning",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2023M",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Milic, Ivan",
+        "Gafeira, Ricardo",
+        "Diaz Baso, Carlos Jose"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2023M"
+      ]
+    },
+    {
+      "id": "2024eas..conf..288S",
+      "title": "Constraining gas metal mixing strength in simulations using observations of the Milky Way's disc",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..288S",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-sarrato-alos",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Sarrato-Alós, Jorge",
+        "Brook, Christopher",
+        "Di Cintio, Arianna"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..288S"
+      ]
+    },
+    {
+      "id": "2024eas..conf.1858B",
+      "title": "Confronting Dark Matter Models with Nearby Dwarf Irregular Galaxies",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1858B",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Bañares Hernández, Andrés",
+        "Martín Camalich, Jorge",
+        "Castillo, Andrés"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1858B"
+      ]
+    },
+    {
+      "id": "2024eas..conf..226I",
+      "title": "Deriving Star Formation Histories of Galaxies from Spectra with Simulation-based Inference",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..226I",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Iglesias Navarro, Patricia",
+        "Huertas Company, Marc"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..226I"
+      ]
+    },
+    {
+      "id": "2024eas..conf..671B",
+      "title": "A Combined Analysis of Jeans Kinematics and Milli-Second Pulsar Timing Effects: Probing the Mass Contents of Omega Centauri",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..671B",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Bañares Hernández, Andrés",
+        "Calore, Francesca",
+        "Martín Camalich, Jorge"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..671B"
+      ]
+    },
+    {
+      "id": "2024eas..conf.1948A",
+      "title": "Constraining in-situ vs. ex-situ stellar mass in nearby galaxies with simulation-based inference",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1948A",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Angeloudi, Eirini",
+        "Falcón-Barroso, Jesús",
+        "Huertas-Company, Marc"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1948A"
+      ]
+    },
+    {
+      "id": "2024eas..conf.1829A",
+      "title": "Exploring the role of galaxy interactions in fuelling active galactic nuclei: mergers, star formation, and supermassive black hole accretion",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1829A",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Avirett-Mackenzie, Mathilda",
+        "Villforth, Carolin",
+        "Huertas-Company, Marc"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1829A"
+      ]
+    },
+    {
+      "id": "2024eas..conf..225I",
+      "title": "Inferring stellar population properties from HST+JWST photometry using Normalizing Flows",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..225I",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Iglesias Navarro, Patricia",
+        "Huertas Company, Marc"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..225I"
+      ]
+    },
+    {
+      "id": "2024eas..conf...74S",
+      "title": "Inferring the dark matter distribution in galaxies with machine learning methods",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf...74S",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-sarrato-alos",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Sarrato-Alós, Jorge",
+        "Brook, Christopher",
+        "Di Cintio, Arianna"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf...74S"
+      ]
+    },
+    {
+      "id": "2024eas..conf.1444S",
+      "title": "Ellerman Bomb detection in SST and SDO observations with Deep Learning",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1444S",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Soler Poquet, Ignasi Josep",
+        "Rouppe van der Voort, Luc",
+        "Díaz Baso, Carlos José"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1444S"
+      ]
+    },
+    {
+      "id": "2024cosp...45.2022D",
+      "title": "Advances in machine learning applications on photospheric and chromospheric studies",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2022D",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Diaz Baso, Carlos Jose"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2022D"
+      ]
+    },
+    {
+      "id": "2024yCatp061000804A",
+      "title": "VizieR Online Data Catalog: Ex-situ stellar mass fractions for MaNGA (Angeloudi+, 2024)",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024yCatp061000804A",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Angeloudi, E.",
+        "Falcon-Barroso, J.",
+        "Huertas-Company, M."
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024yCatp061000804A"
+      ]
+    },
+    {
+      "id": "2024CNSNS.13007725A",
+      "title": "Models and numerical methods for XVA pricing under mean reversion spreads in a multicurrency framework",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024CNSNS.13007725A",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "inigo-arregui",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Arregui, Íñigo",
+        "Simonella, Roberta",
+        "Vázquez, Carlos"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024CNSNS.13007725A"
       ]
     }
   ]

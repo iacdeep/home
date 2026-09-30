@@ -1,19 +1,19 @@
 {
   "since": "2024-01-01",
-  "lastChecked": "2026-09-24",
+  "lastChecked": "2026-09-30",
   "papers": [
     {
       "id": "2609.01400",
       "title": "Semiresolved Stellar Populations as Distance Indicators",
       "url": "https://arxiv.org/abs/2609.01400",
       "doi": "10.3847/2041-8213/ae8d10",
-      "journal": "",
+      "journal": "The Astrophysical Journal Letters",
       "firstPosted": "2026-09-01",
       "year": 2026,
       "firstAuthors": [
-        "Ignacio Martín-Navarro",
-        "Patricia Iglesias Navarro",
-        "Francesco La Barbera"
+        "Martín-Navarro, Ignacio",
+        "Iglesias Navarro, Patricia",
+        "La Barbera, Francesco"
       ],
       "authorCount": 16,
       "matches": [
@@ -36,14 +36,14 @@
       "id": "2607.07329",
       "title": "Beyond traditional emission-line diagnostics: using autoencoders to uncover active galactic nuclei in DESI spectra",
       "url": "https://arxiv.org/abs/2607.07329",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1051/0004-6361/202660335",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2026-07-08",
       "year": 2026,
       "firstAuthors": [
-        "J. A. Alcolea",
-        "M. Siudek",
-        "M. Eriksen"
+        "Alcolea, J. A.",
+        "Siudek, M.",
+        "Eriksen, M."
       ],
       "authorCount": 52,
       "matches": [
@@ -65,14 +65,14 @@
       "id": "2607.06844",
       "title": "First detection of ultra-fast outflows in a quiescent galaxy",
       "url": "https://arxiv.org/abs/2607.06844",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1051/0004-6361/202660164",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2026-07-07",
       "year": 2026,
       "firstAuthors": [
-        "Yerong Xu",
-        "Malgorzata Siudek",
-        "Victor Rodríguez Morales"
+        "Xu, Yerong",
+        "Siudek, Malgorzata",
+        "Morales, Victor Rodríguez"
       ],
       "authorCount": 10,
       "matches": [
@@ -95,14 +95,14 @@
       "id": "2606.30750",
       "title": "A Pixel-by-Pixel Path to Population III Discovery with JWST",
       "url": "https://arxiv.org/abs/2606.30750",
-      "doi": "",
-      "journal": "",
+      "doi": "10.48550/arXiv.2606.30750",
+      "journal": "arXiv e-prints",
       "firstPosted": "2026-06-29",
       "year": 2026,
       "firstAuthors": [
-        "Patricia Iglesias-Navarro",
-        "Thomas Harvey",
-        "Marc Huertas-Company"
+        "Iglesias-Navarro, Patricia",
+        "Harvey, Thomas",
+        "Huertas-Company, Marc"
       ],
       "authorCount": 14,
       "matches": [
@@ -128,14 +128,14 @@
       "id": "2606.13004",
       "title": "3DSTokesFlow: simulation-based inference for 3D Stokes profiles using flow matching",
       "url": "https://arxiv.org/abs/2606.13004",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1051/0004-6361/202661300",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2026-06-11",
       "year": 2026,
       "firstAuthors": [
-        "A. Asensio Ramos",
-        "K. E. Yang",
-        "M. J. Martinez Gonzalez"
+        "Asensio Ramos, A.",
+        "Yang, K. E.",
+        "Martínez González, M. J."
       ],
       "authorCount": 5,
       "matches": [
@@ -158,12 +158,12 @@
       "id": "2605.11980",
       "title": "Marginal multi-object multi-frame blind deconvolution",
       "url": "https://arxiv.org/abs/2605.11980",
-      "doi": "",
-      "journal": "",
+      "doi": "10.48550/arXiv.2605.11980",
+      "journal": "arXiv e-prints",
       "firstPosted": "2026-05-12",
       "year": 2026,
       "firstAuthors": [
-        "A. Asensio Ramos"
+        "Asensio Ramos, A."
       ],
       "authorCount": 1,
       "matches": [
@@ -185,14 +185,14 @@
       "id": "2605.09543",
       "title": "Accelerating 3D Non-LTE Synthesis with Graph Neural Networks",
       "url": "https://arxiv.org/abs/2605.09543",
-      "doi": "10.1051/0004-6361/202660077",
-      "journal": "A&A 710, A256 (2026)",
+      "doi": "10.48550/arXiv.2605.09543",
+      "journal": "arXiv e-prints",
       "firstPosted": "2026-05-10",
       "year": 2026,
       "firstAuthors": [
-        "A. Vicente Arévalo",
-        "A. Asensio Ramos",
-        "C. J. Díaz Baso"
+        "Arévalo, A. Vicente",
+        "Asensio Ramos, A.",
+        "Díaz Baso, C. J."
       ],
       "authorCount": 3,
       "matches": [
@@ -218,14 +218,14 @@
       "id": "2605.03818",
       "title": "IRIS NUV diagnostics for Ellerman bombs: spectral properties, thermodynamics, and formation height",
       "url": "https://arxiv.org/abs/2605.03818",
-      "doi": "",
-      "journal": "",
+      "doi": "10.48550/arXiv.2605.03818",
+      "journal": "arXiv e-prints",
       "firstPosted": "2026-05-05",
       "year": 2026,
       "firstAuthors": [
-        "I. J. Soler Poquet",
-        "C. J. Díaz Baso",
-        "A. Sainz Dalda"
+        "Soler Poquet, I. J.",
+        "Díaz Baso, C. J.",
+        "Sainz Dalda, A."
       ],
       "authorCount": 6,
       "matches": [
@@ -247,12 +247,12 @@
       "id": "2604.00654",
       "title": "A comparison of pendulum models for large-amplitude longitudinal prominence oscillations",
       "url": "https://arxiv.org/abs/2604.00654",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1051/0004-6361/202659882",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2026-04-01",
       "year": 2026,
       "firstAuthors": [
-        "Iñigo Arregui"
+        "Arregui, Iñigo"
       ],
       "authorCount": 1,
       "matches": [
@@ -274,14 +274,14 @@
       "id": "2602.20316",
       "title": "Inspectorch: Efficient rare event exploration in solar observations",
       "url": "https://arxiv.org/abs/2602.20316",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1051/0004-6361/202659576",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2026-02-23",
       "year": 2026,
       "firstAuthors": [
-        "C. J. Díaz Baso",
-        "I. J. Soler Poquet",
-        "C. Kuckein"
+        "Díaz Baso, C. J.",
+        "Soler Poquet, I. J.",
+        "Kuckein, C."
       ],
       "authorCount": 5,
       "matches": [
@@ -305,13 +305,13 @@
       "title": "Signatures of Damping Nonlinear Oscillations by KHI-induced Turbulence in Synthetic Observations",
       "url": "https://arxiv.org/abs/2602.11884",
       "doi": "10.3847/1538-4357/ae4223",
-      "journal": "",
+      "journal": "The Astrophysical Journal",
       "firstPosted": "2026-02-12",
       "year": 2026,
       "firstAuthors": [
-        "Sihui Zhong",
-        "Andrew Hillier",
-        "Iñigo Arregui"
+        "Zhong, Sihui",
+        "Hillier, Andrew",
+        "Arregui, Iñigo"
       ],
       "authorCount": 3,
       "matches": [
@@ -362,14 +362,14 @@
       "id": "2601.01730",
       "title": "Inferring physical parameters of solar filaments from simultaneous longitudinal and transverse oscillations",
       "url": "https://arxiv.org/abs/2601.01730",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1051/0004-6361/202557966",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2026-01-05",
       "year": 2026,
       "firstAuthors": [
-        "Upasna Baweja",
-        "Vaibhav Pant",
-        "Iñigo Arregui"
+        "Baweja, Upasna",
+        "Pant, Vaibhav",
+        "Arregui, Iñigo"
       ],
       "authorCount": 4,
       "matches": [
@@ -392,13 +392,13 @@
       "title": "Cored galaxies in cuspy dark matter halos",
       "url": "https://arxiv.org/abs/2512.15886",
       "doi": "10.1051/0004-6361/202558629",
-      "journal": "Astronomy & Astrophysics, 710, A329 (2026)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-12-17",
       "year": 2026,
       "firstAuthors": [
-        "Fernando Valenciano",
-        "Jorge Martin Camalich",
-        "Arianna Di Cintio"
+        "Valenciano, Fernando",
+        "Martin Camalich, Jorge",
+        "Di Cintio, Arianna"
       ],
       "authorCount": 7,
       "matches": [
@@ -426,13 +426,13 @@
       "title": "ELG×LRG distribution through dark matter halo dynamics",
       "url": "https://arxiv.org/abs/2512.04362",
       "doi": "10.3847/1538-4357/ae592a",
-      "journal": "2026 ApJ, Volume 1002, Number 1",
+      "journal": "The Astrophysical Journal",
       "firstPosted": "2025-12-04",
       "year": 2026,
       "firstAuthors": [
-        "Ginevra Favole",
-        "Francisco-Shu Kitaura",
-        "Boryana Hadzhiyska"
+        "Favole, Ginevra",
+        "Kitaura, Francisco-Shu",
+        "Hadzhiyska, Boryana"
       ],
       "authorCount": 6,
       "matches": [
@@ -455,13 +455,13 @@
       "title": "Silicate emission in a type-2 quasar: JWST/MIRI constraints on torus geometry and radiative feedback",
       "url": "https://arxiv.org/abs/2512.02629",
       "doi": "10.1051/0004-6361/202557323",
-      "journal": "A&A 706, A100 (2026)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-12-02",
       "year": 2026,
       "firstAuthors": [
-        "C. Ramos Almeida",
-        "A. Asensio Ramos",
-        "C. Westerdorp Plaza"
+        "Ramos Almeida, C.",
+        "Asensio Ramos, A.",
+        "Westerdorp Plaza, C."
       ],
       "authorCount": 16,
       "matches": [
@@ -484,17 +484,47 @@
       ]
     },
     {
+      "id": "2511.03350",
+      "title": "Stellar-like Galactic center excess challenges particle dark matter",
+      "url": "https://arxiv.org/abs/2511.03350",
+      "doi": "10.1103/2wkq-xrsc",
+      "journal": "Physical Review D",
+      "firstPosted": "2025-11-05",
+      "year": 2026,
+      "firstAuthors": [
+        "Manconi, Silvia",
+        "Eckner, Christopher",
+        "Calore, Francesca"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "Adaptive template fitting and MultiNest posterior sampling constrain dark matter contributions to the Galactic center excess.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2511.03350",
+        "https://arxiv.org/html/2511.03350"
+      ]
+    },
+    {
       "id": "2510.16647",
       "title": "Thermodynamic and magnetic evolution of an eruptive C-class solar flare observed with SST/TRIPPEL-SP",
       "url": "https://arxiv.org/abs/2510.16647",
       "doi": "10.1051/0004-6361/202557756",
-      "journal": "A&A 707, A164 (2026)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-10-18",
       "year": 2026,
       "firstAuthors": [
-        "C. J. Díaz Baso",
-        "J. de la Cruz Rodríguez",
-        "H. -P. Doerr"
+        "Díaz Baso, C. J.",
+        "de la Cruz Rodríguez, J.",
+        "Doerr, H.-P."
       ],
       "authorCount": 7,
       "matches": [
@@ -517,13 +547,13 @@
       "title": "Differentiable Fuzzy Cosmic-Web for Field Level Inference",
       "url": "https://arxiv.org/abs/2506.03969",
       "doi": "10.1051/0004-6361/202555817",
-      "journal": "A&A 709, A110 (2026)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-06-04",
       "year": 2026,
       "firstAuthors": [
-        "P. Rosselló",
-        "F. -S. Kitaura",
-        "D. Forero-Sánchez"
+        "Rosselló, P.",
+        "Kitaura, F.-S.",
+        "Forero Sánchez, D."
       ],
       "authorCount": 5,
       "matches": [
@@ -542,33 +572,185 @@
       ]
     },
     {
-      "id": "2511.03350",
-      "title": "Stellar-like Galactic center excess challenges particle dark matter",
-      "url": "https://arxiv.org/abs/2511.03350",
-      "doi": "10.1103/2wkq-xrsc",
-      "journal": "",
-      "firstPosted": "2025-11-05",
-      "year": 2025,
+      "id": "2503.15312",
+      "title": "Euclid Quick Data Release (Q1) Exploring galaxy properties with a multi-modal foundation model",
+      "url": "https://arxiv.org/abs/2503.15312",
+      "doi": "10.1051/0004-6361/202554611",
+      "journal": "Astronomy and Astrophysics",
+      "firstPosted": "2025-03-19",
+      "year": 2026,
       "firstAuthors": [
-        "Silvia Manconi",
-        "Christopher Eckner",
-        "Francesca Calore"
+        "Euclid Collaboration",
+        "Siudek, M.",
+        "Huertas-Company, M."
       ],
-      "authorCount": 4,
+      "authorCount": 324,
       "matches": [
         {
-          "id": "christopher-eckner",
+          "id": "gosia-siudek",
+          "position": 2
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Foundation models"
+      ],
+      "summary": "A multimodal foundation model extracts physical information from Euclid galaxy observations.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2503.15312"
+      ]
+    },
+    {
+      "id": "2503.15311",
+      "title": "Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at z<1",
+      "url": "https://arxiv.org/abs/2503.15311",
+      "doi": "10.1051/0004-6361/202554606",
+      "journal": "Astronomy and Astrophysics",
+      "firstPosted": "2025-03-19",
+      "year": 2026,
+      "firstAuthors": [
+        "Euclid Collaboration",
+        "Huertas-Company, M.",
+        "Walmsley, M."
+      ],
+      "authorCount": 339,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
           "position": 2
         }
       ],
       "tags": [
-        "Bayesian inference"
+        "Machine learning"
       ],
-      "summary": "Adaptive template fitting and MultiNest posterior sampling constrain dark matter contributions to the Galactic center excess.",
+      "summary": "Deep-learning morphology measurements characterize the fraction of barred galaxies in Euclid Q1.",
       "selection": "reviewed",
       "sources": [
-        "https://arxiv.org/abs/2511.03350",
-        "https://arxiv.org/html/2511.03350"
+        "https://arxiv.org/abs/2503.15311"
+      ]
+    },
+    {
+      "id": "2503.15310",
+      "title": "Euclid Quick Data Release (Q1): First visual morphology catalogue",
+      "url": "https://arxiv.org/abs/2503.15310",
+      "doi": "10.1051/0004-6361/202555140",
+      "journal": "Astronomy and Astrophysics",
+      "firstPosted": "2025-03-19",
+      "year": 2026,
+      "firstAuthors": [
+        "Euclid Collaboration",
+        "Walmsley, M.",
+        "Huertas-Company, M."
+      ],
+      "authorCount": 356,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "A deep-learning pipeline produces the first visual morphology catalogue for Euclid Q1.",
+      "selection": "reviewed",
+      "sources": [
+        "https://arxiv.org/abs/2503.15310"
+      ]
+    },
+    {
+      "id": "2603.13011",
+      "title": "Simulation-based inference from the Lyman-alpha forest 1D power spectrum with CAMELS",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260313011S",
+      "doi": "10.48550/arXiv.2603.13011",
+      "journal": "arXiv e-prints",
+      "firstPosted": "",
+      "year": 2026,
+      "firstAuthors": [
+        "Sinigaglia, Francesco",
+        "Iglesias-Navarro, Patricia",
+        "Viel, Matteo"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Neural networks",
+        "Generative models",
+        "Simulation-based inference",
+        "Bayesian inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026arXiv260313011S"
+      ]
+    },
+    {
+      "id": "2026cosp...46.2212D",
+      "title": "Physics-informed machine learning and probabilistic methods for spectropolarimetry",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2212D",
+      "doi": "",
+      "journal": "46th COSPAR Scientific Assembly. Held 1-9 August",
+      "firstPosted": "",
+      "year": 2026,
+      "firstAuthors": [
+        "Diaz Baso, Carlos Jose"
+      ],
+      "authorCount": 1,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Neural networks",
+        "Generative models"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2212D"
+      ]
+    },
+    {
+      "id": "2026A&A...710A.227C",
+      "title": "A synergistic spectropolarimetric inversion via gradient-bias annealing and physics-informed neural networks",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026A&A...710A.227C",
+      "doi": "10.1051/0004-6361/202659270",
+      "journal": "Astronomy and Astrophysics",
+      "firstPosted": "",
+      "year": 2026,
+      "firstAuthors": [
+        "Chen, G. Y.",
+        "Guo, Y.",
+        "Díaz Baso, C. J."
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Neural networks",
+        "Spectral inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026A&A...710A.227C"
       ]
     },
     {
@@ -576,13 +758,13 @@
       "title": "The spatially-resolved effect of mergers on the stellar mass assembly of MaNGA galaxies",
       "url": "https://arxiv.org/abs/2509.25340",
       "doi": "10.1051/0004-6361/202556260",
-      "journal": "A&A 703, A290 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-09-29",
       "year": 2025,
       "firstAuthors": [
-        "Eirini Angeloudi",
-        "Marc Huertas-Company",
-        "Jesús Falcón-Barroso"
+        "Angeloudi, Eirini",
+        "Huertas-Company, Marc",
+        "Falcón-Barroso, Jesús"
       ],
       "authorCount": 6,
       "matches": [
@@ -605,14 +787,14 @@
       "id": "2509.20578",
       "title": "Probing the Parameter Space of Axion-Like Particles Using Simulation-Based Inference",
       "url": "https://arxiv.org/abs/2509.20578",
-      "doi": "",
-      "journal": "",
+      "doi": "10.48550/arXiv.2509.20578",
+      "journal": "arXiv e-prints",
       "firstPosted": "2025-09-24",
       "year": 2025,
       "firstAuthors": [
-        "Pooja Bhattacharjee",
-        "Christopher Eckner",
-        "Gabrijela Zaharijas"
+        "Bhattacharjee, Pooja",
+        "Eckner, Christopher",
+        "Zaharijas, Gabrijela"
       ],
       "authorCount": 5,
       "matches": [
@@ -636,13 +818,13 @@
       "title": "Identification of Nonlinear Damping of Transverse Loop Oscillations by KHI-induced Turbulence",
       "url": "https://arxiv.org/abs/2508.16349",
       "doi": "10.3847/1538-4357/adfd5c",
-      "journal": "",
+      "journal": "The Astrophysical Journal",
       "firstPosted": "2025-08-22",
       "year": 2025,
       "firstAuthors": [
-        "Sihui Zhong",
-        "Andrew Hillier",
-        "Iñigo Arregui"
+        "Zhong, Sihui",
+        "Hillier, Andrew",
+        "Arregui, Iñigo"
       ],
       "authorCount": 3,
       "matches": [
@@ -665,12 +847,12 @@
       "title": "Neural translation for Stokes inversion and synthesis",
       "url": "https://arxiv.org/abs/2507.00594",
       "doi": "10.1051/0004-6361/202556195",
-      "journal": "A&A 703, A55 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-07-01",
       "year": 2025,
       "firstAuthors": [
-        "A. Asensio Ramos",
-        "J. de la Cruz Rodriguez"
+        "Asensio Ramos, A.",
+        "de la Cruz Rodríguez, J."
       ],
       "authorCount": 2,
       "matches": [
@@ -694,13 +876,13 @@
       "title": "Beyond Traditional Diagnostics: Identifying Active Galactic Nuclei with Spectral Energy Distribution Fitting in DESI Data",
       "url": "https://arxiv.org/abs/2506.09143",
       "doi": "10.1051/0004-6361/202555463",
-      "journal": "A&A 700, A209 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-06-10",
       "year": 2025,
       "firstAuthors": [
-        "M. Siudek",
-        "M. Mezcua",
-        "C. Circosta"
+        "Siudek, M.",
+        "Mezcua, M.",
+        "Circosta, C."
       ],
       "authorCount": 39,
       "matches": [
@@ -723,13 +905,13 @@
       "title": "Simulation-based inference of galaxy properties from JWST pixels",
       "url": "https://arxiv.org/abs/2506.04336",
       "doi": "10.1051/0004-6361/202555810",
-      "journal": "A&A 703, A229 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-06-04",
       "year": 2025,
       "firstAuthors": [
-        "Patricia Iglesias-Navarro",
-        "Marc Huertas-Company",
-        "Pablo Pérez-González"
+        "Iglesias-Navarro, Patricia",
+        "Huertas-Company, Marc",
+        "Pérez-González, Pablo"
       ],
       "authorCount": 9,
       "matches": [
@@ -756,13 +938,13 @@
       "title": "Chromospheric velocities in an M3.2 flare using He I 1083.0 nm and Ca II 854.2 nm",
       "url": "https://arxiv.org/abs/2505.24278",
       "doi": "10.1051/0004-6361/202554798",
-      "journal": "A&A 699, A121 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-05-30",
       "year": 2025,
       "firstAuthors": [
-        "C. Kuckein",
-        "M. Collados",
-        "A. Asensio Ramos"
+        "Kuckein, C.",
+        "Collados, M.",
+        "Asensio Ramos, A."
       ],
       "authorCount": 9,
       "matches": [
@@ -785,13 +967,13 @@
       "title": "torchmfbd: a flexible multi-object multi-frame blind deconvolution code",
       "url": "https://arxiv.org/abs/2505.10639",
       "doi": "10.1051/0004-6361/202555530",
-      "journal": "A&A 703, A269 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-05-15",
       "year": 2025,
       "firstAuthors": [
-        "A. Asensio Ramos",
-        "C. Díaz Baso",
-        "C. Kuckein"
+        "Asensio Ramos, A.",
+        "Löfdahl, M. G.",
+        "Díaz Baso, C."
       ],
       "authorCount": 5,
       "matches": [
@@ -801,7 +983,7 @@
         },
         {
           "id": "carlos-diaz-baso",
-          "position": 2
+          "position": 3
         }
       ],
       "tags": [
@@ -818,13 +1000,13 @@
       "title": "Automatic detection of Ellerman bombs using Deep Learning",
       "url": "https://arxiv.org/abs/2505.03023",
       "doi": "10.1051/0004-6361/202453524",
-      "journal": "A&A 699, A54 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-05-05",
       "year": 2025,
       "firstAuthors": [
-        "I. J. Soler Poquet",
-        "C. J. Díaz Baso",
-        "L. H. M. Rouppe van der Voort"
+        "Soler Poquet, I. J.",
+        "Díaz Baso, C. J.",
+        "Rouppe van der Voort, L. H. M."
       ],
       "authorCount": 4,
       "matches": [
@@ -847,14 +1029,14 @@
       "id": "2505.02906",
       "title": "A robust neural determination of the source-count distribution of the Fermi-LAT sky at high latitudes",
       "url": "https://arxiv.org/abs/2505.02906",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1103/p4gf-d2zt",
+      "journal": "Physical Review D",
       "firstPosted": "2025-05-05",
       "year": 2025,
       "firstAuthors": [
-        "Christopher Eckner",
-        "Noemi Anau Montel",
-        "Florian List"
+        "Eckner, Christopher",
+        "Montel, Noemi Anau",
+        "List, Florian"
       ],
       "authorCount": 5,
       "matches": [
@@ -874,108 +1056,17 @@
       ]
     },
     {
-      "id": "2503.15312",
-      "title": "Euclid Quick Data Release (Q1) Exploring galaxy properties with a multi-modal foundation model",
-      "url": "https://arxiv.org/abs/2503.15312",
-      "doi": "",
-      "journal": "",
-      "firstPosted": "2025-03-19",
-      "year": 2025,
-      "firstAuthors": [
-        "Euclid Collaboration",
-        "M. Siudek",
-        "M. Huertas-Company"
-      ],
-      "authorCount": 324,
-      "matches": [
-        {
-          "id": "gosia-siudek",
-          "position": 2
-        },
-        {
-          "id": "marc-huertas-company",
-          "position": 3
-        }
-      ],
-      "tags": [
-        "Foundation models"
-      ],
-      "summary": "A multimodal foundation model extracts physical information from Euclid galaxy observations.",
-      "selection": "reviewed",
-      "sources": [
-        "https://arxiv.org/abs/2503.15312"
-      ]
-    },
-    {
-      "id": "2503.15311",
-      "title": "Euclid Quick Data Release (Q1), A first look at the fraction of bars in massive galaxies at z<1",
-      "url": "https://arxiv.org/abs/2503.15311",
-      "doi": "",
-      "journal": "",
-      "firstPosted": "2025-03-19",
-      "year": 2025,
-      "firstAuthors": [
-        "Euclid Collaboration",
-        "M. Huertas-Company",
-        "M. Walmsley"
-      ],
-      "authorCount": 339,
-      "matches": [
-        {
-          "id": "marc-huertas-company",
-          "position": 2
-        }
-      ],
-      "tags": [
-        "Machine learning"
-      ],
-      "summary": "Deep-learning morphology measurements characterize the fraction of barred galaxies in Euclid Q1.",
-      "selection": "reviewed",
-      "sources": [
-        "https://arxiv.org/abs/2503.15311"
-      ]
-    },
-    {
-      "id": "2503.15310",
-      "title": "Euclid Quick Data Release (Q1): First visual morphology catalogue",
-      "url": "https://arxiv.org/abs/2503.15310",
-      "doi": "",
-      "journal": "",
-      "firstPosted": "2025-03-19",
-      "year": 2025,
-      "firstAuthors": [
-        "Euclid Collaboration",
-        "M. Walmsley",
-        "M. Huertas-Company"
-      ],
-      "authorCount": 355,
-      "matches": [
-        {
-          "id": "marc-huertas-company",
-          "position": 3
-        }
-      ],
-      "tags": [
-        "Machine learning"
-      ],
-      "summary": "A deep-learning pipeline produces the first visual morphology catalogue for Euclid Q1.",
-      "selection": "reviewed",
-      "sources": [
-        "https://arxiv.org/abs/2503.15310"
-      ]
-    },
-    {
       "id": "2503.07717",
       "title": "Galaxy mass profiles with convolutional neural networks",
       "url": "https://arxiv.org/abs/2503.07717",
       "doi": "10.1051/0004-6361/202554455",
-      "journal": "A&A 703, A140 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-03-10",
       "year": 2025,
       "firstAuthors": [
-        "Jorge Sarrato-Alós",
-        "Christopher Brook",
-        "Arianna Di Cintio"
+        "Sarrato-Alós, J.",
+        "Brook, C.",
+        "Di Cintio, A."
       ],
       "authorCount": 6,
       "matches": [
@@ -998,13 +1089,13 @@
       "title": "MaNGA AGN dwarf galaxies (MAD). III. The role of mergers and environment in active galactic nucleus activity in dwarf galaxies",
       "url": "https://arxiv.org/abs/2503.03742",
       "doi": "10.1051/0004-6361/202554387",
-      "journal": "A&A 699, A330 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-03-05",
       "year": 2025,
       "firstAuthors": [
-        "A. Eróstegui",
-        "M. Mezcua",
-        "M. Siudek"
+        "Eróstegui, A.",
+        "Mezcua, M.",
+        "Siudek, M."
       ],
       "authorCount": 5,
       "matches": [
@@ -1027,14 +1118,14 @@
       "id": "2503.03670",
       "title": "Study of an active region prominence using spectropolarimetric data in the He I D3 multiplet",
       "url": "https://arxiv.org/abs/2503.03670",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1051/0004-6361/202452439",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-03-05",
       "year": 2025,
       "firstAuthors": [
-        "S. Esteban Pozuelo",
-        "A. Asensio Ramos",
-        "J. Trujillo Bueno"
+        "Esteban Pozuelo, S.",
+        "Asensio Ramos, A.",
+        "Trujillo Bueno, J."
       ],
       "authorCount": 6,
       "matches": [
@@ -1057,13 +1148,13 @@
       "title": "Cosmology with One Galaxy: Auto-Encoding the Galaxy Properties Manifold",
       "url": "https://arxiv.org/abs/2502.17568",
       "doi": "10.3847/1538-4357/add724",
-      "journal": "The Astrophysical Journal, 986(2), 133 (June 2025)",
+      "journal": "The Astrophysical Journal",
       "firstPosted": "2025-02-24",
       "year": 2025,
       "firstAuthors": [
-        "Amanda Lue",
-        "Shy Genel",
-        "Marc Huertas-Company"
+        "Lue, Amanda",
+        "Genel, Shy",
+        "Huertas-Company, Marc"
       ],
       "authorCount": 5,
       "matches": [
@@ -1086,13 +1177,13 @@
       "title": "COSMOS-Web: The emergence of the Hubble Sequence",
       "url": "https://arxiv.org/abs/2502.03532",
       "doi": "10.1051/0004-6361/202553782",
-      "journal": "A&A 704, A94 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-02-05",
       "year": 2025,
       "firstAuthors": [
-        "M. Huertas-Company",
-        "M. Shuntov",
-        "Y. Dong"
+        "Huertas-Company, M.",
+        "Shuntov, M.",
+        "Dong, Y."
       ],
       "authorCount": 32,
       "matches": [
@@ -1115,13 +1206,13 @@
       "title": "ZF-UDS-7329: A relic galaxy in the early Universe",
       "url": "https://arxiv.org/abs/2501.06050",
       "doi": "10.1051/0004-6361/202452781",
-      "journal": "A&A 694, L7 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2025-01-10",
       "year": 2025,
       "firstAuthors": [
-        "Eduardo A. Hartmann",
-        "Ignacio Martín-Navarro",
-        "Marc Huertas-Company"
+        "Hartmann, Eduardo A.",
+        "Martín-Navarro, Ignacio",
+        "Huertas-Company, Marc"
       ],
       "authorCount": 7,
       "matches": [
@@ -1149,13 +1240,13 @@
       "title": "A statistical study of lopsided galaxies using random forest",
       "url": "https://arxiv.org/abs/2411.19723",
       "doi": "10.1051/0004-6361/202453215",
-      "journal": "A&A 699, A118 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-11-29",
       "year": 2025,
       "firstAuthors": [
-        "Valentina Fontirroig",
-        "Facundo A. Gomez",
-        "Marcelo Jaque Arancibia"
+        "Fontirroig, Valentina",
+        "Gómez, Facundo A.",
+        "Jaque Arancibia, Marcelo"
       ],
       "authorCount": 5,
       "matches": [
@@ -1178,13 +1269,13 @@
       "title": "Spectral resolution effects on the information content in solar spectra",
       "url": "https://arxiv.org/abs/2409.13677",
       "doi": "10.1051/0004-6361/202452331",
-      "journal": "A&A 693, A272 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-09-20",
       "year": 2025,
       "firstAuthors": [
-        "C. J. Díaz Baso",
-        "I. Milić",
-        "L. Rouppe van der Voort"
+        "Díaz Baso, C. J.",
+        "Milić, I.",
+        "Rouppe van der Voort, L."
       ],
       "authorCount": 4,
       "matches": [
@@ -1207,13 +1298,13 @@
       "title": "Exploring spectropolarimetric inversions using neural fields. Solar chromospheric magnetic field under the weak-field approximation",
       "url": "https://arxiv.org/abs/2409.05156",
       "doi": "10.1051/0004-6361/202452172",
-      "journal": "A&A 693, A170 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-09-08",
       "year": 2025,
       "firstAuthors": [
-        "C. J. Díaz Baso",
-        "A. Asensio Ramos",
-        "J. de la Cruz Rodríguez"
+        "Díaz Baso, C. J.",
+        "Asensio Ramos, A.",
+        "de la Cruz Rodríguez, J."
       ],
       "authorCount": 5,
       "matches": [
@@ -1241,13 +1332,13 @@
       "title": "New constraints on the central mass contents of Omega Centauri from combined stellar kinematics and pulsar timing",
       "url": "https://arxiv.org/abs/2408.00939",
       "doi": "10.1051/0004-6361/202451763",
-      "journal": "A&A 693, A104 (2025)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-08-01",
       "year": 2025,
       "firstAuthors": [
-        "Andrés Bañares-Hernández",
-        "Francesca Calore",
-        "Jorge Martin Camalich"
+        "Bañares-Hernández, Andrés",
+        "Calore, Francesca",
+        "Martin Camalich, Jorge"
       ],
       "authorCount": 4,
       "matches": [
@@ -1267,17 +1358,105 @@
       ]
     },
     {
+      "id": "2025epsc.conf.1693D",
+      "title": "Reconstructing exoplanet surfaces from unresolved light curves",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025epsc.conf.1693D",
+      "doi": "10.5194/epsc-dps2025-1693",
+      "journal": "EPSC-DPS Joint Meeting 2025",
+      "firstPosted": "",
+      "year": 2025,
+      "firstAuthors": [
+        "Dobat, Max Johann",
+        "Asensio Ramos, Andrés",
+        "Richards Kuhn, Jeffrey"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2025epsc.conf.1693D"
+      ]
+    },
+    {
+      "id": "2025NatSR..1542309K",
+      "title": "Higher-order sonification of the human brain",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025NatSR..1542309K",
+      "doi": "10.1038/s41598-025-26438-7",
+      "journal": "Scientific Reports",
+      "firstPosted": "",
+      "year": 2025,
+      "firstAuthors": [
+        "Kitaura, Francisco-Shu",
+        "Kitaura, Emi-Pauline",
+        "Janssen, Niels"
+      ],
+      "authorCount": 6,
+      "matches": [
+        {
+          "id": "francisco-kitaura",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2025NatSR..1542309K"
+      ]
+    },
+    {
+      "id": "2025IAUS..368..116S",
+      "title": "Deep learning and numerical simulations to infer the evolution of MaNGA galaxies",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025IAUS..368..116S",
+      "doi": "10.1017/S1743921322003659",
+      "journal": "IAU Symposium",
+      "firstPosted": "",
+      "year": 2025,
+      "firstAuthors": [
+        "Sarmiento, Regina",
+        "Knapen, Johan H.",
+        "Huertas-Company, Marc"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Foundation models"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2025IAUS..368..116S"
+      ]
+    },
+    {
       "id": "2411.19158",
       "title": "Bayesian Deconvolution of Astronomical Images with Diffusion Models: Quantifying Prior-Driven Features in Reconstructions",
       "url": "https://arxiv.org/abs/2411.19158",
-      "doi": "",
-      "journal": "",
+      "doi": "10.48550/arXiv.2411.19158",
+      "journal": "arXiv e-prints",
       "firstPosted": "2024-11-28",
       "year": 2024,
       "firstAuthors": [
-        "Alessio Spagnoletti",
-        "Alexandre Boucaud",
-        "Marc Huertas-Company"
+        "Spagnoletti, Alessio",
+        "Boucaud, Alexandre",
+        "Huertas-Company, Marc"
       ],
       "authorCount": 5,
       "matches": [
@@ -1301,13 +1480,13 @@
       "title": "Non-Local Thermodynamic Equilibrium inversions of the Si I 10827 A spectral line",
       "url": "https://arxiv.org/abs/2411.12397",
       "doi": "10.1051/0004-6361/202452233",
-      "journal": "A&A 692, A169 (2024)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-11-19",
       "year": 2024,
       "firstAuthors": [
-        "C. Quintero Noda",
-        "N. G. Shchukina",
-        "A. Asensio Ramos"
+        "Quintero Noda, C.",
+        "Shchukina, N. G.",
+        "Asensio Ramos, A."
       ],
       "authorCount": 7,
       "matches": [
@@ -1329,14 +1508,14 @@
       "id": "2410.24069",
       "title": "Simulation-based inference of the 2D ex-situ stellar mass fraction distribution of galaxies using variational autoencoders",
       "url": "https://arxiv.org/abs/2410.24069",
-      "doi": "",
-      "journal": "",
+      "doi": "10.48550/arXiv.2410.24069",
+      "journal": "arXiv e-prints",
       "firstPosted": "2024-10-31",
       "year": 2024,
       "firstAuthors": [
-        "Eirini Angeloudi",
-        "Marc Huertas-Company",
-        "Jesús Falcón-Barroso"
+        "Angeloudi, Eirini",
+        "Huertas-Company, Marc",
+        "Falcón-Barroso, Jesús"
       ],
       "authorCount": 7,
       "matches": [
@@ -1359,14 +1538,14 @@
       "id": "2410.19909",
       "title": "No evidence for gamma-ray emission from the Sagittarius dwarf spheroidal galaxy",
       "url": "https://arxiv.org/abs/2410.19909",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1103/PhysRevD.110.123006",
+      "journal": "Physical Review D",
       "firstPosted": "2024-10-25",
       "year": 2024,
       "firstAuthors": [
-        "Christopher Eckner",
-        "Silvia Manconi",
-        "Francesca Calore"
+        "Eckner, Christopher",
+        "Manconi, Silvia",
+        "Calore, Francesca"
       ],
       "authorCount": 3,
       "matches": [
@@ -1390,13 +1569,13 @@
       "title": "Value Added Catalog of physical properties of more than 1.3 million galaxies from the DESI Survey",
       "url": "https://arxiv.org/abs/2409.19066",
       "doi": "10.1051/0004-6361/202451761",
-      "journal": "A&A 691, A308 (2024)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-09-27",
       "year": 2024,
       "firstAuthors": [
-        "M. Siudek",
-        "R. Pucha",
-        "M. Mezcua"
+        "Siudek, M.",
+        "Pucha, R.",
+        "Mezcua, M."
       ],
       "authorCount": 53,
       "matches": [
@@ -1418,14 +1597,14 @@
       "id": "2408.07645",
       "title": "Properties of sunspot light bridges on a geometric height scale",
       "url": "https://arxiv.org/abs/2408.07645",
-      "doi": "",
-      "journal": "",
+      "doi": "10.1051/0004-6361/202348181",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-08-14",
       "year": 2024,
       "firstAuthors": [
-        "S. Esteban Pozuelo",
-        "A. Asensio Ramos",
-        "C. J. Díaz Baso"
+        "Esteban Pozuelo, S.",
+        "Asensio Ramos, A.",
+        "Díaz Baso, C. J."
       ],
       "authorCount": 4,
       "matches": [
@@ -1451,14 +1630,14 @@
       "id": "2407.03918",
       "title": "The negative BAO shift in the Lyα forest from cosmological simulations",
       "url": "https://arxiv.org/abs/2407.03918",
-      "doi": "",
-      "journal": "",
+      "doi": "10.3847/2041-8213/ad66bf",
+      "journal": "The Astrophysical Journal Letters",
       "firstPosted": "2024-07-04",
       "year": 2024,
       "firstAuthors": [
-        "Francesco Sinigaglia",
-        "Francisco-Shu Kitaura",
-        "Kentaro Nagamine"
+        "Sinigaglia, Francesco",
+        "Kitaura, Francisco-Shu",
+        "Nagamine, Kentaro"
       ],
       "authorCount": 4,
       "matches": [
@@ -1485,9 +1664,9 @@
       "firstPosted": "2024-06-28",
       "year": 2024,
       "firstAuthors": [
-        "Eirini Angeloudi",
-        "Jesús Falcón-Barroso",
-        "Marc Huertas-Company"
+        "Angeloudi, Eirini",
+        "Falcón-Barroso, Jesús",
+        "Huertas-Company, Marc"
       ],
       "authorCount": 7,
       "matches": [
@@ -1511,13 +1690,13 @@
       "title": "Deriving the star formation histories of galaxies from spectra with simulation-based inference",
       "url": "https://arxiv.org/abs/2406.18661",
       "doi": "10.1051/0004-6361/202449909",
-      "journal": "A&A 689, A58 (2024)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-06-26",
       "year": 2024,
       "firstAuthors": [
-        "Patricia Iglesias-Navarro",
-        "Marc Huertas-Company",
-        "Ignacio Martín-Navarro"
+        "Iglesias-Navarro, Patricia",
+        "Huertas-Company, Marc",
+        "Martín-Navarro, Ignacio"
       ],
       "authorCount": 5,
       "matches": [
@@ -1548,9 +1727,9 @@
       "firstPosted": "2024-06-04",
       "year": 2024,
       "firstAuthors": [
-        "A. Asensio Ramos",
-        "C. Westendorp Plaza",
-        "D. Navarro-Almaida"
+        "Asensio Ramos, A.",
+        "Westendorp Plaza, C.",
+        "Navarro-Almaida, D."
       ],
       "authorCount": 6,
       "matches": [
@@ -1578,13 +1757,13 @@
       "title": "The PAU Survey: galaxy stellar population properties estimates with narrowband data",
       "url": "https://arxiv.org/abs/2405.20385",
       "doi": "10.1051/0004-6361/202449838",
-      "journal": "A&A 689, A37 (2024)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-05-30",
       "year": 2024,
       "firstAuthors": [
-        "Benjamin Csizi",
-        "Luca Tortorelli",
-        "Małgorzata Siudek"
+        "Csizi, B.",
+        "Tortorelli, L.",
+        "Siudek, M."
       ],
       "authorCount": 20,
       "matches": [
@@ -1607,14 +1786,14 @@
       "id": "2405.15691",
       "title": "Simulation-based inference of radio millisecond pulsars in globular clusters",
       "url": "https://arxiv.org/abs/2405.15691",
-      "doi": "",
-      "journal": "",
+      "doi": "10.3847/1538-4357/ad6b1e",
+      "journal": "The Astrophysical Journal",
       "firstPosted": "2024-05-24",
       "year": 2024,
       "firstAuthors": [
-        "Joanna Berteaud",
-        "Christopher Eckner",
-        "Francesca Calore"
+        "Berteaud, Joanna",
+        "Eckner, Christopher",
+        "Calore, Francesca"
       ],
       "authorCount": 5,
       "matches": [
@@ -1638,13 +1817,13 @@
       "title": "Fast simulation mapping: from standard to modified gravity cosmologies using the bias assignment method",
       "url": "https://arxiv.org/abs/2405.10319",
       "doi": "10.1051/0004-6361/202450755",
-      "journal": "A&A 690, A27 (2024)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-05-16",
       "year": 2024,
       "firstAuthors": [
-        "Jorge Enrique García-Farieta",
-        "Andrés Balaguera-Antolínez",
-        "Francisco-Shu Kitaura"
+        "García-Farieta, Jorge Enrique",
+        "Balaguera-Antolínez, Andrés",
+        "Kitaura, Francisco-Shu"
       ],
       "authorCount": 3,
       "matches": [
@@ -1667,11 +1846,11 @@
       "title": "Solar multi-object multi-frame blind deconvolution with a spatially variant convolution neural emulator",
       "url": "https://arxiv.org/abs/2405.09864",
       "doi": "10.1051/0004-6361/202449568",
-      "journal": "A&A 688, A88 (2024)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-05-16",
       "year": 2024,
       "firstAuthors": [
-        "A. Asensio Ramos"
+        "Asensio Ramos, A."
       ],
       "authorCount": 1,
       "matches": [
@@ -1694,13 +1873,13 @@
       "title": "From VIPERS to SDSS: Unveiling galaxy spectra evolution over 9 Gyr through unsupervised machine-learning",
       "url": "https://arxiv.org/abs/2404.09958",
       "doi": "10.1051/0004-6361/202349026",
-      "journal": "A&A 687, A76 (2024)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-04-15",
       "year": 2024,
       "firstAuthors": [
-        "J. Dubois",
-        "M. Siudek",
-        "D. Fraix-Burnet"
+        "Dubois, J.",
+        "Siudek, M.",
+        "Fraix-Burnet, D."
       ],
       "authorCount": 4,
       "matches": [
@@ -1723,13 +1902,13 @@
       "title": "Probing star formation rates and histories in AGN and non-AGN galaxies across diverse cosmic environments and extensive X-ray luminosity ranges",
       "url": "https://arxiv.org/abs/2404.02959",
       "doi": "10.1051/0004-6361/202348763",
-      "journal": "A&A 686, A229 (2024)",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2024-04-03",
       "year": 2024,
       "firstAuthors": [
-        "G. Mountrichas",
-        "M. Siudek",
-        "O. Cucciati"
+        "Mountrichas, G.",
+        "Siudek, M.",
+        "Cucciati, O."
       ],
       "authorCount": 3,
       "matches": [
@@ -1753,13 +1932,13 @@
       "title": "Robust inference of the Galactic centre gamma-ray excess spatial properties",
       "url": "https://arxiv.org/abs/2402.05449",
       "doi": "10.1093/mnras/stae923",
-      "journal": "2024MNRAS.530.4395S",
+      "journal": "Monthly Notices of the Royal Astronomical Society",
       "firstPosted": "2024-02-08",
       "year": 2024,
       "firstAuthors": [
-        "Deheng Song",
-        "Christopher Eckner",
-        "Chris Gordon"
+        "Song, Deheng",
+        "Eckner, Christopher",
+        "Gordon, Chris"
       ],
       "authorCount": 9,
       "matches": [
@@ -1783,13 +1962,13 @@
       "title": "A post-merger enhancement only in star-forming Type 2 Seyfert galaxies: the deep learning view",
       "url": "https://arxiv.org/abs/2401.09632",
       "doi": "10.1093/mnras/stae183",
-      "journal": "",
+      "journal": "Monthly Notices of the Royal Astronomical Society",
       "firstPosted": "2024-01-17",
       "year": 2024,
       "firstAuthors": [
-        "M. S. Avirett-Mackenzie",
-        "C. Villforth",
-        "M. Huertas-Company"
+        "Avirett-Mackenzie, M. S.",
+        "Villforth, C.",
+        "Huertas-Company, M."
       ],
       "authorCount": 10,
       "matches": [
@@ -1812,13 +1991,13 @@
       "title": "Global Coronal Magnetic Field Estimation Using Bayesian Inference",
       "url": "https://arxiv.org/abs/2401.05022",
       "doi": "10.3847/1538-4357/ad1b57",
-      "journal": "The Astrophysical Journal, 2024, 963, 69",
+      "journal": "The Astrophysical Journal",
       "firstPosted": "2024-01-10",
       "year": 2024,
       "firstAuthors": [
-        "Upasna Baweja",
-        "Vaibhav Pant",
-        "Iñigo Arregui"
+        "Baweja, Upasna",
+        "Pant, Vaibhav",
+        "Arregui, Iñigo"
       ],
       "authorCount": 3,
       "matches": [
@@ -1845,9 +2024,9 @@
       "firstPosted": "2023-10-23",
       "year": 2024,
       "firstAuthors": [
-        "Viraj Pandya",
-        "Haowen Zhang",
-        "Marc Huertas-Company"
+        "Pandya, Viraj",
+        "Zhang, Haowen",
+        "Huertas-Company, Marc"
       ],
       "authorCount": 56,
       "matches": [
@@ -1875,9 +2054,9 @@
       "firstPosted": "2023-09-01",
       "year": 2024,
       "firstAuthors": [
-        "Jorge Enrique García-Farieta",
-        "Héctor J Hortúa",
-        "Francisco-Shu Kitaura"
+        "García-Farieta, Jorge Enrique",
+        "Hortúa, Héctor J.",
+        "Kitaura, Francisco-Shu"
       ],
       "authorCount": 3,
       "matches": [
@@ -1902,13 +2081,13 @@
       "title": "Uncovering axion-like particles in supernova gamma-ray spectra",
       "url": "https://arxiv.org/abs/2306.03925",
       "doi": "10.1103/PhysRevD.109.043010",
-      "journal": "Phys. Rev. D 109, 043010 (2024)",
+      "journal": "Physical Review D",
       "firstPosted": "2023-06-06",
       "year": 2024,
       "firstAuthors": [
-        "Francesca Calore",
-        "Pierluca Carenza",
-        "Christopher Eckner"
+        "Calore, Francesca",
+        "Carenza, Pierluca",
+        "Eckner, Christopher"
       ],
       "authorCount": 7,
       "matches": [
@@ -1936,11 +2115,11 @@
       "firstPosted": "2023-05-04",
       "year": 2024,
       "firstAuthors": [
-        "M. Huertas-Company",
-        "K. G. Iyer",
-        "E. Angeloudi"
+        "Huertas-Company, M.",
+        "Iyer, K. G.",
+        "Angeloudi, E."
       ],
-      "authorCount": 29,
+      "authorCount": 30,
       "matches": [
         {
           "id": "marc-huertas-company",
@@ -1986,10 +2165,314 @@
         "https://arxiv.org/abs/2302.07277",
         "https://doi.org/10.3847/1538-4357/ad05bb"
       ]
+    },
+    {
+      "id": "2024eas..conf.1948A",
+      "title": "Constraining in-situ vs. ex-situ stellar mass in nearby galaxies with simulation-based inference",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1948A",
+      "doi": "",
+      "journal": "EAS2024, European Astronomical Society Annual Meeting",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Angeloudi, Eirini",
+        "Falcón-Barroso, Jesús",
+        "Huertas-Company, Marc"
+      ],
+      "authorCount": 7,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Foundation models",
+        "Simulation-based inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1948A"
+      ]
+    },
+    {
+      "id": "2024eas..conf.1829A",
+      "title": "Exploring the role of galaxy interactions in fuelling active galactic nuclei: mergers, star formation, and supermassive black hole accretion",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1829A",
+      "doi": "",
+      "journal": "EAS2024, European Astronomical Society Annual Meeting",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Avirett-Mackenzie, Mathilda",
+        "Villforth, Carolin",
+        "Huertas-Company, Marc"
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Neural networks",
+        "Foundation models"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1829A"
+      ]
+    },
+    {
+      "id": "2024eas..conf.1444S",
+      "title": "Ellerman Bomb detection in SST and SDO observations with Deep Learning",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1444S",
+      "doi": "",
+      "journal": "EAS2024, European Astronomical Society Annual Meeting",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Soler Poquet, Ignasi Josep",
+        "Rouppe van der Voort, Luc",
+        "Díaz Baso, Carlos José"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Neural networks"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1444S"
+      ]
+    },
+    {
+      "id": "2024eas..conf..226I",
+      "title": "Deriving Star Formation Histories of Galaxies from Spectra with Simulation-based Inference",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..226I",
+      "doi": "",
+      "journal": "EAS2024, European Astronomical Society Annual Meeting",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Iglesias Navarro, Patricia",
+        "Huertas Company, Marc"
+      ],
+      "authorCount": 2,
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Simulation-based inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..226I"
+      ]
+    },
+    {
+      "id": "2024eas..conf..225I",
+      "title": "Inferring stellar population properties from HST+JWST photometry using Normalizing Flows",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..225I",
+      "doi": "",
+      "journal": "EAS2024, European Astronomical Society Annual Meeting",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Iglesias Navarro, Patricia",
+        "Huertas Company, Marc"
+      ],
+      "authorCount": 2,
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Generative models",
+        "Bayesian inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..225I"
+      ]
+    },
+    {
+      "id": "2024eas..conf...74S",
+      "title": "Inferring the dark matter distribution in galaxies with machine learning methods",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf...74S",
+      "doi": "",
+      "journal": "EAS2024, European Astronomical Society Annual Meeting",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Sarrato-Alós, Jorge",
+        "Brook, Christopher",
+        "Di Cintio, Arianna"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "jorge-sarrato-alos",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Neural networks"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf...74S"
+      ]
+    },
+    {
+      "id": "2024cosp...45.2023M",
+      "title": "Enhancing the interpretation of spectropolarimetric observations using machine learning",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2023M",
+      "doi": "",
+      "journal": "45th COSPAR Scientific Assembly",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Milic, Ivan",
+        "Gafeira, Ricardo",
+        "Diaz Baso, Carlos Jose"
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Neural networks",
+        "Spectral inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2023M"
+      ]
+    },
+    {
+      "id": "2024cosp...45.2022D",
+      "title": "Advances in machine learning applications on photospheric and chromospheric studies",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2022D",
+      "doi": "",
+      "journal": "45th COSPAR Scientific Assembly",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Diaz Baso, Carlos Jose"
+      ],
+      "authorCount": 1,
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Machine learning"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2022D"
+      ]
+    },
+    {
+      "id": "2024BAAA...65..281I",
+      "title": "Neural calibration of imaging Stokes polarimeters",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024BAAA...65..281I",
+      "doi": "",
+      "journal": "Boletin de la Asociacion Argentina de Astronomia La Plata Argentina",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Iglesias, F. A.",
+        "Asensio Ramos, A.",
+        "Sanchez, M."
+      ],
+      "authorCount": 4,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024BAAA...65..281I"
+      ]
+    },
+    {
+      "id": "2024A&A...692A.182B",
+      "title": "The return of FarNet-II: Generation of solar far-side magnetograms from helioseismic data",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...692A.182B",
+      "doi": "10.1051/0004-6361/202451625",
+      "journal": "Astronomy and Astrophysics",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Broock, E. G.",
+        "Asensio Ramos, A.",
+        "Felipe, T."
+      ],
+      "authorCount": 3,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024A&A...692A.182B"
+      ]
     }
   ],
   "sources": {
     "arxiv": "complete",
-    "ads": "not configured"
+    "ads": "complete"
   }
 }
