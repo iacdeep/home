@@ -1,6 +1,6 @@
 {
   "since": "2024-01-01",
-  "lastChecked": "2026-09-30",
+  "lastChecked": "2026-10-14",
   "papers": [
     {
       "id": "2609.01400",
@@ -1384,35 +1384,6 @@
       "selection": "automatic",
       "sources": [
         "https://ui.adsabs.harvard.edu/abs/2025epsc.conf.1693D"
-      ]
-    },
-    {
-      "id": "2025NatSR..1542309K",
-      "title": "Higher-order sonification of the human brain",
-      "url": "https://ui.adsabs.harvard.edu/abs/2025NatSR..1542309K",
-      "doi": "10.1038/s41598-025-26438-7",
-      "journal": "Scientific Reports",
-      "firstPosted": "",
-      "year": 2025,
-      "firstAuthors": [
-        "Kitaura, Francisco-Shu",
-        "Kitaura, Emi-Pauline",
-        "Janssen, Niels"
-      ],
-      "authorCount": 6,
-      "matches": [
-        {
-          "id": "francisco-kitaura",
-          "position": 1
-        }
-      ],
-      "tags": [
-        "Neural networks"
-      ],
-      "summary": "",
-      "selection": "automatic",
-      "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2025NatSR..1542309K"
       ]
     },
     {
