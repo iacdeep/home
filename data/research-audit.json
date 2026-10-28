@@ -1,13 +1,55 @@
 {
-  "checked": "2026-10-14",
+  "checked": "2026-10-28",
   "sources": {
     "arxiv": "complete",
     "ads": "complete"
   },
-  "uniqueRecords": 2016,
-  "eligibleAuthorRecords": 131,
-  "selectedPapers": 81,
+  "uniqueRecords": 2040,
+  "eligibleAuthorRecords": 134,
+  "selectedPapers": 83,
   "screened": [
+    {
+      "id": "2610.32758",
+      "title": "ARENA: Active Region attENtion Aggregation for interpretable solar flare prediction",
+      "url": "https://arxiv.org/abs/2610.32758",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Bauer, Luis",
+        "Kofler, Annalena",
+        "Asensio Ramos, Andrés"
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2610.32758"
+      ]
+    },
+    {
+      "id": "2610.30309",
+      "title": "The PAU Survey: Active galactic nucleus galaxies in galaxy pairs",
+      "url": "https://arxiv.org/abs/2610.30309",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "gosia-siudek",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Duplancic, F.",
+        "Siudek, M.",
+        "Navarro-Gironés, D."
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2610.30309"
+      ]
+    },
     {
       "id": "2609.01400",
       "title": "Semiresolved Stellar Populations as Distance Indicators",
@@ -2079,27 +2121,6 @@
       ]
     },
     {
-      "id": "2026A&A...714A..74D",
-      "title": "The PAU Survey: Active galactic nucleus galaxies in galaxy pairs",
-      "url": "https://ui.adsabs.harvard.edu/abs/2026A&A...714A..74D",
-      "included": false,
-      "reason": "No explicit qualifying method found in title/abstract",
-      "matches": [
-        {
-          "id": "gosia-siudek",
-          "position": 2
-        }
-      ],
-      "firstAuthors": [
-        "Duplancic, F.",
-        "Siudek, M.",
-        "Navarro-Gironés, D."
-      ],
-      "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2026A&A...714A..74D"
-      ]
-    },
-    {
       "id": "2609.25220",
       "title": "Dark matter haloes from dwarf to massive galaxies: no systematic inner-density tension with ΛCDM hydrodynamical simulations",
       "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260925220M",
@@ -2118,25 +2139,6 @@
       ],
       "sources": [
         "https://ui.adsabs.harvard.edu/abs/2026arXiv260925220M"
-      ]
-    },
-    {
-      "id": "2026cosp...46.2212D",
-      "title": "Physics-informed machine learning and probabilistic methods for spectropolarimetry",
-      "url": "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2212D",
-      "included": true,
-      "reason": "Explicit method terms in title/abstract",
-      "matches": [
-        {
-          "id": "carlos-diaz-baso",
-          "position": 1
-        }
-      ],
-      "firstAuthors": [
-        "Diaz Baso, Carlos Jose"
-      ],
-      "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2212D"
       ]
     },
     {
@@ -2202,6 +2204,25 @@
       ]
     },
     {
+      "id": "2026cosp...46.2212D",
+      "title": "Physics-informed machine learning and probabilistic methods for spectropolarimetry",
+      "url": "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2212D",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Diaz Baso, Carlos Jose"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2026cosp...46.2212D"
+      ]
+    },
+    {
       "id": "2607.08818",
       "title": "Dark matter density profiles of the Milky Way satellite population: reconciling simulations and observations",
       "url": "https://ui.adsabs.harvard.edu/abs/2026arXiv260708818S",
@@ -2215,7 +2236,7 @@
       ],
       "firstAuthors": [
         "Sarrato-Alós, Jorge",
-        "Arroyo-Polonio, José María"
+        "María Arroyo-Polonio, José"
       ],
       "sources": [
         "https://ui.adsabs.harvard.edu/abs/2026arXiv260708818S"
@@ -2452,6 +2473,25 @@
       ]
     },
     {
+      "id": "2024lseu.confE..33I",
+      "title": "Inferring stellar population properties with simulation-based inference in the LSST era.",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024lseu.confE..33I",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        }
+      ],
+      "firstAuthors": [
+        "Iglesias-Navarro, Patricia"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024lseu.confE..33I"
+      ]
+    },
+    {
       "id": "2024icrc.confE1401E",
       "title": "The impact of model realism on interpretations of the Galactic Center Excess",
       "url": "https://ui.adsabs.harvard.edu/abs/2024icrc.confE1401E",
@@ -2469,6 +2509,26 @@
       ],
       "sources": [
         "https://ui.adsabs.harvard.edu/abs/2024icrc.confE1401E"
+      ]
+    },
+    {
+      "id": "2024lseu.confE..15K",
+      "title": "LSST@Europe6 participants",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024lseu.confE..15K",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Knapen, Johan H.",
+        "Iglesias-Navarro, Patricia"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024lseu.confE..15K"
       ]
     },
     {
@@ -2513,66 +2573,22 @@
       ]
     },
     {
-      "id": "2024eas..conf..671B",
-      "title": "A Combined Analysis of Jeans Kinematics and Milli-Second Pulsar Timing Effects: Probing the Mass Contents of Omega Centauri",
-      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..671B",
-      "included": false,
-      "reason": "No explicit qualifying method found in title/abstract",
-      "matches": [
-        {
-          "id": "jorge-camalich",
-          "position": 3
-        }
-      ],
-      "firstAuthors": [
-        "Bañares Hernández, Andrés",
-        "Calore, Francesca",
-        "Martín Camalich, Jorge"
-      ],
-      "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..671B"
-      ]
-    },
-    {
-      "id": "2024eas..conf.1858B",
-      "title": "Confronting Dark Matter Models with Nearby Dwarf Irregular Galaxies",
-      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1858B",
-      "included": false,
-      "reason": "No explicit qualifying method found in title/abstract",
-      "matches": [
-        {
-          "id": "jorge-camalich",
-          "position": 2
-        }
-      ],
-      "firstAuthors": [
-        "Bañares Hernández, Andrés",
-        "Martín Camalich, Jorge",
-        "Castillo, Andrés"
-      ],
-      "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1858B"
-      ]
-    },
-    {
-      "id": "2024cosp...45.2023M",
-      "title": "Enhancing the interpretation of spectropolarimetric observations using machine learning",
-      "url": "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2023M",
+      "id": "2024cosp...45.2022D",
+      "title": "Advances in machine learning applications on photospheric and chromospheric studies",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2022D",
       "included": true,
       "reason": "Explicit method terms in title/abstract",
       "matches": [
         {
           "id": "carlos-diaz-baso",
-          "position": 3
+          "position": 1
         }
       ],
       "firstAuthors": [
-        "Milic, Ivan",
-        "Gafeira, Ricardo",
         "Diaz Baso, Carlos Jose"
       ],
       "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2023M"
+        "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2022D"
       ]
     },
     {
@@ -2594,51 +2610,6 @@
       ],
       "sources": [
         "https://ui.adsabs.harvard.edu/abs/2024DCDSS..17.2436A"
-      ]
-    },
-    {
-      "id": "2024eas..conf..225I",
-      "title": "Inferring stellar population properties from HST+JWST photometry using Normalizing Flows",
-      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..225I",
-      "included": true,
-      "reason": "Explicit method terms in title/abstract",
-      "matches": [
-        {
-          "id": "patricia-iglesias-navarro",
-          "position": 1
-        },
-        {
-          "id": "marc-huertas-company",
-          "position": 2
-        }
-      ],
-      "firstAuthors": [
-        "Iglesias Navarro, Patricia",
-        "Huertas Company, Marc"
-      ],
-      "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..225I"
-      ]
-    },
-    {
-      "id": "2024eas..conf.1444S",
-      "title": "Ellerman Bomb detection in SST and SDO observations with Deep Learning",
-      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1444S",
-      "included": true,
-      "reason": "Explicit method terms in title/abstract",
-      "matches": [
-        {
-          "id": "carlos-diaz-baso",
-          "position": 3
-        }
-      ],
-      "firstAuthors": [
-        "Soler Poquet, Ignasi Josep",
-        "Rouppe van der Voort, Luc",
-        "Díaz Baso, Carlos José"
-      ],
-      "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1444S"
       ]
     },
     {
@@ -2684,43 +2655,90 @@
       ]
     },
     {
-      "id": "2024cosp...45.2022D",
-      "title": "Advances in machine learning applications on photospheric and chromospheric studies",
-      "url": "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2022D",
+      "id": "2024eas..conf..225I",
+      "title": "Inferring stellar population properties from HST+JWST photometry using Normalizing Flows",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..225I",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        },
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Iglesias Navarro, Patricia",
+        "Huertas Company, Marc"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..225I"
+      ]
+    },
+    {
+      "id": "2024eas..conf.1858B",
+      "title": "Confronting Dark Matter Models with Nearby Dwarf Irregular Galaxies",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1858B",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 2
+        }
+      ],
+      "firstAuthors": [
+        "Bañares Hernández, Andrés",
+        "Martín Camalich, Jorge",
+        "Castillo, Andrés"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1858B"
+      ]
+    },
+    {
+      "id": "2024eas..conf.1444S",
+      "title": "Ellerman Bomb detection in SST and SDO observations with Deep Learning",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1444S",
       "included": true,
       "reason": "Explicit method terms in title/abstract",
       "matches": [
         {
           "id": "carlos-diaz-baso",
-          "position": 1
-        }
-      ],
-      "firstAuthors": [
-        "Diaz Baso, Carlos Jose"
-      ],
-      "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2022D"
-      ]
-    },
-    {
-      "id": "2024eas..conf.1948A",
-      "title": "Constraining in-situ vs. ex-situ stellar mass in nearby galaxies with simulation-based inference",
-      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1948A",
-      "included": true,
-      "reason": "Explicit method terms in title/abstract",
-      "matches": [
-        {
-          "id": "marc-huertas-company",
           "position": 3
         }
       ],
       "firstAuthors": [
-        "Angeloudi, Eirini",
-        "Falcón-Barroso, Jesús",
-        "Huertas-Company, Marc"
+        "Soler Poquet, Ignasi Josep",
+        "Rouppe van der Voort, Luc",
+        "Díaz Baso, Carlos José"
       ],
       "sources": [
-        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1948A"
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1444S"
+      ]
+    },
+    {
+      "id": "2024cosp...45.2023M",
+      "title": "Enhancing the interpretation of spectropolarimetric observations using machine learning",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2023M",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "carlos-diaz-baso",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Milic, Ivan",
+        "Gafeira, Ricardo",
+        "Diaz Baso, Carlos Jose"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024cosp...45.2023M"
       ]
     },
     {
@@ -2745,6 +2763,27 @@
       ]
     },
     {
+      "id": "2024eas..conf.1948A",
+      "title": "Constraining in-situ vs. ex-situ stellar mass in nearby galaxies with simulation-based inference",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1948A",
+      "included": true,
+      "reason": "Explicit method terms in title/abstract",
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Angeloudi, Eirini",
+        "Falcón-Barroso, Jesús",
+        "Huertas-Company, Marc"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf.1948A"
+      ]
+    },
+    {
       "id": "2024eas..conf..226I",
       "title": "Deriving Star Formation Histories of Galaxies from Spectra with Simulation-based Inference",
       "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..226I",
@@ -2766,6 +2805,27 @@
       ],
       "sources": [
         "https://ui.adsabs.harvard.edu/abs/2024eas..conf..226I"
+      ]
+    },
+    {
+      "id": "2024eas..conf..671B",
+      "title": "A Combined Analysis of Jeans Kinematics and Milli-Second Pulsar Timing Effects: Probing the Mass Contents of Omega Centauri",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024eas..conf..671B",
+      "included": false,
+      "reason": "No explicit qualifying method found in title/abstract",
+      "matches": [
+        {
+          "id": "jorge-camalich",
+          "position": 3
+        }
+      ],
+      "firstAuthors": [
+        "Bañares Hernández, Andrés",
+        "Calore, Francesca",
+        "Martín Camalich, Jorge"
+      ],
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024eas..conf..671B"
       ]
     },
     {

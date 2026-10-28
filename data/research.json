@@ -1,7 +1,36 @@
 {
   "since": "2024-01-01",
-  "lastChecked": "2026-10-14",
+  "lastChecked": "2026-10-28",
   "papers": [
+    {
+      "id": "2610.32758",
+      "title": "ARENA: Active Region attENtion Aggregation for interpretable solar flare prediction",
+      "url": "https://arxiv.org/abs/2610.32758",
+      "doi": "10.48550/arXiv.2610.32758",
+      "journal": "arXiv e-prints",
+      "firstPosted": "2026-10-23",
+      "year": 2026,
+      "firstAuthors": [
+        "Bauer, Luis",
+        "Kofler, Annalena",
+        "Asensio Ramos, Andrés"
+      ],
+      "authorCount": 6,
+      "matches": [
+        {
+          "id": "andres-asensio-ramos",
+          "position": 3
+        }
+      ],
+      "tags": [
+        "Neural networks"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://arxiv.org/abs/2610.32758"
+      ]
+    },
     {
       "id": "2609.01400",
       "title": "Semiresolved Stellar Populations as Distance Indicators",
@@ -2135,6 +2164,35 @@
       "sources": [
         "https://arxiv.org/abs/2302.07277",
         "https://doi.org/10.3847/1538-4357/ad05bb"
+      ]
+    },
+    {
+      "id": "2024lseu.confE..33I",
+      "title": "Inferring stellar population properties with simulation-based inference in the LSST era.",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024lseu.confE..33I",
+      "doi": "10.5281/zenodo.13861492",
+      "journal": "LSST@Europe6",
+      "firstPosted": "",
+      "year": 2024,
+      "firstAuthors": [
+        "Iglesias-Navarro, Patricia"
+      ],
+      "authorCount": 1,
+      "matches": [
+        {
+          "id": "patricia-iglesias-navarro",
+          "position": 1
+        }
+      ],
+      "tags": [
+        "Machine learning",
+        "Simulation-based inference",
+        "Bayesian inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://ui.adsabs.harvard.edu/abs/2024lseu.confE..33I"
       ]
     },
     {
