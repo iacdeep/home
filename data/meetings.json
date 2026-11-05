@@ -11,6 +11,24 @@
       "date": "2026-10-01",
       "title": "An overview of AI for solar physics at the IAC",
       "speaker": "Andrés Asensio Ramos"
+    },
+    {
+      "id": "2026-ai-gamma-rays",
+      "date": "2026-11-05",
+      "title": "AI for gamma rays",
+      "speaker": "Christopher Eckner"
+    },
+    {
+      "id": "2026-ai-cosmology-neuroscience",
+      "date": "2026-11-19",
+      "title": "AI for cosmology and neuroscience",
+      "speaker": "Francisco Kitaura"
+    },
+    {
+      "id": "2026-ai-stellar-physics",
+      "date": "2026-12-03",
+      "title": "AI for stellar physics",
+      "speaker": "Guillaume Thomas"
     }
   ],
   "defaultTime": "12:00 pm WEST",
