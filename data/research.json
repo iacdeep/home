@@ -1,6 +1,6 @@
 {
   "since": "2024-01-01",
-  "lastChecked": "2026-10-28",
+  "lastChecked": "2026-11-11",
   "papers": [
     {
       "id": "2610.32758",
@@ -187,12 +187,12 @@
       "id": "2605.11980",
       "title": "Marginal multi-object multi-frame blind deconvolution",
       "url": "https://arxiv.org/abs/2605.11980",
-      "doi": "10.48550/arXiv.2605.11980",
-      "journal": "arXiv e-prints",
+      "doi": "10.1007/s11207-026-02752-9",
+      "journal": "Solar Physics",
       "firstPosted": "2026-05-12",
       "year": 2026,
       "firstAuthors": [
-        "Asensio Ramos, A."
+        "Asensio Ramos, Andrés"
       ],
       "authorCount": 1,
       "matches": [
@@ -247,8 +247,8 @@
       "id": "2605.03818",
       "title": "IRIS NUV diagnostics for Ellerman bombs: spectral properties, thermodynamics, and formation height",
       "url": "https://arxiv.org/abs/2605.03818",
-      "doi": "10.48550/arXiv.2605.03818",
-      "journal": "arXiv e-prints",
+      "doi": "10.1051/0004-6361/202660774",
+      "journal": "Astronomy and Astrophysics",
       "firstPosted": "2026-05-05",
       "year": 2026,
       "firstAuthors": [
