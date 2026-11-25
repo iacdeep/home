@@ -1,7 +1,66 @@
 {
   "since": "2024-01-01",
-  "lastChecked": "2026-11-11",
+  "lastChecked": "2026-11-25",
   "papers": [
+    {
+      "id": "2611.30416",
+      "title": "Luminosity function of millisecond pulsars in globular clusters from their gamma-ray emission",
+      "url": "https://arxiv.org/abs/2611.30416",
+      "doi": "",
+      "journal": "",
+      "firstPosted": "2026-11-23",
+      "year": 2026,
+      "firstAuthors": [
+        "Francesca Calore",
+        "Christopher Eckner",
+        "Silvia Manconi"
+      ],
+      "authorCount": 5,
+      "matches": [
+        {
+          "id": "christopher-eckner",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Simulation-based inference",
+        "Bayesian inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://arxiv.org/abs/2611.30416"
+      ]
+    },
+    {
+      "id": "2611.16109",
+      "title": "Euclid: Data Release 1 (DR1) -- Bayesian 3D shape inference of star-forming galaxy populations",
+      "url": "https://arxiv.org/abs/2611.16109",
+      "doi": "10.48550/arXiv.2611.16109",
+      "journal": "arXiv e-prints",
+      "firstPosted": "2026-11-11",
+      "year": 2026,
+      "firstAuthors": [
+        "Dunn, M.",
+        "Huertas-Company, M.",
+        "Knapen, J. H."
+      ],
+      "authorCount": 153,
+      "matches": [
+        {
+          "id": "marc-huertas-company",
+          "position": 2
+        }
+      ],
+      "tags": [
+        "Bayesian inference"
+      ],
+      "summary": "",
+      "selection": "automatic",
+      "sources": [
+        "https://arxiv.org/abs/2611.16109"
+      ]
+    },
     {
       "id": "2610.32758",
       "title": "ARENA: Active Region attENtion Aggregation for interpretable solar flare prediction",
